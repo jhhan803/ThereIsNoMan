@@ -1,0 +1,1015 @@
+﻿Log file open, 06/15/19 20:49:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: UP615
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.215771
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.354s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epicusername="doeding" -epicuserid=4f26c9e30f4f4e31b9417f9a7c934132 -epiclocale=ko-KR
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.005s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.06.15-11.49.03:746][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.15-11.49.03:746][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.15-11.49.03:770][  0]LogHAL: Display: Platform has ~ 16 GB [16798294016 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.15-11.49.03:770][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.06.15-11.49.03:770][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.15-11.49.03:771][  0]LogInit: Computer: DESKTOP-QAK1CT0
+[2019.06.15-11.49.03:771][  0]LogInit: User: jhhan
+[2019.06.15-11.49.03:771][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.06.15-11.49.03:771][  0]LogInit: High frequency timer resolution =2.835941 MHz
+[2019.06.15-11.49.03:771][  0]LogMemory: Memory total: Physical=15.6GB (16GB approx)
+[2019.06.15-11.49.03:772][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.15-11.49.03:772][  0]LogMemory: Process Physical Memory: 104.28 MB used, 104.28 MB peak
+[2019.06.15-11.49.03:772][  0]LogMemory: Process Virtual Memory: 98.80 MB used, 98.80 MB peak
+[2019.06.15-11.49.03:772][  0]LogMemory: Physical Memory: 7376.58 MB used,  8643.52 MB free, 16020.10 MB total
+[2019.06.15-11.49.03:772][  0]LogMemory: Virtual Memory: 4631.10 MB used,  8643.52 MB free, 134217728.00 MB total
+[2019.06.15-11.49.03:827][  0]LogInit: Using OS detected language (ko-KR).
+[2019.06.15-11.49.03:827][  0]LogInit: Using OS detected locale (ko-KR).
+[2019.06.15-11.49.03:829][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2019.06.15-11.49.04:353][  0]LogStreaming: Display: Took  0.527s to InitEngineTextLocalization.
+[2019.06.15-11.49.04:354][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.15-11.49.04:431][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.15-11.49.04:431][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.15-11.49.05:251][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.15-11.49.05:251][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.15-11.49.05:357][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940MX' (Feature Level 11_0)
+[2019.06.15-11.49.05:357][  0]LogD3D11RHI:       2010/0/8010 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.06.15-11.49.05:371][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2019.06.15-11.49.05:371][  0]LogD3D11RHI:       128/0/8010 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.06.15-11.49.05:374][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.15-11.49.05:374][  0]LogD3D11RHI:       0/0/8010 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.15-11.49.05:374][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.15-11.49.05:408][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.15-11.49.05:408][  0]LogD3D11RHI:     GPU DeviceId: 0x134d (for the marketing name, search the web for "GPU Device Id")
+[2019.06.15-11.49.05:408][  0]LogWindows: EnumDisplayDevices:
+[2019.06.15-11.49.05:409][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2019.06.15-11.49.05:410][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.06.15-11.49.05:412][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.06.15-11.49.05:413][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.06.15-11.49.05:413][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940MX
+[2019.06.15-11.49.05:413][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.06.15-11.49.05:413][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.06.15-11.49.05:413][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2019.06.15-11.49.05:464][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.15-11.49.05:482][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.06.15-11.49.05:484][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (../../../../../../Users/jhhan/OneDrive/바탕 화면/Sample/Intermediate/Shaders/WorkingDirectory/17912/).
+[2019.06.15-11.49.05:485][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jhhan/AppData/Local/Temp/UnrealShaderWorkingDir/2DD70B2144C4C51676EEADA0083F1FB9/'.
+[2019.06.15-11.49.06:124][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.15-11.49.06:148][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.15-11.49.06:169][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.15-11.49.06:192][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.15-11.49.06:214][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.15-11.49.06:232][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.15-11.49.06:249][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.15-11.49.06:268][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.15-11.49.06:278][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.15-11.49.06:382][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-11.49.06:382][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-11.49.06:382][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-11.49.06:382][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-11.49.06:382][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-11.49.06:382][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-11.49.06:382][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-11.49.06:382][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-11.49.06:382][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-11.49.06:382][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-11.49.06:382][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-11.49.06:382][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-11.49.06:382][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-11.49.06:382][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-11.49.06:382][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-11.49.06:382][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-11.49.06:382][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-11.49.06:382][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-11.49.06:385][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.15-11.49.06:453][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.15-11.49.06:453][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.15-11.49.06:482][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.15-11.49.06:482][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.15-11.49.06:499][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.15-11.49.06:520][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.15-11.49.06:537][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.15-11.49.06:556][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.15-11.49.06:570][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.15-11.49.06:570][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.15-11.49.06:690][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.15-11.49.06:690][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.15-11.49.06:690][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.15-11.49.08:069][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.15-11.49.08:138][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/jhhan/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.06.15-11.49.08:138][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jhhan/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.06.15-11.49.08:139][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/jhhan/OneDrive/바탕 화면/Sample/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.15-11.49.08:139][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.15-11.49.08:139][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/jhhan/OneDrive/바탕 화면/Sample/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.15-11.49.08:139][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.15-11.49.08:154][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.15-11.49.08:167][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jhhan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.15-11.49.08:167][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.15-11.49.08:167][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.15-11.49.08:187][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.15-11.49.08:188][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.15-11.49.08:189][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.15-11.49.08:289][  0]LogAssetRegistry: FAssetRegistry took 0.0271 seconds to start up
+[2019.06.15-11.49.08:897][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.15-11.49.08:981][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.15-11.49.08:989][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.15-11.49.08:989][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.15-11.49.08:989][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.15-11.49.08:989][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.15-11.49.09:129][  0]LogNetVersion: UP615 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3543384511)
+[2019.06.15-11.49.09:665][  0]ImportText (FloorScale3D): Missing closing parenthesis: (X=1.000000,Y=1.000000,Z=
+[2019.06.15-11.49.09:665][  0]LogObj: Error: LoadConfig (/Script/UnrealEd.Default__CascadeOptions): import failed for FloorScale3D in: (X=1.000000,Y=1.000000,Z=
+[2019.06.15-11.49.10:175][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.250726 seconds
+[2019.06.15-11.49.10:188][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.06.15-11.49.10:188][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.06.15-11.49.10:188][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.15-11.49.11:649][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.15-11.49.11:662][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.15-11.49.11:871][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.06.15-11.49.11:871][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.06.15-11.49.11:873][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.06.15-11.49.11:875][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.06.15-11.49.12:107][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.15-11.49.12:228][  0]LogOcInput: OculusInput pre-init called
+[2019.06.15-11.49.12:336][  0]LogEngine: Initializing Engine...
+[2019.06.15-11.49.12:337][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.15-11.49.12:340][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.15-11.49.12:340][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.15-11.49.12:340][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2019.06.15-11.49.12:340][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.15-11.49.12:749][  0]LogLinker: Warning: '/Game/Font/MyFont2' 파일을 찾을 수 없습니다.
+[2019.06.15-11.49.12:750][  0]LogLinker: Warning: '/Game/Font/MyFont2' 파일을 찾을 수 없습니다.
+[2019.06.15-11.49.12:750][  0]LogUObjectGlobals: Warning: 'Font /Game/Font/MyFont2.MyFont2' 오브젝트를 찾는 데 실패했습니다.
+[2019.06.15-11.49.12:806][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.15-11.49.12:838][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.15-11.49.12:869][  0]LogInit: XAudio2 using '스피커(Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.15-11.49.12:974][  0]LogInit: FAudioDevice initialized.
+[2019.06.15-11.49.12:974][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.15-11.49.13:072][  0]LogDerivedDataCache: Saved boot cache 0.10s 72MB C:/Users/jhhan/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.06.15-11.49.13:099][  0]LogInit: Texture streaming: Enabled
+[2019.06.15-11.49.13:149][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.15-11.49.13:190][  0]LogInit: Transaction tracking system initialized
+[2019.06.15-11.49.13:241][  0]BlueprintLog: New page: 에디터 로드
+[2019.06.15-11.49.13:389][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2019.06.15-11.49.14:198][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.15-11.49.14:198][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.15-11.49.14:198][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.15-11.49.14:198][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.15-11.49.14:198][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.15-11.49.14:199][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.15-11.49.14:199][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.15-11.49.14:461][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jhhan/OneDrive/바탕 화면/Sample/Content/' took 0.04s
+[2019.06.15-11.49.14:461][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.06.15-11.49.14:461][  0]Cmd: MAP LOAD FILE="../../../../../../Users/jhhan/OneDrive/바탕 화면/Sample/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.15-11.49.14:462][  0]LightingResults: New page: 라이팅 빌드
+[2019.06.15-11.49.14:469][  0]MapCheck: New page: 맵 체크
+[2019.06.15-11.49.14:469][  0]LightingResults: New page: 라이팅 빌드
+[2019.06.15-11.49.15:129][  0]LogBlueprint: Warning: [Compiler Enemy_Ani] Idle/Run -> Attack  will never be taken, please connect something to  Can Enter Transition
+[2019.06.15-11.49.15:129][  0]LogBlueprint: Warning: [Compiler Enemy_Ani] Attack -> Idle/Run  will never be taken, please connect something to  Can Enter Transition
+[2019.06.15-11.49.15:307][  0]LogBlueprint: Warning: [Compiler Enemy_Ani] [0015.46] Enemy_Ani 컴파일에 성공했습니다만, 경고가 2 회 있습니다. [소요시간 227 ms] (/Game/Enemy/Enemy_Ani.Enemy_Ani)
+[2019.06.15-11.49.17:324][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.15-11.49.17:459][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.15-11.49.17:502][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.15-11.49.17:970][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 467.274ms.
+[2019.06.15-11.49.17:971][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 3.510
+[2019.06.15-11.49.18:144][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.15-11.49.18:160][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.15-11.49.18:176][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.15-11.49.18:189][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.15-11.49.18:204][  0]LogCollectionManager: Loaded 0 collections in 0.004357 seconds
+[2019.06.15-11.49.18:254][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jhhan/OneDrive/바탕 화면/Sample/Saved/Collections/' took 0.01s
+[2019.06.15-11.49.18:254][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jhhan/OneDrive/바탕 화면/Sample/Content/Developers/jhhan/Collections/' took 0.01s
+[2019.06.15-11.49.18:254][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jhhan/OneDrive/바탕 화면/Sample/Content/Collections/' took 0.01s
+[2019.06.15-11.49.18:254][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.06.15-11.49.18:275][  0]LogContentBrowser: Native class hierarchy populated in 0.0208 seconds. Added 2572 classes and 603 folders.
+[2019.06.15-11.49.18:295][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0052 seconds. Added 0 classes and 0 folders.
+[2019.06.15-11.49.18:468][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0050 seconds. Added 0 classes and 0 folders.
+[2019.06.15-11.49.18:485][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0046 seconds. Added 1 classes and 2 folders.
+[2019.06.15-11.49.18:607][  0]LogSlate: Took 0.000575 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.15-11.49.18:612][  0]LogSlate: Took 0.003873 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.06.15-11.49.18:617][  0]LogSlate: Took 0.004018 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2019.06.15-11.49.18:617][  0]LogSlate: Took 0.000419 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.15-11.49.18:626][  0]LogSlate: Took 0.000673 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.15-11.49.18:781][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 9 NumSamples 1 (Frame:1).
+[2019.06.15-11.49.18:881][  0]LogSlate: Took 0.001828 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.15-11.49.19:210][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0041 seconds. Added 0 classes and 0 folders.
+[2019.06.15-11.49.19:210][  0]LogLoad: (Engine Initialization) Total time: 19.36 seconds
+[2019.06.15-11.49.19:210][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.15-11.49.19:236][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2019.06.15-11.49.19:285][  0]LogContentStreaming: Texture pool size now 600 MB
+[2019.06.15-11.49.19:677][  4]LogAssetRegistry: Asset discovery search completed in 11.4105 seconds
+[2019.06.15-11.49.19:682][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.15-11.49.19:682][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000131 seconds (updated 0 objects)
+[2019.06.15-11.52.28:883][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-11.57.49:377][511]LogSlate: Took 0.000321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.15-11.57.50:495][570]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2019.06.15-11.57.51:077][570]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0039 seconds. Added 116 classes and 0 folders.
+[2019.06.15-11.57.51:870][570]LogSlate: Took 0.000458 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.15-11.57.51:942][571]LogSlate: Took 0.000612 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.15-11.58.30:429][115]LogBlueprint: Warning: [Compiler AI_StudentANPC] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 구하기  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-11.58.30:429][115]LogBlueprint: Warning: [Compiler AI_StudentANPC] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 설정  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-11.58.30:430][115]LogBlueprint: Error: [Compiler AI_StudentANPC] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-11.58.30:430][115]LogBlueprint: Error: [Compiler AI_StudentANPC] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-11.58.30:432][115]LogBlueprint: Warning: [Compiler AI_StudentANPC] [0570.58] AI_StudentANPC 컴파일에 실패했습니다. 치명적 오류 2 회, 경고 2 회, [소요시간 6 ms] (/Game/NPC/AI_StudentANPC.AI_StudentANPC)
+[2019.06.15-11.58.30:489][115]LogBlueprint: Warning: [Compiler Heli] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 설정  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-11.58.30:489][115]LogBlueprint: Error: [Compiler Heli] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-11.58.30:490][115]LogBlueprint: Warning: [Compiler Heli] [0570.64] Heli 컴파일에 실패했습니다. 치명적 오류 1 회, 경고 1 회, [소요시간 3 ms] (/Game/Map/Heli.Heli)
+[2019.06.15-11.58.30:508][115]LogBlueprint: Warning: [Compiler AI_ANpc] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 구하기  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-11.58.30:508][115]LogBlueprint: Warning: [Compiler AI_ANpc] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 설정  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-11.58.30:509][115]LogBlueprint: Warning: [Compiler AI_ANpc] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 설정  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-11.58.30:510][115]LogBlueprint: Error: [Compiler AI_ANpc] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-11.58.30:510][115]LogBlueprint: Error: [Compiler AI_ANpc] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-11.58.30:510][115]LogBlueprint: Error: [Compiler AI_ANpc] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-11.58.30:512][115]LogBlueprint: Warning: [Compiler AI_ANpc] [0570.66] AI_ANpc 컴파일에 실패했습니다. 치명적 오류 3 회, 경고 3 회, [소요시간 7 ms] (/Game/NPC/AI_ANpc.AI_ANpc)
+[2019.06.15-11.58.30:527][115]LogBlueprint: Warning: [Compiler Rope] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 구하기  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-11.58.30:527][115]LogBlueprint: Warning: [Compiler Rope] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 설정  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-11.58.30:528][115]LogBlueprint: Error: [Compiler Rope] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-11.58.30:528][115]LogBlueprint: Error: [Compiler Rope] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-11.58.30:528][115]LogBlueprint: Warning: [Compiler Rope] [0570.68] Rope 컴파일에 실패했습니다. 치명적 오류 2 회, 경고 2 회, [소요시간 5 ms] (/Game/Rope.Rope)
+[2019.06.15-11.58.30:632][115]LogBlueprint: Warning: [Compiler PauseUI] 'Player_Character_C' 에서 "Audio" 라는 이름의 변수를 찾을 수 없습니다.
+ Audio 구하기  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-11.58.30:633][115]LogBlueprint: Warning: [Compiler PauseUI] 'Player_Character_C' 에서 "HPReference" 라는 이름의 변수를 찾을 수 없습니다.
+ HPReference 구하기  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-11.58.30:634][115]LogBlueprint: Error: [Compiler PauseUI] Audio  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-11.58.30:634][115]LogBlueprint: Error: [Compiler PauseUI] HPReference  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-11.58.30:635][115]LogBlueprint: Warning: [Compiler PauseUI] [0570.79] PauseUI 컴파일에 실패했습니다. 치명적 오류 2 회, 경고 2 회, [소요시간 7 ms] (/Game/UI/PauseUI.PauseUI)
+[2019.06.15-11.58.30:699][115]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 설정  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-11.58.30:699][115]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 구하기  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-11.58.30:700][115]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 설정  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-11.58.30:700][115]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 설정  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-11.58.30:701][115]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 설정  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-11.58.30:701][115]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 설정  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-11.58.30:701][115]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 설정  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-11.58.30:702][115]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "HpReference" 라는 이름의 변수를 찾을 수 없습니다.
+ HpReference 구하기  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-11.58.30:703][115]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 구하기  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-11.58.30:703][115]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 설정  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-11.58.30:705][115]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-11.58.30:705][115]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-11.58.30:706][115]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-11.58.30:706][115]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-11.58.30:706][115]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-11.58.30:706][115]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-11.58.30:706][115]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-11.58.30:706][115]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-11.58.30:706][115]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-11.58.30:706][115]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Hp Reference  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-11.58.30:710][115]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] [0570.86] PersistentLevel.SchoolWorld 컴파일에 실패했습니다. 치명적 오류 10 회, 경고 10 회, [소요시간 40 ms] (/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld)
+[2019.06.15-11.58.31:013][115]LogAIModule: Creating AISystem for world SchoolWorld
+[2019.06.15-11.58.31:319][118]LogMaterial: Warning: Material /Game/StarterContent/Materials/M_Metal_Chrome.M_Metal_Chrome needed to have new flag set bUsedWithSkeletalMesh !
+[2019.06.15-11.58.31:321][118]LogMaterial: Display: Missing cached shader map for material M_Metal_Chrome, compiling. 
+[2019.06.15-11.58.31:431][118]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.06.15-11.58.31:431][118]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.06.15-11.58.31:432][118]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.06.15-11.58.58:072][351]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.06.15-11.59.18:615][289]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.06.15-11.59.38:928][211]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.15-11.59.48:241][645]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.06.15-11.59.50:364][645]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.15-12.00.06:490][333]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QuestReference" 라는 이름의 변수를 찾을 수 없습니다.
+ QuestReference 설정  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.00.06:490][333]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QuestReference" 라는 이름의 변수를 찾을 수 없습니다.
+ QuestReference 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.00.06:490][333]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QuestState" 라는 이름의 변수를 찾을 수 없습니다.
+ QuestState 설정  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.00.06:490][333]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QuestState" 라는 이름의 변수를 찾을 수 없습니다.
+ QuestState 설정  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.00.06:490][333]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QuestState" 라는 이름의 변수를 찾을 수 없습니다.
+ QuestState 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.00.06:492][333]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest Reference  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.00.06:492][333]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest State  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.00.06:492][333]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest State  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.00.06:492][333]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest State  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.00.06:492][333]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest Reference  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.00.06:493][333]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] [0666.65] PersistentLevel.SchoolWorld 컴파일에 실패했습니다. 치명적 오류 5 회, 경고 5 회, [소요시간 19 ms] (/Game/ThirdPersonBP/Maps/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld)
+[2019.06.15-12.00.06:660][333]LogMetaData: Removing '/Game/ThirdPersonBP/Maps/SchoolWorld.SchoolWorld_C' ref from Metadata '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2019.06.15-12.00.06:660][333]LogMetaData: Removing '/Game/ThirdPersonBP/Maps/SchoolWorld.SKEL_SchoolWorld_C' ref from Metadata '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2019.06.15-12.00.06:706][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/SchoolWorld_BuiltData" FILE="../../../../../../Users/jhhan/OneDrive/바탕 화면/Sample/Content/ThirdPersonBP/Maps/SchoolWorld_BuiltData.uasset" SILENT=true
+[2019.06.15-12.00.07:082][333]LogSavePackage: Moving '../../../../../../Users/jhhan/OneDrive/바탕 화면/Sample/Saved/SchoolWorld_BuiltDataCEFFE2CC46224787AFC3059A3B577AD6.tmp' to '../../../../../../Users/jhhan/OneDrive/바탕 화면/Sample/Content/ThirdPersonBP/Maps/SchoolWorld_BuiltData.uasset'
+[2019.06.15-12.00.07:496][333]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QuestReference" 라는 이름의 변수를 찾을 수 없습니다.
+ QuestReference 설정  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.00.07:496][333]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QuestReference" 라는 이름의 변수를 찾을 수 없습니다.
+ QuestReference 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.00.07:496][333]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QuestState" 라는 이름의 변수를 찾을 수 없습니다.
+ QuestState 설정  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.00.07:496][333]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QuestState" 라는 이름의 변수를 찾을 수 없습니다.
+ QuestState 설정  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.00.07:496][333]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QuestState" 라는 이름의 변수를 찾을 수 없습니다.
+ QuestState 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.00.07:498][333]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest Reference  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.00.07:499][333]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest State  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.00.07:499][333]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest State  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.00.07:499][333]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest State  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.00.07:499][333]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest Reference  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.00.07:500][333]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] [0667.65] PersistentLevel.SchoolWorld 컴파일에 실패했습니다. 치명적 오류 5 회, 경고 5 회, [소요시간 29 ms] (/Game/ThirdPersonBP/Maps/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld)
+[2019.06.15-12.00.08:386][333]LogSavePackage: Moving '../../../../../../Users/jhhan/OneDrive/바탕 화면/Sample/Saved/SchoolWorldA057C9DC4A5BAD4A602D4FA2D4E83DE7.tmp' to '../../../../../../Users/jhhan/OneDrive/바탕 화면/Sample/Content/ThirdPersonBP/Maps/SchoolWorld.umap'
+[2019.06.15-12.00.08:486][333]LogFileHelpers: Saving map 'SchoolWorld' took 1.390
+[2019.06.15-12.00.46:102][935]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1_Ground_Plane001)
+[2019.06.15-12.00.49:108][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-12.01.20:493][503]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QuestReference" 라는 이름의 변수를 찾을 수 없습니다.
+ QuestReference 설정  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.01.20:493][503]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QuestReference" 라는 이름의 변수를 찾을 수 없습니다.
+ QuestReference 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.01.20:493][503]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QuestState" 라는 이름의 변수를 찾을 수 없습니다.
+ QuestState 설정  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.01.20:493][503]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QuestState" 라는 이름의 변수를 찾을 수 없습니다.
+ QuestState 설정  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.01.20:494][503]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QuestState" 라는 이름의 변수를 찾을 수 없습니다.
+ QuestState 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.01.20:495][503]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest Reference  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.01.20:495][503]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest State  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.01.20:495][503]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest State  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.01.20:495][503]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest State  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.01.20:495][503]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest Reference  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.01.20:496][503]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] [0740.65] PersistentLevel.SchoolWorld 컴파일에 실패했습니다. 치명적 오류 5 회, 경고 5 회, [소요시간 14 ms] (/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld)
+[2019.06.15-12.01.20:666][503]LogMetaData: Removing '/Game/World/SchoolWorld.SchoolWorld_C' ref from Metadata '/Game/ThirdPersonBP/Maps/SchoolWorld.PackageMetaData'
+[2019.06.15-12.01.20:666][503]LogMetaData: Removing '/Game/World/SchoolWorld.SKEL_SchoolWorld_C' ref from Metadata '/Game/ThirdPersonBP/Maps/SchoolWorld.PackageMetaData'
+[2019.06.15-12.01.20:701][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/SchoolWorld_BuiltData" FILE="../../../../../../Users/jhhan/OneDrive/바탕 화면/Sample/Content/World/SchoolWorld_BuiltData.uasset" SILENT=true
+[2019.06.15-12.01.21:084][503]LogSavePackage: Moving '../../../../../../Users/jhhan/OneDrive/바탕 화면/Sample/Saved/SchoolWorld_BuiltDataB186CE944D0B84976E660F947EBCD024.tmp' to '../../../../../../Users/jhhan/OneDrive/바탕 화면/Sample/Content/World/SchoolWorld_BuiltData.uasset'
+[2019.06.15-12.01.21:413][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/SchoolWorld" FILE="../../../../../../Users/jhhan/OneDrive/바탕 화면/Sample/Content/World/SchoolWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.15-12.01.21:467][503]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QuestReference" 라는 이름의 변수를 찾을 수 없습니다.
+ QuestReference 설정  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.01.21:467][503]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QuestReference" 라는 이름의 변수를 찾을 수 없습니다.
+ QuestReference 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.01.21:467][503]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QuestState" 라는 이름의 변수를 찾을 수 없습니다.
+ QuestState 설정  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.01.21:467][503]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QuestState" 라는 이름의 변수를 찾을 수 없습니다.
+ QuestState 설정  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.01.21:467][503]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QuestState" 라는 이름의 변수를 찾을 수 없습니다.
+ QuestState 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.01.21:468][503]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest Reference  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.01.21:468][503]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest State  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.01.21:469][503]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest State  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.01.21:469][503]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest State  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.01.21:469][503]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest Reference  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.01.21:470][503]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] [0741.62] PersistentLevel.SchoolWorld 컴파일에 실패했습니다. 치명적 오류 5 회, 경고 5 회, [소요시간 14 ms] (/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld)
+[2019.06.15-12.01.22:168][503]LogSavePackage: Moving '../../../../../../Users/jhhan/OneDrive/바탕 화면/Sample/Saved/SchoolWorld85DB39824E529F4CC20CB48A220C841B.tmp' to '../../../../../../Users/jhhan/OneDrive/바탕 화면/Sample/Content/World/SchoolWorld.umap'
+[2019.06.15-12.01.22:368][503]LogFileHelpers: Saving map 'SchoolWorld' took 1.271
+[2019.06.15-12.02.18:278][ 28]LogBlueprint: Warning: [Compiler ] 붙여넣은  CustomEvent  노드가  Tick 이벤트  노드와 충돌되어 커스텀 이벤트로 대체했습니다!
+[2019.06.15-12.02.18:356][ 28]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'TargetPoint'"/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.HeliPoint"''
+[2019.06.15-12.02.18:364][ 28]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'TargetPoint'"/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.TargetPoint_8"''
+[2019.06.15-12.02.56:639][807]LogEditorTransaction: Undo 현 선택을 삭제합니다.
+[2019.06.15-12.02.57:205][808]LogEditorTransaction: Undo 현 선택을 삭제합니다.
+[2019.06.15-12.02.58:778][844]LogEditorTransaction: Undo 노드 이동
+[2019.06.15-12.03.00:268][869]LogEditorTransaction: Undo 클립보드 내용을 붙여넣습니다.
+[2019.06.15-12.03.03:162][997]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Event /Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld.EventGraph.K2Node_Event_1 or K2Node_CustomEvent /Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld.EventGraph.K2Node_Event_1
+[2019.06.15-12.03.03:162][997]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld.EventGraph.K2Node_CallFunction_109 or K2Node_CallFunction /Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld.EventGraph.K2Node_CallFunction_109
+[2019.06.15-12.03.03:166][997]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld.EventGraph.K2Node_VariableSet_2 or K2Node_VariableSet /Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld.EventGraph.K2Node_VariableSet_2
+[2019.06.15-12.03.03:175][997]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CreateWidget /Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld.EventGraph.K2Node_CreateWidget_4 or K2Node_CreateWidget /Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld.EventGraph.K2Node_CreateWidget_4
+[2019.06.15-12.03.03:200][997]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Literal /Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld.EventGraph.K2Node_Literal_1 or K2Node_Literal /Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld.EventGraph.K2Node_Literal_1
+[2019.06.15-12.03.03:211][997]LogBlueprint: Warning: [Compiler ] 붙여넣은  CustomEvent  노드가  Tick 이벤트  노드와 충돌되어 커스텀 이벤트로 대체했습니다!
+[2019.06.15-12.03.03:320][997]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'TargetPoint'"/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.HeliPoint"''
+[2019.06.15-12.03.03:335][997]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'TargetPoint'"/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.TargetPoint_8"''
+[2019.06.15-12.07.58:376][562]BlueprintLog: New page: SchoolWorld 컴파일
+[2019.06.15-12.07.58:578][562]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 설정  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.07.58:578][562]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 구하기  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.07.58:579][562]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 설정  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.07.58:579][562]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 설정  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.07.58:580][562]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 설정  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.07.58:580][562]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QName" 라는 이름의 변수를 찾을 수 없습니다.
+ QName 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.07.58:581][562]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QText" 라는 이름의 변수를 찾을 수 없습니다.
+ QText 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.07.58:581][562]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 설정  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.07.58:581][562]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QName" 라는 이름의 변수를 찾을 수 없습니다.
+ QName 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.07.58:581][562]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QText" 라는 이름의 변수를 찾을 수 없습니다.
+ QText 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.07.58:582][562]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QText" 라는 이름의 변수를 찾을 수 없습니다.
+ QText 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.07.58:582][562]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "HpReference" 라는 이름의 변수를 찾을 수 없습니다.
+ HpReference 구하기  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.07.58:583][562]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 구하기  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.07.58:583][562]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 설정  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.07.58:583][562]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 설정  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.07.58:584][562]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "PauseReference" 라는 이름의 변수를 찾을 수 없습니다.
+ PauseReference 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.07.58:584][562]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "PauseReference" 라는 이름의 변수를 찾을 수 없습니다.
+ PauseReference 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.07.58:586][562]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] 이 블루프린트(셀프)는 UserWidget 이지 않으므로, ' 타깃 ' 에 연결이 있어야 합니다.
+[2019.06.15-12.07.58:588][562]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Pause Reference  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.07.58:588][562]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Pause Reference  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.07.58:589][562]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.07.58:589][562]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.07.58:589][562]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.07.58:589][562]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.07.58:590][562]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.07.58:590][562]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.07.58:590][562]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.07.58:590][562]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.07.58:590][562]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.07.58:590][562]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Hp Reference  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.07.58:591][562]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] QText  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.07.58:591][562]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] QText  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.07.58:591][562]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] QName  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.07.58:591][562]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] QText  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.07.58:592][562]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] QName  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.07.58:592][562]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 미확인  노드가 유효한 레벨 액터를 레퍼런싱하고 있지 않습니다.
+[2019.06.15-12.07.58:883][562]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] [1139.03] PersistentLevel.SchoolWorld 컴파일에 실패했습니다. 치명적 오류 18 회, 경고 18 회, [소요시간 505 ms] (/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld)
+[2019.06.15-12.08.14:665][243]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Player/Chracter/Player_Character.Player_Character
+[2019.06.15-12.08.23:715][509]LogSlate: Took 0.006891 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.06.15-12.08.34:409][704]BlueprintLog: New page: Player_Character 컴파일
+[2019.06.15-12.08.37:735][772]BlueprintLog: New page: SchoolWorld 컴파일
+[2019.06.15-12.08.37:923][772]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 설정  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.37:923][772]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 구하기  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.37:923][772]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 설정  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.37:924][772]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 설정  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.37:925][772]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 설정  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.37:925][772]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QName" 라는 이름의 변수를 찾을 수 없습니다.
+ QName 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.37:925][772]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QText" 라는 이름의 변수를 찾을 수 없습니다.
+ QText 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.37:925][772]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 설정  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.37:926][772]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QName" 라는 이름의 변수를 찾을 수 없습니다.
+ QName 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.37:926][772]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QText" 라는 이름의 변수를 찾을 수 없습니다.
+ QText 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.37:926][772]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QText" 라는 이름의 변수를 찾을 수 없습니다.
+ QText 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.37:926][772]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "HpReference" 라는 이름의 변수를 찾을 수 없습니다.
+ HpReference 구하기  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.37:927][772]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 구하기  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.37:927][772]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 설정  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.37:927][772]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 설정  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.37:928][772]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "PauseReference" 라는 이름의 변수를 찾을 수 없습니다.
+ PauseReference 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.37:928][772]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "PauseReference" 라는 이름의 변수를 찾을 수 없습니다.
+ PauseReference 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.37:930][772]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] 이 블루프린트(셀프)는 UserWidget 이지 않으므로, ' 타깃 ' 에 연결이 있어야 합니다.
+[2019.06.15-12.08.37:932][772]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Pause Reference  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.37:932][772]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Pause Reference  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.37:932][772]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.37:932][772]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.37:932][772]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.37:932][772]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.37:932][772]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.37:932][772]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.37:933][772]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.37:933][772]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.37:933][772]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.37:933][772]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Hp Reference  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.37:934][772]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] QText  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.37:934][772]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] QText  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.37:935][772]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] QName  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.37:935][772]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] QText  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.37:935][772]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] QName  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.37:936][772]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 미확인  노드가 유효한 레벨 액터를 레퍼런싱하고 있지 않습니다.
+[2019.06.15-12.08.38:188][772]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] [1178.34] PersistentLevel.SchoolWorld 컴파일에 실패했습니다. 치명적 오류 18 회, 경고 18 회, [소요시간 452 ms] (/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld)
+[2019.06.15-12.08.40:079][839]BlueprintLog: New page: SchoolWorld 컴파일
+[2019.06.15-12.08.40:251][839]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 설정  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.40:252][839]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 구하기  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.40:252][839]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 설정  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.40:252][839]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 설정  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.40:253][839]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 설정  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.40:254][839]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QName" 라는 이름의 변수를 찾을 수 없습니다.
+ QName 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.40:254][839]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QText" 라는 이름의 변수를 찾을 수 없습니다.
+ QText 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.40:254][839]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 설정  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.40:254][839]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QName" 라는 이름의 변수를 찾을 수 없습니다.
+ QName 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.40:254][839]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QText" 라는 이름의 변수를 찾을 수 없습니다.
+ QText 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.40:255][839]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QText" 라는 이름의 변수를 찾을 수 없습니다.
+ QText 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.40:255][839]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "HpReference" 라는 이름의 변수를 찾을 수 없습니다.
+ HpReference 구하기  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.40:256][839]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 구하기  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.40:256][839]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 설정  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.40:256][839]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "Quest" 라는 이름의 변수를 찾을 수 없습니다.
+ Quest 설정  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.40:257][839]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "PauseReference" 라는 이름의 변수를 찾을 수 없습니다.
+ PauseReference 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.40:257][839]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "PauseReference" 라는 이름의 변수를 찾을 수 없습니다.
+ PauseReference 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.40:258][839]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] 이 블루프린트(셀프)는 UserWidget 이지 않으므로, ' 타깃 ' 에 연결이 있어야 합니다.
+[2019.06.15-12.08.40:260][839]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Pause Reference  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.40:260][839]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Pause Reference  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.40:260][839]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.40:260][839]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.40:260][839]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.40:261][839]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.40:261][839]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.40:261][839]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.40:261][839]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.40:261][839]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.40:261][839]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.40:261][839]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Hp Reference  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.40:262][839]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] QText  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.40:262][839]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] QText  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.40:262][839]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] QName  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.40:262][839]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] QText  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.40:262][839]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] QName  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.40:263][839]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 미확인  노드가 유효한 레벨 액터를 레퍼런싱하고 있지 않습니다.
+[2019.06.15-12.08.40:483][839]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] [1180.64] PersistentLevel.SchoolWorld 컴파일에 실패했습니다. 치명적 오류 18 회, 경고 18 회, [소요시간 403 ms] (/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld)
+[2019.06.15-12.08.52:905][320]BlueprintLog: New page: SchoolWorld 컴파일
+[2019.06.15-12.08.53:075][320]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QName" 라는 이름의 변수를 찾을 수 없습니다.
+ QName 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.53:075][320]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QText" 라는 이름의 변수를 찾을 수 없습니다.
+ QText 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.53:076][320]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QName" 라는 이름의 변수를 찾을 수 없습니다.
+ QName 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.53:076][320]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QText" 라는 이름의 변수를 찾을 수 없습니다.
+ QText 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.53:076][320]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "QText" 라는 이름의 변수를 찾을 수 없습니다.
+ QText 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.53:076][320]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "HpReference" 라는 이름의 변수를 찾을 수 없습니다.
+ HpReference 구하기  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.53:078][320]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "PauseReference" 라는 이름의 변수를 찾을 수 없습니다.
+ PauseReference 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.53:078][320]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "PauseReference" 라는 이름의 변수를 찾을 수 없습니다.
+ PauseReference 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.08.53:079][320]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] 이 블루프린트(셀프)는 UserWidget 이지 않으므로, ' 타깃 ' 에 연결이 있어야 합니다.
+[2019.06.15-12.08.53:081][320]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Pause Reference  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.53:081][320]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Pause Reference  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.53:081][320]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.53:081][320]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.53:081][320]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.53:081][320]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.53:081][320]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.53:081][320]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.53:081][320]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.53:082][320]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.53:082][320]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.53:082][320]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Hp Reference  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.53:082][320]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] QText  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.53:082][320]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] QText  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.53:083][320]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] QName  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.53:083][320]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] QText  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.53:083][320]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] QName  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.08.53:084][320]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 미확인  노드가 유효한 레벨 액터를 레퍼런싱하고 있지 않습니다.
+[2019.06.15-12.08.53:314][320]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] [1193.47] PersistentLevel.SchoolWorld 컴파일에 실패했습니다. 치명적 오류 18 회, 경고 9 회, [소요시간 409 ms] (/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld)
+[2019.06.15-12.09.39:729][242]LogSlate: Window '변수 유형 변경' being destroyed
+[2019.06.15-12.09.43:596][320]LogSlate: Window '변수 유형 변경' being destroyed
+[2019.06.15-12.09.48:297][472]LogSlate: Window '블루프린트에서 찾기' being destroyed
+[2019.06.15-12.09.48:313][472]LogSlate: Window '블루프린트에서 찾기' being destroyed
+[2019.06.15-12.09.59:377][817]LogSlate: Window '변수 유형 변경' being destroyed
+[2019.06.15-12.10.04:090][939]LogSlate: Window '변수 유형 변경' being destroyed
+[2019.06.15-12.10.23:409][684]LogSlate: Window '블루프린트에서 찾기' being destroyed
+[2019.06.15-12.10.23:421][684]LogSlate: Window '블루프린트에서 찾기' being destroyed
+[2019.06.15-12.10.26:126][785]BlueprintLog: New page: SchoolWorld 컴파일
+[2019.06.15-12.10.26:330][785]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "HpReference" 라는 이름의 변수를 찾을 수 없습니다.
+ HpReference 구하기  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.10.26:332][785]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "PauseReference" 라는 이름의 변수를 찾을 수 없습니다.
+ PauseReference 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.10.26:332][785]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'SchoolWorld_C' 에서 "PauseReference" 라는 이름의 변수를 찾을 수 없습니다.
+ PauseReference 구하기  에 대해 'SchoolWorld_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.10.26:333][785]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] 이 블루프린트(셀프)는 UserWidget 이지 않으므로, ' 타깃 ' 에 연결이 있어야 합니다.
+[2019.06.15-12.10.26:335][785]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Pause Reference  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.10.26:335][785]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Pause Reference  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.10.26:335][785]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.10.26:336][785]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.10.26:336][785]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.10.26:336][785]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.10.26:336][785]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.10.26:336][785]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.10.26:336][785]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.10.26:336][785]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.10.26:336][785]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.10.26:336][785]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Hp Reference  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.10.26:338][785]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 미확인  노드가 유효한 레벨 액터를 레퍼런싱하고 있지 않습니다.
+[2019.06.15-12.10.26:607][785]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] [1286.76] PersistentLevel.SchoolWorld 컴파일에 실패했습니다. 치명적 오류 13 회, 경고 4 회, [소요시간 480 ms] (/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld)
+[2019.06.15-12.10.44:349][466]BlueprintLog: New page: SchoolWorld 컴파일
+[2019.06.15-12.10.44:516][466]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "HpReference" 라는 이름의 변수를 찾을 수 없습니다.
+ HpReference 구하기  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.10.44:519][466]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] 이 블루프린트(셀프)는 UserWidget 이지 않으므로, ' 타깃 ' 에 연결이 있어야 합니다.
+[2019.06.15-12.10.44:521][466]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.10.44:521][466]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.10.44:521][466]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.10.44:521][466]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.10.44:521][466]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.10.44:521][466]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.10.44:521][466]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.10.44:521][466]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.10.44:521][466]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.10.44:521][466]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Hp Reference  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.10.44:523][466]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 미확인  노드가 유효한 레벨 액터를 레퍼런싱하고 있지 않습니다.
+[2019.06.15-12.10.44:759][466]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] [1304.91] PersistentLevel.SchoolWorld 컴파일에 실패했습니다. 치명적 오류 11 회, 경고 2 회, [소요시간 409 ms] (/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld)
+[2019.06.15-12.13.51:712][251]BlueprintLog: New page: SchoolWorld 컴파일
+[2019.06.15-12.13.51:873][251]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "HpReference" 라는 이름의 변수를 찾을 수 없습니다.
+ HpReference 구하기  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.13.51:875][251]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] 이 블루프린트(셀프)는 UserWidget 이지 않으므로, ' 타깃 ' 에 연결이 있어야 합니다.
+[2019.06.15-12.13.51:877][251]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.13.51:877][251]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.13.51:877][251]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.13.51:877][251]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.13.51:877][251]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.13.51:877][251]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.13.51:877][251]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.13.51:877][251]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.13.51:877][251]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Quest  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.13.51:877][251]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Hp Reference  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.13.51:878][251]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 미확인  노드가 유효한 레벨 액터를 레퍼런싱하고 있지 않습니다.
+[2019.06.15-12.13.52:097][251]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] [1492.25] PersistentLevel.SchoolWorld 컴파일에 실패했습니다. 치명적 오류 11 회, 경고 2 회, [소요시간 384 ms] (/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld)
+[2019.06.15-12.14.13:619][123]BlueprintLog: New page: Player_Character 컴파일
+[2019.06.15-12.14.17:362][224]BlueprintLog: New page: SchoolWorld 컴파일
+[2019.06.15-12.14.17:536][224]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "HpReference" 라는 이름의 변수를 찾을 수 없습니다.
+ HpReference 구하기  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.14.17:539][224]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] 이 블루프린트(셀프)는 UserWidget 이지 않으므로, ' 타깃 ' 에 연결이 있어야 합니다.
+[2019.06.15-12.14.17:541][224]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Hp Reference  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.14.17:542][224]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 미확인  노드가 유효한 레벨 액터를 레퍼런싱하고 있지 않습니다.
+[2019.06.15-12.14.17:789][224]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] [1517.94] PersistentLevel.SchoolWorld 컴파일에 실패했습니다. 치명적 오류 2 회, 경고 2 회, [소요시간 427 ms] (/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld)
+[2019.06.15-12.14.58:973][234]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 'Player_Character_C' 에서 "HpReference" 라는 이름의 변수를 찾을 수 없습니다.
+ HpReference 구하기  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.14.58:977][234]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Hp Reference  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.14.58:978][234]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 미확인  노드가 유효한 레벨 액터를 레퍼런싱하고 있지 않습니다.
+[2019.06.15-12.14.58:980][234]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] [1559.13] PersistentLevel.SchoolWorld 컴파일에 실패했습니다. 치명적 오류 1 회, 경고 2 회, [소요시간 92 ms] (/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld)
+[2019.06.15-12.14.59:668][234]LogSavePackage: Moving '../../../../../../Users/jhhan/OneDrive/바탕 화면/Sample/Saved/SchoolWorld_Auto13D3571FB4299CD164054D788F6751F75.tmp' to '../../../../../../Users/jhhan/OneDrive/바탕 화면/Sample/Saved/Autosaves/Game/World/SchoolWorld_Auto1.umap'
+[2019.06.15-12.14.59:679][234]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/World/SchoolWorld' took 0.951
+[2019.06.15-12.14.59:679][234]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.951
+[2019.06.15-12.14.59:685][234]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player/Chracter/Player_Character] ([1] browsable assets)...
+[2019.06.15-12.14.59:713][234]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Player/Chracter/Player_Character.Player_Character]
+[2019.06.15-12.14.59:713][234]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/Chracter/Player_Character]
+[2019.06.15-12.15.00:197][234]LogSavePackage: Moving '../../../../../../Users/jhhan/OneDrive/바탕 화면/Sample/Saved/Player_Character_Auto18216233C461FCAF90008F79813D8EEA9.tmp' to '../../../../../../Users/jhhan/OneDrive/바탕 화면/Sample/Saved/Autosaves/Game/Player/Chracter/Player_Character_Auto1.uasset'
+[2019.06.15-12.15.00:206][234]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Metal_Chrome] ([1] browsable assets)...
+[2019.06.15-12.15.00:252][234]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Metal_Chrome.M_Metal_Chrome]
+[2019.06.15-12.15.00:252][234]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Metal_Chrome]
+[2019.06.15-12.15.00:331][234]LogSavePackage: Moving '../../../../../../Users/jhhan/OneDrive/바탕 화면/Sample/Saved/M_Metal_Chrome_Auto135CF1FD445238A460AFDA28633807621.tmp' to '../../../../../../Users/jhhan/OneDrive/바탕 화면/Sample/Saved/Autosaves/Game/StarterContent/Materials/M_Metal_Chrome_Auto1.uasset'
+[2019.06.15-12.15.00:339][234]LogFileHelpers: Auto-saving content packages took 0.657
+[2019.06.15-12.15.02:820][271]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.15-12.15.27:421][285]BlueprintLog: New page: SchoolWorld 컴파일
+[2019.06.15-12.15.27:601][285]LogBlueprint: Error: [Compiler PersistentLevel.SchoolWorld] Hp Reference  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.15.27:603][285]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] 미확인  노드가 유효한 레벨 액터를 레퍼런싱하고 있지 않습니다.
+[2019.06.15-12.15.27:832][285]LogBlueprint: Warning: [Compiler PersistentLevel.SchoolWorld] [1587.98] PersistentLevel.SchoolWorld 컴파일에 실패했습니다. 치명적 오류 1 회, 경고 1 회, [소요시간 411 ms] (/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld)
+[2019.06.15-12.15.57:200][416]BlueprintLog: New page: Player_Character 컴파일
+[2019.06.15-12.15.59:582][464]BlueprintLog: New page: SchoolWorld 컴파일
+[2019.06.15-12.16.13:687][ 52]LogEditorViewport: Clicking on Actor (LMB): RotateTextRender_3_C (RotateTextRender_3)
+[2019.06.15-12.16.16:989][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-12.16.17:068][216]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.15-12.16.17:143][216]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel' has LevelScriptBlueprint '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld' with GeneratedClass '/Game/World/SchoolWorld.SchoolWorld_C' with ClassGeneratedBy '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld'
+[2019.06.15-12.16.17:143][216]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.15-12.16.21:861][216]LogSlate: Window '메시지' being destroyed
+[2019.06.15-12.16.31:893][696]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Rope.Rope
+[2019.06.15-12.16.34:804][778]LogRenderer: Reallocating scene render targets to support 988x540 Format 9 NumSamples 1 (Frame:1).
+[2019.06.15-12.16.45:833][217]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/PauseUI.PauseUI
+[2019.06.15-12.16.50:912][397]BlueprintLog: New page: PauseUI 컴파일
+[2019.06.15-12.16.51:006][397]LogBlueprint: Warning: [Compiler PauseUI] 'Player_Character_C' 에서 "Audio" 라는 이름의 변수를 찾을 수 없습니다.
+ Audio 구하기  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.16.51:007][397]LogBlueprint: Error: [Compiler PauseUI] Audio  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.16.51:075][397]LogBlueprint: Warning: [Compiler PauseUI] [1671.23] PauseUI 컴파일에 실패했습니다. 치명적 오류 1 회, 경고 1 회, [소요시간 162 ms] (/Game/UI/PauseUI.PauseUI)
+[2019.06.15-12.16.53:487][499]BlueprintLog: New page: PauseUI 컴파일
+[2019.06.15-12.16.53:523][499]LogBlueprint: Warning: [Compiler PauseUI] 'Player_Character_C' 에서 "Audio" 라는 이름의 변수를 찾을 수 없습니다.
+ Audio 구하기  에 대해 'Player_Character_C' 컴파일이 되었는지 확인하세요.
+[2019.06.15-12.16.53:524][499]LogBlueprint: Error: [Compiler PauseUI] Audio  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.16.53:594][499]LogBlueprint: Warning: [Compiler PauseUI] [1673.75] PauseUI 컴파일에 실패했습니다. 치명적 오류 1 회, 경고 1 회, [소요시간 105 ms] (/Game/UI/PauseUI.PauseUI)
+[2019.06.15-12.17.40:118][447]BlueprintLog: New page: PauseUI 컴파일
+[2019.06.15-12.17.40:153][447]LogBlueprint: Error: [Compiler PauseUI] Audio  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.17.40:224][447]LogBlueprint: Warning: [Compiler PauseUI] [1720.38] PauseUI 컴파일에 실패했습니다. 치명적 오류 1 회, 경고 0 회, [소요시간 106 ms] (/Game/UI/PauseUI.PauseUI)
+[2019.06.15-12.17.42:316][535]BlueprintLog: New page: PauseUI 컴파일
+[2019.06.15-12.17.42:354][535]LogBlueprint: Error: [Compiler PauseUI] Audio  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.06.15-12.17.42:422][535]LogBlueprint: Warning: [Compiler PauseUI] [1722.57] PauseUI 컴파일에 실패했습니다. 치명적 오류 1 회, 경고 0 회, [소요시간 105 ms] (/Game/UI/PauseUI.PauseUI)
+[2019.06.15-12.17.49:261][818]BlueprintLog: New page: Player_Character 컴파일
+[2019.06.15-12.17.51:673][878]BlueprintLog: New page: PauseUI 컴파일
+[2019.06.15-12.17.55:272][ 22]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.15-12.17.55:398][ 22]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel' has LevelScriptBlueprint '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld' with GeneratedClass '/Game/World/SchoolWorld.SchoolWorld_C' with ClassGeneratedBy '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld'
+[2019.06.15-12.17.55:399][ 22]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.15-12.17.58:949][ 22]LogSlate: Window '메시지' being destroyed
+[2019.06.15-12.18.06:761][347]BlueprintLog: New page: Rope 컴파일
+[2019.06.15-12.18.27:739][ 70]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.15-12.18.32:168][230]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Door/GymDoor.GymDoor
+[2019.06.15-12.18.48:195][727]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.15-12.18.48:403][727]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.06.15-12.18.48:587][727]LogSlate: Window 'GymDoor' being destroyed
+[2019.06.15-12.18.48:594][727]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.06.15-12.18.59:030][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-12.19.01:547][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-12.19.04:590][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-12.19.05:678][536]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.15-12.19.06:596][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1_Ground_Plane001)
+[2019.06.15-12.19.07:395][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-12.19.10:635][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (9_Gymnasium_Gym)
+[2019.06.15-12.19.12:422][866]LogEditorViewport: Clicking on Actor (LMB): SchoolDoor_C (SchoolDoor)
+[2019.06.15-12.20.00:218][470]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.15-12.20.03:328][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (9_Gymnasium_Gym)
+[2019.06.15-12.20.07:159][849]LogEditorViewport: Clicking on Actor (LMB): SchoolDoor_C (SchoolDoor)
+[2019.06.15-12.20.08:005][891]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.15-12.20.13:385][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1_Ground_Plane001)
+[2019.06.15-12.20.14:205][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (9_Gymnasium_Gym)
+[2019.06.15-12.20.15:932][331]LogEditorViewport: Clicking on Actor (LMB): SchoolDoor_C (SchoolDoor)
+[2019.06.15-12.20.16:758][373]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.15-12.20.19:888][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1_Ground_Plane001)
+[2019.06.15-12.20.36:560][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-12.21.07:441][928]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (0_Studentpresident_Anim)
+[2019.06.15-12.22.45:678][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-12.22.50:292][540]LogStaticMesh: 8_UniversityChurch_Inside 스태틱 메시 빌드중...
+[2019.06.15-12.22.50:334][540]LogStaticMesh: Built static mesh [0.04s] /Game/건물_내부/8_UniversityChurch_Inside.8_UniversityChurch_Inside
+[2019.06.15-12.22.50:419][541]LogActorFactory: Actor Factory created 8_UniversityChurch_Inside
+[2019.06.15-12.22.50:540][545]LogActorFactory: Actor Factory created 8_UniversityChurch_Inside
+[2019.06.15-12.23.33:726][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-12.23.33:778][864]LogStaticMesh: 9_Gymnasium_Inside 스태틱 메시 빌드중...
+[2019.06.15-12.23.33:806][864]LogStaticMesh: Built static mesh [0.03s] /Game/건물_내부/9_Gymnasium_Inside.9_Gymnasium_Inside
+[2019.06.15-12.23.34:026][873]LogActorFactory: Actor Factory created 9_Gymnasium_Inside
+[2019.06.15-12.23.35:279][939]LogActorFactory: Actor Factory created 9_Gymnasium_Inside
+[2019.06.15-12.23.50:161][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-12.23.55:109][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-12.24.14:687][ 34]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (8_UniversityChurch_Inside)
+[2019.06.15-12.24.16:934][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (9_Gymnasium_Inside)
+[2019.06.15-12.24.18:337][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-12.24.34:825][159]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (8_UniversityChurch_Inside)
+[2019.06.15-12.24.36:344][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-12.24.44:595][697]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-12.24.55:078][286]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (9_Gymnasium_Inside)
+[2019.06.15-12.24.57:156][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (8_UniversityChurch_Inside)
+[2019.06.15-12.24.59:588][530]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-12.25.18:613][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (9_Gymnasium_Inside)
+[2019.06.15-12.25.19:940][688]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-12.25.29:272][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-12.25.43:173][865]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Door/ChurchDoor.ChurchDoor
+[2019.06.15-12.26.43:159][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-12.27.07:409][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-12.27.12:078][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (9_Gymnasium_Inside)
+[2019.06.15-12.27.12:926][328]LogEditorViewport: Clicking on Actor (LMB): GymDoor_C (GymDoor)
+[2019.06.15-12.27.32:057][422]LogEditorViewport: Clicking on Actor (LMB): GymDoor_C (GymDoor)
+[2019.06.15-12.28.02:284][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-12.28.02:432][115]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Door/GymDoor.GymDoor
+[2019.06.15-12.28.04:440][116]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.399 s
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: === Handled ensure: ===
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: 
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: Ensure condition failed: Class != nullptr [File:D:\Build\++UE4\Sync\Engine\Source\Editor\PropertyEditor\Private\UserInterface\PropertyEditor\SPropertyEditorAsset.cpp] [Line: 1197]
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: Property (ObjectProperty /Game/Door/GymDoor.GymDoor_C:DoorSave) is not an object or interface class
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: Stack: 
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff9666671f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff9663a0c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff9663bb356 UE4Editor-Core.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff95f26c19f UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff95f0627f3 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff95f05fdf4 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff95f0e688f UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff95f0c6f4c UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff95f0c6d67 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff95f182858 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff95f0a78ca UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff95f1dd13c UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff95f1a55f3 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff95f1ae6ca UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff95f1b1e28 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff95f1fa85d UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff962c7fa4a UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff95f21d0a0 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273de9d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273c8a6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273ec31 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273ca04 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273c289 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273ec31 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273ca04 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff962c3f266 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273ec31 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273ca04 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273c289 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff962c3efcd UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273ec31 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:441][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273ca04 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273c289 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273c289 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff962c3efcd UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273c8a6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273ec31 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273ca04 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273c289 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273ec31 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff962c4438e UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273c8a6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273c289 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273ec31 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273ca04 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273c289 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273c289 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff962c3efcd UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273c8a6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273ec31 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273ca04 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273c289 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273ec31 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff962c4438e UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:442][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273c8a6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:443][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:443][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273c289 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:443][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:443][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273ec31 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:443][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273ca04 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:443][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:443][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273ec31 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:443][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273ca04 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:443][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:443][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273c8a6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:443][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:443][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273c289 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:443][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273caaa UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:443][116]LogOutputDevice: Error: [Callstack] 0x00007ff96273e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.15-12.28.04:443][116]LogOutputDevice: Error: [Callstack] 0x00007ff9629dd5bc UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.15-12.28.04:443][116]LogOutputDevice: Error: [Callstack] 0x00007ff9629de709 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.15-12.28.04:443][116]LogOutputDevice: Error: [Callstack] 0x00007ff962a13783 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.15-12.28.04:443][116]LogOutputDevice: Error: [Callstack] 0x00007ff9629de7cf UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.15-12.28.04:443][116]LogOutputDevice: Error: [Callstack] 0x00007ff962a3f010 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.15-12.28.04:443][116]LogOutputDevice: Error: [Callstack] 0x00007ff962a3dd17 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.15-12.28.04:443][116]LogOutputDevice: Error: 
+[2019.06.15-12.28.04:454][116]LogStats:                SubmitErrorReport -  0.000 s

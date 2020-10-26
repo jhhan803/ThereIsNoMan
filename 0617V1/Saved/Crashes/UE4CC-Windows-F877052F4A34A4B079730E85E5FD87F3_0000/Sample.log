@@ -1,0 +1,857 @@
+﻿Log file open, 06/01/19 13:44:12
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Sample
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.227588
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.100s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz, GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.06.01-04.44.13:194][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.01-04.44.13:194][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.01-04.44.13:207][  0]LogHAL: Display: Platform has ~ 16 GB [17112272896 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.01-04.44.13:207][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.06.01-04.44.13:207][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.01-04.44.13:207][  0]LogInit: Computer: DESKTOP-3T2CBCE
+[2019.06.01-04.44.13:207][  0]LogInit: User: User
+[2019.06.01-04.44.13:207][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.06.01-04.44.13:207][  0]LogInit: High frequency timer resolution =3.609372 MHz
+[2019.06.01-04.44.13:207][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.06.01-04.44.13:207][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.01-04.44.13:207][  0]LogMemory: Process Physical Memory: 100.99 MB used, 100.99 MB peak
+[2019.06.01-04.44.13:207][  0]LogMemory: Process Virtual Memory: 84.97 MB used, 84.97 MB peak
+[2019.06.01-04.44.13:207][  0]LogMemory: Physical Memory: 4517.65 MB used,  11801.88 MB free, 16319.54 MB total
+[2019.06.01-04.44.13:207][  0]LogMemory: Virtual Memory: 4630.59 MB used,  11801.88 MB free, 134217728.00 MB total
+[2019.06.01-04.44.13:219][  0]LogInit: Using OS detected language (ko-KR).
+[2019.06.01-04.44.13:219][  0]LogInit: Using OS detected locale (ko-KR).
+[2019.06.01-04.44.13:220][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2019.06.01-04.44.13:485][  0]LogStreaming: Display: Took  0.266s to InitEngineTextLocalization.
+[2019.06.01-04.44.13:485][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.01-04.44.13:506][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.01-04.44.13:506][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.01-04.44.13:633][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.01-04.44.13:633][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.01-04.44.13:693][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2019.06.01-04.44.13:693][  0]LogD3D11RHI:       5980/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.06.01-04.44.13:695][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.01-04.44.13:695][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.01-04.44.13:695][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.01-04.44.13:699][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.01-04.44.13:699][  0]LogD3D11RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.01-04.44.13:699][  0]LogWindows: EnumDisplayDevices:
+[2019.06.01-04.44.13:699][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2019.06.01-04.44.13:699][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2019.06.01-04.44.13:699][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2019.06.01-04.44.13:699][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2019.06.01-04.44.13:700][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.06.01-04.44.13:700][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2019.06.01-04.44.13:700][  0]LogD3D11RHI:   Driver Version: 425.31 (internal:25.21.14.2531, unified:425.31)
+[2019.06.01-04.44.13:700][  0]LogD3D11RHI:      Driver Date: 4-9-2019
+[2019.06.01-04.44.13:700][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2019.06.01-04.44.13:732][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.01-04.44.13:760][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.06.01-04.44.13:808][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (C:/Users/User/Documents/Unreal Projects/Sample/Intermediate/Shaders/WorkingDirectory/16956/).
+[2019.06.01-04.44.13:808][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/9D11F079443246CF819EA6B337AB20AC/'.
+[2019.06.01-04.44.13:980][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.01-04.44.13:989][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.01-04.44.13:998][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.01-04.44.14:007][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.01-04.44.14:017][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.01-04.44.14:025][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.01-04.44.14:035][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.01-04.44.14:044][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.01-04.44.14:048][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.01-04.44.14:105][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.01-04.44.14:105][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.01-04.44.14:105][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.01-04.44.14:105][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.01-04.44.14:105][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.01-04.44.14:105][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.01-04.44.14:105][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.01-04.44.14:105][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.01-04.44.14:105][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.01-04.44.14:105][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.01-04.44.14:105][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.01-04.44.14:105][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.01-04.44.14:105][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.01-04.44.14:105][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.01-04.44.14:105][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.01-04.44.14:105][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.01-04.44.14:105][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.01-04.44.14:105][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.01-04.44.14:105][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.01-04.44.14:157][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.01-04.44.14:157][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.01-04.44.14:174][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.01-04.44.14:174][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.01-04.44.14:183][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.01-04.44.14:192][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.01-04.44.14:200][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.01-04.44.14:210][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.01-04.44.14:216][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.01-04.44.14:216][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.01-04.44.14:248][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.01-04.44.14:248][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.01-04.44.14:248][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.01-04.44.14:780][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.01-04.44.14:828][  0]LogDerivedDataCache: Loaded boot cache 0.05s 87MB C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.06.01-04.44.14:828][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.06.01-04.44.14:828][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/User/Documents/Unreal Projects/Sample/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.01-04.44.14:829][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.01-04.44.14:829][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/User/Documents/Unreal Projects/Sample/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.01-04.44.14:829][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.01-04.44.14:840][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.01-04.44.14:852][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.01-04.44.14:852][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.01-04.44.14:852][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.01-04.44.14:866][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.01-04.44.14:867][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.01-04.44.14:868][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.01-04.44.14:926][  0]LogAssetRegistry: FAssetRegistry took 0.0247 seconds to start up
+[2019.06.01-04.44.15:148][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.01-04.44.15:236][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.01-04.44.15:238][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.01-04.44.15:238][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.01-04.44.15:238][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.01-04.44.15:238][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.01-04.44.15:248][  0]LogNetVersion: Sample 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4045640335)
+[2019.06.01-04.44.15:621][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.088480 seconds
+[2019.06.01-04.44.15:626][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.06.01-04.44.15:626][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.06.01-04.44.15:626][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.01-04.44.16:203][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.01-04.44.16:215][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.01-04.44.16:330][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.06.01-04.44.16:330][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.06.01-04.44.16:331][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.06.01-04.44.16:332][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.06.01-04.44.16:466][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.01-04.44.16:518][  0]LogOcInput: OculusInput pre-init called
+[2019.06.01-04.44.16:562][  0]LogEngine: Initializing Engine...
+[2019.06.01-04.44.16:563][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.01-04.44.16:564][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.01-04.44.16:564][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.01-04.44.16:564][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.01-04.44.16:564][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.01-04.44.16:712][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.01-04.44.16:721][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.01-04.44.16:735][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.01-04.44.16:749][  0]LogInit: FAudioDevice initialized.
+[2019.06.01-04.44.16:749][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.01-04.44.16:812][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.06.01-04.44.16:822][  0]LogInit: Texture streaming: Enabled
+[2019.06.01-04.44.16:831][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.01-04.44.16:838][  0]LogInit: Transaction tracking system initialized
+[2019.06.01-04.44.16:848][  0]BlueprintLog: New page: 에디터 로드
+[2019.06.01-04.44.16:887][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2019.06.01-04.44.17:066][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.01-04.44.17:066][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.01-04.44.17:066][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.01-04.44.17:066][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.01-04.44.17:066][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.01-04.44.17:066][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.01-04.44.17:066][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.01-04.44.17:132][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/Sample/Content/' took 0.02s
+[2019.06.01-04.44.17:132][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.06.01-04.44.17:132][  0]Cmd: MAP LOAD FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.01-04.44.17:132][  0]LightingResults: New page: 라이팅 빌드
+[2019.06.01-04.44.17:133][  0]MapCheck: New page: 맵 체크
+[2019.06.01-04.44.17:134][  0]LightingResults: New page: 라이팅 빌드
+[2019.06.01-04.44.18:440][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.01-04.44.18:447][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.01-04.44.18:468][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.01-04.44.18:511][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 42.961ms.
+[2019.06.01-04.44.18:511][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.379
+[2019.06.01-04.44.18:714][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.01-04.44.18:720][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.01-04.44.18:726][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.01-04.44.18:732][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.01-04.44.18:753][  0]LogCollectionManager: Loaded 0 collections in 0.000723 seconds
+[2019.06.01-04.44.18:812][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Collections/' took 0.01s
+[2019.06.01-04.44.18:812][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/Sample/Content/Developers/User/Collections/' took 0.01s
+[2019.06.01-04.44.18:812][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/Sample/Content/Collections/' took 0.01s
+[2019.06.01-04.44.18:812][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.06.01-04.44.18:819][  0]LogContentBrowser: Native class hierarchy populated in 0.0070 seconds. Added 2572 classes and 603 folders.
+[2019.06.01-04.44.18:837][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.01-04.44.19:466][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.01-04.44.19:512][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.06.01-04.44.19:545][  0]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.01-04.44.19:548][  0]LogSlate: Took 0.001656 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.06.01-04.44.19:550][  0]LogSlate: Took 0.001686 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2019.06.01-04.44.19:550][  0]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.01-04.44.19:563][  0]LogSlate: Took 0.010506 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.01-04.44.19:832][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.06.01-04.44.19:862][  0]LogSlate: Took 0.001870 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.06.01-04.44.19:947][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.01-04.44.19:947][  0]LogLoad: (Engine Initialization) Total time: 7.95 seconds
+[2019.06.01-04.44.19:947][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.01-04.44.19:959][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2019.06.01-04.44.19:980][  0]LogAssetRegistry: Asset discovery search completed in 5.0766 seconds
+[2019.06.01-04.44.19:981][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.01-04.44.19:981][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000035 seconds (updated 0 objects)
+[2019.06.01-04.44.19:992][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.01-04.44.20:100][  0]LogSlate: Took 0.031085 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.01-04.44.25:992][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.01-04.44.26:145][704]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.01-04.44.26:151][704]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/AgroCheck.AgroCheck
+[2019.06.01-04.44.26:687][704]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2019.06.01-04.44.27:368][704]LogSlate: Took 0.006778 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.01-04.44.29:524][935]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.01-04.44.29:538][935]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.44.29:538][935]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.01-04.44.29:574][935]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 6. 1. 오후 10:44:29)
+[2019.06.01-04.44.29:574][935]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.01-04.44.29:591][935]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016636s)
+[2019.06.01-04.44.29:592][935]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.01-04.44.29:592][935]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2019.06.01-04.44.29:592][935]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017581s)
+[2019.06.01-04.44.29:629][935]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.01-04.44.29:640][935]LogInit: FAudioDevice initialized.
+[2019.06.01-04.44.29:684][935]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.01-04.44.29:699][935]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.01-13.44.29
+[2019.06.01-04.44.29:710][935]LogWorld: Bringing up level for play took: 0.012645
+[2019.06.01-04.44.29:727][935]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 10 classes and 0 folders.
+[2019.06.01-04.44.29:728][935]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 1.167
+[2019.06.01-04.44.29:729][935]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.44.39:600][117]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.44.39:615][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.01-04.44.39:649][117]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.01-04.44.39:649][117]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.44.39:671][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.01-04.44.39:703][120]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.06.01-04.44.42:453][294]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.01-04.44.43:049][360]LogSlate: Took 0.023737 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.01-04.44.52:814][527]BlueprintLog: New page: AgroCheck 컴파일
+[2019.06.01-04.44.52:829][527]LogBlueprint: Error: [Compiler AgroCheck] ' Key ' 핀의 현재 값이 유효하지 않습니다: 'Key' 핀에는 반드시 입력이 연결되어 있어야 합니다 ("by ref" 파라미터는 작업하기에 유효한 입력을 기대합니다).
+[2019.06.01-04.44.52:925][527]LogBlueprint: Warning: [Compiler AgroCheck] [0040.93] AgroCheck 컴파일에 실패했습니다. 치명적 오류 1 회, 경고 0 회, [소요시간 111 ms] (/Game/AI/AgroCheck.AgroCheck)
+[2019.06.01-04.44.59:327][284]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.01-04.44.59:341][284]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.44.59:341][284]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2019.06.01-04.44.59:348][284]LogPlayLevel: [PlayLevel] Compiling AgroCheck before play...
+[2019.06.01-04.44.59:451][284]LogPlayLevel: PlayLevel: Blueprint regeneration took 110 ms (1 blueprints)
+[2019.06.01-04.44.59:451][284]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 6. 1. 오후 10:44:59)
+[2019.06.01-04.44.59:451][284]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.01-04.44.59:460][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008653s)
+[2019.06.01-04.44.59:461][284]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.01-04.44.59:461][284]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2019.06.01-04.44.59:461][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009519s)
+[2019.06.01-04.44.59:494][284]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.01-04.44.59:504][284]LogInit: FAudioDevice initialized.
+[2019.06.01-04.44.59:531][284]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.01-04.44.59:533][284]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.01-13.44.59
+[2019.06.01-04.44.59:533][284]LogWorld: Bringing up level for play took: 0.001606
+[2019.06.01-04.44.59:546][284]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.985
+[2019.06.01-04.44.59:546][284]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.45.02:680][652]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.45.02:680][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.01-04.45.02:713][652]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.01-04.45.02:713][652]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.45.02:735][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.01-04.45.02:781][657]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.06.01-04.45.03:591][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.01-04.45.14:019][992]BlueprintLog: New page: AgroCheck 컴파일
+[2019.06.01-04.45.50:880][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.01-04.45.50:980][369]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.01-04.45.50:993][369]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.45.50:993][369]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.01-04.45.50:993][369]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 6. 1. 오후 10:45:50)
+[2019.06.01-04.45.50:993][369]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.01-04.45.51:002][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008931s)
+[2019.06.01-04.45.51:003][369]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.01-04.45.51:003][369]LogPlayLevel: PIE: World Init took: (0.000721s)
+[2019.06.01-04.45.51:003][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009777s)
+[2019.06.01-04.45.51:035][369]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.01-04.45.51:046][369]LogInit: FAudioDevice initialized.
+[2019.06.01-04.45.51:073][369]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.01-04.45.51:075][369]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.01-13.45.51
+[2019.06.01-04.45.51:076][369]LogWorld: Bringing up level for play took: 0.001691
+[2019.06.01-04.45.51:088][369]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.526
+[2019.06.01-04.45.51:088][369]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.46.06:995][276]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.46.06:996][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.01-04.46.07:028][276]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.01-04.46.07:028][276]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.46.07:050][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.01-04.46.07:099][281]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.06.01-04.46.09:960][428]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.01-04.46.39:255][923]BlueprintLog: New page: AgroCheck 컴파일
+[2019.06.01-04.46.41:334][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.01-04.46.41:426][164]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.01-04.46.41:439][164]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.46.41:439][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.01-04.46.41:439][164]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 6. 1. 오후 10:46:41)
+[2019.06.01-04.46.41:439][164]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.01-04.46.41:448][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008457s)
+[2019.06.01-04.46.41:448][164]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.01-04.46.41:448][164]LogPlayLevel: PIE: World Init took: (0.000580s)
+[2019.06.01-04.46.41:449][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009150s)
+[2019.06.01-04.46.41:480][164]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.01-04.46.41:491][164]LogInit: FAudioDevice initialized.
+[2019.06.01-04.46.41:517][164]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.01-04.46.41:519][164]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.01-13.46.41
+[2019.06.01-04.46.41:519][164]LogWorld: Bringing up level for play took: 0.001627
+[2019.06.01-04.46.41:532][164]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.971
+[2019.06.01-04.46.41:532][164]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.47.05:467][ 34]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.47.05:467][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.01-04.47.05:500][ 34]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.01-04.47.05:500][ 34]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.47.05:522][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.01-04.47.05:569][ 38]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.06.01-04.47.06:436][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.01-04.47.06:520][152]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.01-04.47.06:533][152]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.47.06:533][152]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.01-04.47.06:533][152]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 6. 1. 오후 10:47:06)
+[2019.06.01-04.47.06:533][152]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.01-04.47.06:542][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008912s)
+[2019.06.01-04.47.06:542][152]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.01-04.47.06:543][152]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2019.06.01-04.47.06:543][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009795s)
+[2019.06.01-04.47.06:574][152]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.01-04.47.06:584][152]LogInit: FAudioDevice initialized.
+[2019.06.01-04.47.06:612][152]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.01-04.47.06:615][152]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.01-13.47.06
+[2019.06.01-04.47.06:615][152]LogWorld: Bringing up level for play took: 0.001663
+[2019.06.01-04.47.06:628][152]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.066
+[2019.06.01-04.47.06:628][152]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.47.36:979][790]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.47.36:979][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.01-04.47.37:010][790]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.01-04.47.37:010][790]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.47.37:033][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.01-04.47.37:079][794]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.06.01-04.47.38:854][891]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.01-04.48.38:562][ 21]BlueprintLog: New page: AgroCheck 컴파일
+[2019.06.01-04.48.52:360][653]BlueprintLog: New page: AgroCheck 컴파일
+[2019.06.01-04.48.54:476][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.01-04.48.54:576][902]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.01-04.48.54:589][902]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.48.54:589][902]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.01-04.48.54:589][902]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 6. 1. 오후 10:48:54)
+[2019.06.01-04.48.54:589][902]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.01-04.48.54:598][902]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008873s)
+[2019.06.01-04.48.54:599][902]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.01-04.48.54:599][902]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2019.06.01-04.48.54:599][902]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009618s)
+[2019.06.01-04.48.54:630][902]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.01-04.48.54:640][902]LogInit: FAudioDevice initialized.
+[2019.06.01-04.48.54:671][902]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.01-04.48.54:673][902]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.01-13.48.54
+[2019.06.01-04.48.54:674][902]LogWorld: Bringing up level for play took: 0.001808
+[2019.06.01-04.48.54:686][902]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.124
+[2019.06.01-04.48.54:686][902]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.49.38:538][160]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.49.38:539][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.01-04.49.38:571][160]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.01-04.49.38:571][160]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.49.38:594][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.01-04.49.38:646][165]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.06.01-04.49.41:492][256]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.01-04.50.56:790][255]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: 경로는 '/' 로 시작해야 합니다.
+[2019.06.01-04.50.56:790][255]LogLinker: Warning: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' 파일을 찾을 수 없습니다.
+[2019.06.01-04.50.56:790][255]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: 경로는 '/' 로 시작해야 합니다.
+[2019.06.01-04.50.56:790][255]LogLinker: Warning: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' 파일을 찾을 수 없습니다.
+[2019.06.01-04.50.56:790][255]LogUObjectGlobals: Warning: 'Blueprint Engine/Tutorial/Installation/InstallingVisualStudioTutorial.InstallingVisualStudioTutorial' 오브젝트를 찾는 데 실패했습니다.
+[2019.06.01-04.53.51:739][200]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.01-04.53.51:755][200]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.53.51:755][200]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2019.06.01-04.53.51:762][200]LogPlayLevel: [PlayLevel] Compiling AgroCheck before play...
+[2019.06.01-04.53.51:873][200]LogPlayLevel: PlayLevel: Blueprint regeneration took 117 ms (1 blueprints)
+[2019.06.01-04.53.51:873][200]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 6. 1. 오후 10:53:51)
+[2019.06.01-04.53.51:873][200]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.01-04.53.51:883][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009600s)
+[2019.06.01-04.53.51:884][200]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.01-04.53.51:884][200]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2019.06.01-04.53.51:884][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010564s)
+[2019.06.01-04.53.51:918][200]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.01-04.53.51:930][200]LogInit: FAudioDevice initialized.
+[2019.06.01-04.53.51:962][200]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.01-04.53.51:964][200]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.01-13.53.51
+[2019.06.01-04.53.51:965][200]LogWorld: Bringing up level for play took: 0.001762
+[2019.06.01-04.53.51:977][200]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.585
+[2019.06.01-04.53.51:977][200]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.53.56:286][715]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.53.56:286][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.01-04.53.56:315][715]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.01-04.53.56:315][715]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.53.56:336][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.01-04.53.56:393][720]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.06.01-04.53.57:078][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.01-04.53.57:259][823]LogAssetEditorManager: Opening Asset editor for BlackboardData /Game/AI/FollowerBlackboard.FollowerBlackboard
+[2019.06.01-04.53.59:620][ 93]LogSlate: Window 'FollowerBlackboard' being destroyed
+[2019.06.01-04.53.59:624][ 93]LogSlate: Window 'FollowerBlackboard' being destroyed
+[2019.06.01-04.54.00:410][183]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/AI/FollowerBT.FollowerBT
+[2019.06.01-04.54.01:447][300]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.01-04.54.01:458][300]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.54.01:460][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.01-04.54.01:460][300]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 6. 1. 오후 10:54:01)
+[2019.06.01-04.54.01:460][300]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.01-04.54.01:469][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009281s)
+[2019.06.01-04.54.01:470][300]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.01-04.54.01:470][300]LogPlayLevel: PIE: World Init took: (0.000804s)
+[2019.06.01-04.54.01:470][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010221s)
+[2019.06.01-04.54.01:501][300]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.01-04.54.01:512][300]LogInit: FAudioDevice initialized.
+[2019.06.01-04.54.01:542][300]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.01-04.54.01:544][300]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.01-13.54.01
+[2019.06.01-04.54.01:545][300]LogWorld: Bringing up level for play took: 0.001763
+[2019.06.01-04.54.01:557][300]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.996
+[2019.06.01-04.54.01:557][300]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.54.42:197][174]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.54.42:199][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.01-04.54.42:235][174]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.01-04.54.42:235][174]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.54.42:257][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.01-04.54.42:299][178]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.06.01-04.54.48:838][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.01-04.54.49:146][448]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/AgroCheck.AgroCheck
+[2019.06.01-04.55.51:657][830]BlueprintLog: New page: AgroCheck 컴파일
+[2019.06.01-04.55.53:516][ 35]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.01-04.55.53:528][ 35]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.55.53:530][ 35]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.01-04.55.53:531][ 35]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 6. 1. 오후 10:55:53)
+[2019.06.01-04.55.53:531][ 35]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.01-04.55.53:540][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009507s)
+[2019.06.01-04.55.53:541][ 35]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.01-04.55.53:541][ 35]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2019.06.01-04.55.53:541][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010241s)
+[2019.06.01-04.55.53:573][ 35]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.01-04.55.53:584][ 35]LogInit: FAudioDevice initialized.
+[2019.06.01-04.55.53:616][ 35]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.01-04.55.53:618][ 35]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.01-13.55.53
+[2019.06.01-04.55.53:619][ 35]LogWorld: Bringing up level for play took: 0.001663
+[2019.06.01-04.55.53:631][ 35]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 1.07
+[2019.06.01-04.55.53:631][ 35]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.56.12:314][273]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.56.12:316][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.01-04.56.12:350][273]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.01-04.56.12:350][273]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.56.12:371][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.01-04.56.12:387][274]Cmd: SELECT NONE
+[2019.06.01-04.56.12:420][277]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.06.01-04.56.14:969][460]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.01-04.56.16:535][614]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.01-04.56.16:548][614]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.56.16:550][614]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.01-04.56.16:550][614]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 6. 1. 오후 10:56:16)
+[2019.06.01-04.56.16:550][614]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.01-04.56.16:559][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008441s)
+[2019.06.01-04.56.16:559][614]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.01-04.56.16:560][614]LogPlayLevel: PIE: World Init took: (0.000683s)
+[2019.06.01-04.56.16:560][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009253s)
+[2019.06.01-04.56.16:588][614]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.01-04.56.16:598][614]LogInit: FAudioDevice initialized.
+[2019.06.01-04.56.16:632][614]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.01-04.56.16:634][614]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.01-13.56.16
+[2019.06.01-04.56.16:634][614]LogWorld: Bringing up level for play took: 0.001819
+[2019.06.01-04.56.16:647][614]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.086
+[2019.06.01-04.56.16:647][614]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.56.34:524][757]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.56.34:526][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.01-04.56.34:558][757]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.01-04.56.34:558][757]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.56.34:580][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.01-04.56.34:624][761]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.06.01-04.56.37:296][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.01-04.57.51:400][884]BlueprintLog: New page: AgroCheck 컴파일
+[2019.06.01-04.57.53:246][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.01-04.57.53:337][ 98]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.01-04.57.53:350][ 98]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.57.53:352][ 98]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.01-04.57.53:352][ 98]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 6. 1. 오후 10:57:53)
+[2019.06.01-04.57.53:352][ 98]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.01-04.57.53:362][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008993s)
+[2019.06.01-04.57.53:362][ 98]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.01-04.57.53:362][ 98]LogPlayLevel: PIE: World Init took: (0.000841s)
+[2019.06.01-04.57.53:362][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009974s)
+[2019.06.01-04.57.53:396][ 98]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.01-04.57.53:407][ 98]LogInit: FAudioDevice initialized.
+[2019.06.01-04.57.53:438][ 98]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.01-04.57.53:440][ 98]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.01-13.57.53
+[2019.06.01-04.57.53:441][ 98]LogWorld: Bringing up level for play took: 0.001698
+[2019.06.01-04.57.53:453][ 98]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.892
+[2019.06.01-04.57.53:453][ 98]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.57.53:835][142]LogBlueprintUserMessages: [AgroCheck_C_0] false
+[2019.06.01-04.57.54:335][202]LogBlueprintUserMessages: [AgroCheck_C_0] false
+[2019.06.01-04.57.54:835][262]LogBlueprintUserMessages: [AgroCheck_C_0] false
+[2019.06.01-04.57.55:335][322]LogBlueprintUserMessages: [AgroCheck_C_0] false
+[2019.06.01-04.57.59:835][862]LogBlueprintUserMessages: [AgroCheck_C_0] false
+[2019.06.01-04.58.00:335][922]LogBlueprintUserMessages: [AgroCheck_C_0] false
+[2019.06.01-04.58.00:836][982]LogBlueprintUserMessages: [AgroCheck_C_0] false
+[2019.06.01-04.58.01:336][ 42]LogBlueprintUserMessages: [AgroCheck_C_0] false
+[2019.06.01-04.58.01:836][102]LogBlueprintUserMessages: [AgroCheck_C_0] false
+[2019.06.01-04.58.02:335][162]LogBlueprintUserMessages: [AgroCheck_C_0] false
+[2019.06.01-04.58.03:203][266]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.58.03:206][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.01-04.58.03:236][266]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.01-04.58.03:236][266]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.58.03:258][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.01-04.58.03:307][270]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.06.01-04.58.05:306][429]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.01-04.58.46:485][231]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.06.01-04.58.46:552][233]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.06.01-04.58.46:552][233]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.06.01-04.58.46:568][234]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2019.06.01-04.58.46:597][235]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2019.06.01-04.58.46:635][237]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2019.06.01-04.58.48:451][419]LogShaderCompilers: Display: Shaders left to compile 156
+[2019.06.01-04.58.48:451][419]LogShaderCompilers: Display: Shaders left to compile 146
+[2019.06.01-04.58.49:551][527]LogShaderCompilers: Display: Shaders left to compile 136
+[2019.06.01-04.58.50:368][625]LogShaderCompilers: Display: Shaders left to compile 126
+[2019.06.01-04.58.50:724][667]LogShaderCompilers: Display: Shaders left to compile 116
+[2019.06.01-04.58.51:233][727]LogShaderCompilers: Display: Shaders left to compile 106
+[2019.06.01-04.58.51:663][778]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.06.01-04.58.52:999][920]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.06.01-04.58.53:062][928]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.06.01-04.58.53:937][ 17]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.06.01-04.58.54:087][ 34]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.06.01-04.58.55:231][161]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.06.01-04.58.55:949][247]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.06.01-04.58.56:181][274]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.06.01-04.58.56:939][365]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.06.01-04.58.57:014][374]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.06.01-04.59.24:395][627]BlueprintLog: New page: AgroCheck 컴파일
+[2019.06.01-04.59.26:021][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.01-04.59.26:104][814]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.01-04.59.26:116][814]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.59.26:118][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.01-04.59.26:119][814]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 6. 1. 오후 10:59:26)
+[2019.06.01-04.59.26:119][814]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.01-04.59.26:127][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008697s)
+[2019.06.01-04.59.26:128][814]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.01-04.59.26:128][814]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2019.06.01-04.59.26:128][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009813s)
+[2019.06.01-04.59.26:162][814]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.01-04.59.26:173][814]LogInit: FAudioDevice initialized.
+[2019.06.01-04.59.26:199][814]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.01-04.59.26:201][814]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.01-13.59.26
+[2019.06.01-04.59.26:201][814]LogWorld: Bringing up level for play took: 0.001653
+[2019.06.01-04.59.26:214][814]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.348
+[2019.06.01-04.59.26:214][814]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-04.59.26:603][859]LogScript: Warning: CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	CloseEnough_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Follow_AICON_C_0.BTComponent.CloseEnough_C_1
+	Function /Game/AI/CloseEnough.CloseEnough_C:PerformConditionCheck:0115
+[2019.06.01-04.59.26:603][859]PIE: Error: 블루프린트 런타임 오류: "CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: CloseEnough 함수: Perform Condition Check 그래프: PerformConditionCheck 노드: 반환 노드
+[2019.06.01-04.59.28:870][131]LogScript: Warning: CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	CloseEnough_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Follow_AICON_C_0.BTComponent.CloseEnough_C_1
+	Function /Game/AI/CloseEnough.CloseEnough_C:PerformConditionCheck:0115
+[2019.06.01-04.59.28:870][131]PIE: Error: 블루프린트 런타임 오류: "CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: CloseEnough 함수: Perform Condition Check 그래프: PerformConditionCheck 노드: 반환 노드
+[2019.06.01-04.59.28:986][145]LogScript: Warning: CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	CloseEnough_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Follow_AICON_C_0.BTComponent.CloseEnough_C_1
+	Function /Game/AI/CloseEnough.CloseEnough_C:PerformConditionCheck:0115
+[2019.06.01-04.59.28:986][145]PIE: Error: 블루프린트 런타임 오류: "CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: CloseEnough 함수: Perform Condition Check 그래프: PerformConditionCheck 노드: 반환 노드
+[2019.06.01-04.59.29:102][159]LogScript: Warning: CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	CloseEnough_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Follow_AICON_C_0.BTComponent.CloseEnough_C_1
+	Function /Game/AI/CloseEnough.CloseEnough_C:PerformConditionCheck:0115
+[2019.06.01-04.59.29:103][159]PIE: Error: 블루프린트 런타임 오류: "CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: CloseEnough 함수: Perform Condition Check 그래프: PerformConditionCheck 노드: 반환 노드
+[2019.06.01-04.59.29:219][173]LogScript: Warning: CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	CloseEnough_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Follow_AICON_C_0.BTComponent.CloseEnough_C_1
+	Function /Game/AI/CloseEnough.CloseEnough_C:PerformConditionCheck:0115
+[2019.06.01-04.59.29:220][173]PIE: Error: 블루프린트 런타임 오류: "CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: CloseEnough 함수: Perform Condition Check 그래프: PerformConditionCheck 노드: 반환 노드
+[2019.06.01-04.59.29:337][187]LogScript: Warning: CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	CloseEnough_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Follow_AICON_C_0.BTComponent.CloseEnough_C_1
+	Function /Game/AI/CloseEnough.CloseEnough_C:PerformConditionCheck:0115
+[2019.06.01-04.59.29:337][187]PIE: Error: 블루프린트 런타임 오류: "CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: CloseEnough 함수: Perform Condition Check 그래프: PerformConditionCheck 노드: 반환 노드
+[2019.06.01-04.59.29:453][201]LogScript: Warning: CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	CloseEnough_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Follow_AICON_C_0.BTComponent.CloseEnough_C_1
+	Function /Game/AI/CloseEnough.CloseEnough_C:PerformConditionCheck:0115
+[2019.06.01-04.59.29:453][201]PIE: Error: 블루프린트 런타임 오류: "CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: CloseEnough 함수: Perform Condition Check 그래프: PerformConditionCheck 노드: 반환 노드
+[2019.06.01-04.59.29:570][215]LogScript: Warning: CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	CloseEnough_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Follow_AICON_C_0.BTComponent.CloseEnough_C_1
+	Function /Game/AI/CloseEnough.CloseEnough_C:PerformConditionCheck:0115
+[2019.06.01-04.59.29:570][215]PIE: Error: 블루프린트 런타임 오류: "CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: CloseEnough 함수: Perform Condition Check 그래프: PerformConditionCheck 노드: 반환 노드
+[2019.06.01-04.59.29:687][229]LogScript: Warning: CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	CloseEnough_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Follow_AICON_C_0.BTComponent.CloseEnough_C_1
+	Function /Game/AI/CloseEnough.CloseEnough_C:PerformConditionCheck:0115
+[2019.06.01-04.59.29:687][229]PIE: Error: 블루프린트 런타임 오류: "CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: CloseEnough 함수: Perform Condition Check 그래프: PerformConditionCheck 노드: 반환 노드
+[2019.06.01-04.59.29:804][243]LogScript: Warning: CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	CloseEnough_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Follow_AICON_C_0.BTComponent.CloseEnough_C_1
+	Function /Game/AI/CloseEnough.CloseEnough_C:PerformConditionCheck:0115
+[2019.06.01-04.59.29:804][243]PIE: Error: 블루프린트 런타임 오류: "CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: CloseEnough 함수: Perform Condition Check 그래프: PerformConditionCheck 노드: 반환 노드
+[2019.06.01-04.59.29:919][257]LogScript: Warning: CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	CloseEnough_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Follow_AICON_C_0.BTComponent.CloseEnough_C_1
+	Function /Game/AI/CloseEnough.CloseEnough_C:PerformConditionCheck:0115
+[2019.06.01-04.59.29:920][257]PIE: Error: 블루프린트 런타임 오류: "CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: CloseEnough 함수: Perform Condition Check 그래프: PerformConditionCheck 노드: 반환 노드
+[2019.06.01-04.59.30:037][271]LogScript: Warning: CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	CloseEnough_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Follow_AICON_C_0.BTComponent.CloseEnough_C_1
+	Function /Game/AI/CloseEnough.CloseEnough_C:PerformConditionCheck:0115
+[2019.06.01-04.59.30:037][271]PIE: Error: 블루프린트 런타임 오류: "CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: CloseEnough 함수: Perform Condition Check 그래프: PerformConditionCheck 노드: 반환 노드
+[2019.06.01-04.59.30:154][285]LogScript: Warning: CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	CloseEnough_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Follow_AICON_C_0.BTComponent.CloseEnough_C_1
+	Function /Game/AI/CloseEnough.CloseEnough_C:PerformConditionCheck:0115
+[2019.06.01-04.59.30:154][285]PIE: Error: 블루프린트 런타임 오류: "CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: CloseEnough 함수: Perform Condition Check 그래프: PerformConditionCheck 노드: 반환 노드
+[2019.06.01-04.59.30:270][299]LogScript: Warning: CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	CloseEnough_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Follow_AICON_C_0.BTComponent.CloseEnough_C_1
+	Function /Game/AI/CloseEnough.CloseEnough_C:PerformConditionCheck:0115
+[2019.06.01-04.59.30:270][299]PIE: Error: 블루프린트 런타임 오류: "CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: CloseEnough 함수: Perform Condition Check 그래프: PerformConditionCheck 노드: 반환 노드
+[2019.06.01-04.59.30:386][313]LogScript: Warning: CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	CloseEnough_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Follow_AICON_C_0.BTComponent.CloseEnough_C_1
+	Function /Game/AI/CloseEnough.CloseEnough_C:PerformConditionCheck:0115
+[2019.06.01-04.59.30:386][313]PIE: Error: 블루프린트 런타임 오류: "CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: CloseEnough 함수: Perform Condition Check 그래프: PerformConditionCheck 노드: 반환 노드
+[2019.06.01-04.59.30:503][327]LogScript: Warning: CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	CloseEnough_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Follow_AICON_C_0.BTComponent.CloseEnough_C_1
+	Function /Game/AI/CloseEnough.CloseEnough_C:PerformConditionCheck:0115
+[2019.06.01-04.59.30:503][327]PIE: Error: 블루프린트 런타임 오류: "CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: CloseEnough 함수: Perform Condition Check 그래프: PerformConditionCheck 노드: 반환 노드
+[2019.06.01-04.59.30:620][341]LogScript: Warning: CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	CloseEnough_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Follow_AICON_C_0.BTComponent.CloseEnough_C_1
+	Function /Game/AI/CloseEnough.CloseEnough_C:PerformConditionCheck:0115
+[2019.06.01-04.59.30:620][341]PIE: Error: 블루프린트 런타임 오류: "CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: CloseEnough 함수: Perform Condition Check 그래프: PerformConditionCheck 노드: 반환 노드
+[2019.06.01-04.59.30:737][355]PIE: Error: 블루프린트 런타임 오류: "CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: CloseEnough 함수: Perform Condition Check 그래프: PerformConditionCheck 노드: 반환 노드
+[2019.06.01-04.59.30:854][369]PIE: Error: 블루프린트 런타임 오류: "CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: CloseEnough 함수: Perform Condition Check 그래프: PerformConditionCheck 노드: 반환 노드
+[2019.06.01-04.59.30:970][383]PIE: Error: 블루프린트 런타임 오류: "CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: CloseEnough 함수: Perform Condition Check 그래프: PerformConditionCheck 노드: 반환 노드
+[2019.06.01-04.59.31:086][397]PIE: Error: 블루프린트 런타임 오류: "CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: CloseEnough 함수: Perform Condition Check 그래프: PerformConditionCheck 노드: 반환 노드
+[2019.06.01-04.59.31:203][411]PIE: Error: 블루프린트 런타임 오류: "CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: CloseEnough 함수: Perform Condition Check 그래프: PerformConditionCheck 노드: 반환 노드
+[2019.06.01-04.59.31:320][425]PIE: Error: 블루프린트 런타임 오류: "CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: CloseEnough 함수: Perform Condition Check 그래프: PerformConditionCheck 노드: 반환 노드
+[2019.06.01-04.59.31:438][439]PIE: Error: 블루프린트 런타임 오류: "CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: CloseEnough 함수: Perform Condition Check 그래프: PerformConditionCheck 노드: 반환 노드
+[2019.06.01-04.59.31:553][453]PIE: Error: 블루프린트 런타임 오류: "CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: CloseEnough 함수: Perform Condition Check 그래프: PerformConditionCheck 노드: 반환 노드
+[2019.06.01-05.00.04:613][418]PIE: Error: 블루프린트 런타임 오류: "CallFunc_GetBlackboardValueAsActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: CloseEnough 함수: Perform Condition Check 그래프: PerformConditionCheck 노드: 반환 노드
+[2019.06.01-05.00.04:622][419]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-05.00.04:624][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.01-05.00.04:653][419]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.01-05.00.04:653][419]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.01-05.00.04:676][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.01-05.00.04:724][422]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.06.01-05.00.05:609][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.01-05.00.09:760][ 18]BlueprintLog: New page: AgroCheck 컴파일
+[2019.06.01-05.02.00:235][226]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/AI_Character.AI_Character
+[2019.06.01-05.02.49:750][ 99]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.023
+[2019.06.01-05.02.49:752][ 99]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/AgroCheck] ([1] browsable assets)...
+[2019.06.01-05.02.49:752][ 99]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/AgroCheck]
+[2019.06.01-05.02.49:752][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AgroCheck" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Saved/Autosaves/Game/AI/AgroCheck_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.06.01-05.02.49:789][ 99]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/AgroCheck_Auto1303C3A5C465F373D767A788F281AFC83.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Autosaves/Game/AI/AgroCheck_Auto1.uasset'
+[2019.06.01-05.02.49:813][ 99]LogFileHelpers: Auto-saving content packages took 0.063
+[2019.06.01-05.03.20:509][389]LogSlate: Window 'AI_Character' being destroyed
+[2019.06.01-05.03.20:512][389]LogSlate: Window 'AI_Character' being destroyed
+[2019.06.01-05.12.26:252][314]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/AI_Character.AI_Character
+[2019.06.01-05.12.29:953][727]LogSlate: Window 'AI_Character' being destroyed
+[2019.06.01-05.12.29:958][727]LogSlate: Window 'AI_Character' being destroyed
+[2019.06.01-05.12.36:240][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.01-05.12.41:981][785]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.01-05.12.43:076][914]LogEditorViewport: Clicking on Actor (LMB): AI_Character_C (AI_Character)
+[2019.06.01-05.12.44:905][121]Cmd: DELETE
+[2019.06.01-05.12.44:905][121]Cmd: ACTOR DELETE
+[2019.06.01-05.12.44:924][121]LogEditorActor: Deleted Actor: AI_Character_C
+[2019.06.01-05.12.44:945][121]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2019.06.01-05.12.45:940][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.01-05.12.51:550][290]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.01-05.13.00:143][635]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.01-05.13.15:490][982]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.01-05.13.21:891][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/RapidMoveTo" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/AI/RapidMoveTo.uasset" SILENT=true
+[2019.06.01-05.13.21:918][732]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/RapidMoveTo4EE75E114EFC7CD32ADA16A1A3947D08.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/AI/RapidMoveTo.uasset'
+[2019.06.01-05.13.21:923][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/FollowerBT" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/AI/FollowerBT.uasset" SILENT=true
+[2019.06.01-05.13.21:940][732]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/FollowerBTF986BDE9499CB5BEDB8BF5897236E527.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/AI/FollowerBT.uasset'
+[2019.06.01-05.13.21:944][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/FollowerBlackboard" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/AI/FollowerBlackboard.uasset" SILENT=true
+[2019.06.01-05.13.21:955][732]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/FollowerBlackboard82FE2A944F2C06E627F5B9BC8ECFF690.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/AI/FollowerBlackboard.uasset'
+[2019.06.01-05.13.21:958][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/CloseEnough" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/AI/CloseEnough.uasset" SILENT=true
+[2019.06.01-05.13.21:978][732]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/CloseEnoughF07DE3D14578EE642CBF48BCB5E313CD.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/AI/CloseEnough.uasset'
+[2019.06.01-05.13.21:981][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Follow_AICON" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/AI/Follow_AICON.uasset" SILENT=true
+[2019.06.01-05.13.22:000][732]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Follow_AICON5178473A4AFDD9F6111BE792CC539B2B.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/AI/Follow_AICON.uasset'
+[2019.06.01-05.13.22:010][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_Character" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/AI/AI_Character.uasset" SILENT=true
+[2019.06.01-05.13.22:033][732]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/AI_Character731FDE494F8B60D52DDAE98DFE6DD074.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/AI/AI_Character.uasset'
+[2019.06.01-05.13.22:037][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AgroCheck" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/AI/AgroCheck.uasset" SILENT=true
+[2019.06.01-05.13.22:068][732]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/AgroCheckFD0C1684415B7C984FD98A9B4F8E71E5.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/AI/AgroCheck.uasset'
+[2019.06.01-05.13.25:750][957]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.01-05.13.26:393][957]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AI_Character_C_0.CollisionCylinder) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.06.01-05.13.27:472][957]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.013 s
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: === Handled ensure: ===
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: 
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: Ensure condition failed: CurObject != NULL [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\ObjectTools.cpp] [Line: 2510]
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: 
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: Stack: 
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ffa01e871f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ffa01bc0c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ffa01bdb356 UE4Editor-Core.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ff9d38c0be4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ff9d3001068 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ff9d32b2970 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ff9d32acd7f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ffa00cb9c3b UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ffa00aa94c5 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ffa00b41db2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ffa00b27c7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ffa00b1b25c UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ffa15ebd1c7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ffa15eb0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ffa15ebf4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ffa15eac209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ffa38ac6d41 USER32.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ffa38ac6713 USER32.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ffa15ec05a9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ffa00b4f2b2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ffa00ad77c7 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ff9d3351156 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ff9d38b44f0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ff9d38b38f3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ff9c7f87962 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ff9c80b3247 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ff9c8090fa8 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ffa00af29fe UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ffa00bf4fce UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ffa00bfd660 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ffa00bd1e2f UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ffa00cb9c3b UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ffa00bff375 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ffa00aa94c5 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ffa00b41db2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ffa00b27c7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ffa00b1b25c UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ffa15ebd1c7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ffa15eb0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ffa15ebf4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ffa15eac209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ffa38ac6d41 USER32.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ffa38ac6713 USER32.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ffa15ec0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.01-05.13.27:472][957]LogOutputDevice: Error: [Callstack] 0x00007ff78ada54e5 UE4Editor.exe!UnknownFunction []
+[2019.06.01-05.13.27:473][957]LogOutputDevice: Error: [Callstack] 0x00007ff78adb5b3c UE4Editor.exe!UnknownFunction []
+[2019.06.01-05.13.27:473][957]LogOutputDevice: Error: [Callstack] 0x00007ff78adb5bba UE4Editor.exe!UnknownFunction []
+[2019.06.01-05.13.27:473][957]LogOutputDevice: Error: [Callstack] 0x00007ff78adc3dac UE4Editor.exe!UnknownFunction []
+[2019.06.01-05.13.27:473][957]LogOutputDevice: Error: [Callstack] 0x00007ff78adc5aaa UE4Editor.exe!UnknownFunction []
+[2019.06.01-05.13.27:473][957]LogOutputDevice: Error: [Callstack] 0x00007ffa383b4034 KERNEL32.DLL!UnknownFunction []
+[2019.06.01-05.13.27:473][957]LogOutputDevice: Error: [Callstack] 0x00007ffa38eb3691 ntdll.dll!UnknownFunction []
+[2019.06.01-05.13.27:473][957]LogOutputDevice: Error: 
+[2019.06.01-05.13.27:480][957]LogStats:                SubmitErrorReport -  0.000 s

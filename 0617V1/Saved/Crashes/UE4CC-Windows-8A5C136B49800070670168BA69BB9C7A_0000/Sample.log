@@ -1,0 +1,1053 @@
+﻿Log file open, 06/04/19 21:30:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Sample
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.225012
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.068s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz, GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.06.04-12.30.37:032][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.04-12.30.37:032][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.04-12.30.37:041][  0]LogHAL: Display: Platform has ~ 16 GB [17112272896 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.04-12.30.37:041][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.06.04-12.30.37:041][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.04-12.30.37:041][  0]LogInit: Computer: DESKTOP-3T2CBCE
+[2019.06.04-12.30.37:041][  0]LogInit: User: User
+[2019.06.04-12.30.37:041][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.06.04-12.30.37:041][  0]LogInit: High frequency timer resolution =3.609377 MHz
+[2019.06.04-12.30.37:041][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.06.04-12.30.37:041][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.04-12.30.37:041][  0]LogMemory: Process Physical Memory: 101.62 MB used, 101.62 MB peak
+[2019.06.04-12.30.37:041][  0]LogMemory: Process Virtual Memory: 100.74 MB used, 100.74 MB peak
+[2019.06.04-12.30.37:041][  0]LogMemory: Physical Memory: 4335.71 MB used,  11983.82 MB free, 16319.54 MB total
+[2019.06.04-12.30.37:041][  0]LogMemory: Virtual Memory: 4646.59 MB used,  11983.82 MB free, 134217728.00 MB total
+[2019.06.04-12.30.37:054][  0]LogInit: Using OS detected language (ko-KR).
+[2019.06.04-12.30.37:054][  0]LogInit: Using OS detected locale (ko-KR).
+[2019.06.04-12.30.37:055][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2019.06.04-12.30.37:321][  0]LogStreaming: Display: Took  0.267s to InitEngineTextLocalization.
+[2019.06.04-12.30.37:321][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.04-12.30.37:344][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.04-12.30.37:344][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.04-12.30.37:470][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.04-12.30.37:470][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.04-12.30.37:519][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2019.06.04-12.30.37:519][  0]LogD3D11RHI:       5980/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.06.04-12.30.37:521][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.04-12.30.37:521][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.04-12.30.37:521][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.04-12.30.37:525][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.04-12.30.37:525][  0]LogD3D11RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.04-12.30.37:525][  0]LogWindows: EnumDisplayDevices:
+[2019.06.04-12.30.37:525][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2019.06.04-12.30.37:525][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2019.06.04-12.30.37:525][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2019.06.04-12.30.37:525][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2019.06.04-12.30.37:526][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.06.04-12.30.37:526][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2019.06.04-12.30.37:526][  0]LogD3D11RHI:   Driver Version: 425.31 (internal:25.21.14.2531, unified:425.31)
+[2019.06.04-12.30.37:526][  0]LogD3D11RHI:      Driver Date: 4-9-2019
+[2019.06.04-12.30.37:526][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2019.06.04-12.30.37:556][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.04-12.30.37:574][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.06.04-12.30.37:622][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (C:/Users/User/Documents/Unreal Projects/Sample/Intermediate/Shaders/WorkingDirectory/9544/).
+[2019.06.04-12.30.37:622][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/BA26A14B42458BA3A0388982F34C5055/'.
+[2019.06.04-12.30.37:796][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.04-12.30.37:805][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.04-12.30.37:814][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.04-12.30.37:824][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.04-12.30.37:833][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.04-12.30.37:843][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.04-12.30.37:852][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.04-12.30.37:861][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.04-12.30.37:865][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.04-12.30.37:922][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-12.30.37:922][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-12.30.37:923][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-12.30.37:923][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-12.30.37:923][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-12.30.37:923][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-12.30.37:923][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-12.30.37:923][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-12.30.37:923][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-12.30.37:923][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-12.30.37:923][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-12.30.37:923][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-12.30.37:923][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-12.30.37:923][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-12.30.37:923][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-12.30.37:923][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-12.30.37:923][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-12.30.37:923][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-12.30.37:923][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.04-12.30.37:976][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.04-12.30.37:976][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.04-12.30.37:992][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.04-12.30.37:992][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.04-12.30.38:001][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.04-12.30.38:010][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.04-12.30.38:018][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.04-12.30.38:028][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.04-12.30.38:035][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.04-12.30.38:035][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.04-12.30.38:066][  0]LogXGEController: Cleaning working directory: C:/Users/User/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.06.04-12.30.38:066][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.04-12.30.38:066][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.04-12.30.38:066][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.04-12.30.38:598][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.04-12.30.38:641][  0]LogDerivedDataCache: Loaded boot cache 0.04s 72MB C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.06.04-12.30.38:641][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.06.04-12.30.38:641][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/User/Documents/Unreal Projects/Sample/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.04-12.30.38:641][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.04-12.30.38:642][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/User/Documents/Unreal Projects/Sample/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.04-12.30.38:642][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.04-12.30.38:653][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.04-12.30.38:665][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.04-12.30.38:665][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.04-12.30.38:665][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.04-12.30.38:678][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.04-12.30.38:679][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.04-12.30.38:680][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.04-12.30.38:738][  0]LogAssetRegistry: FAssetRegistry took 0.0254 seconds to start up
+[2019.06.04-12.30.38:964][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.04-12.30.39:054][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.04-12.30.39:056][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.04-12.30.39:056][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.04-12.30.39:056][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.04-12.30.39:056][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.04-12.30.39:066][  0]LogNetVersion: Sample 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4045640335)
+[2019.06.04-12.30.39:422][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.073905 seconds
+[2019.06.04-12.30.39:427][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.06.04-12.30.39:427][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.06.04-12.30.39:427][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.04-12.30.40:006][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.04-12.30.40:019][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.04-12.30.40:132][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.06.04-12.30.40:132][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.06.04-12.30.40:133][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.06.04-12.30.40:134][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.06.04-12.30.40:272][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.04-12.30.40:335][  0]LogOcInput: OculusInput pre-init called
+[2019.06.04-12.30.40:380][  0]LogEngine: Initializing Engine...
+[2019.06.04-12.30.40:381][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.04-12.30.40:382][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.04-12.30.40:382][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.04-12.30.40:382][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.04-12.30.40:382][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.04-12.30.40:524][  0]LogLinker: Warning: '/Game/Font/MyFont2' 파일을 찾을 수 없습니다.
+[2019.06.04-12.30.40:524][  0]LogLinker: Warning: '/Game/Font/MyFont2' 파일을 찾을 수 없습니다.
+[2019.06.04-12.30.40:524][  0]LogUObjectGlobals: Warning: 'Font /Game/Font/MyFont2.MyFont2' 오브젝트를 찾는 데 실패했습니다.
+[2019.06.04-12.30.40:529][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.04-12.30.40:536][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.04-12.30.40:554][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.04-12.30.40:570][  0]LogInit: FAudioDevice initialized.
+[2019.06.04-12.30.40:570][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.04-12.30.40:635][  0]LogDerivedDataCache: Saved boot cache 0.07s 72MB C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.06.04-12.30.40:640][  0]LogInit: Texture streaming: Enabled
+[2019.06.04-12.30.40:649][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.04-12.30.40:655][  0]LogInit: Transaction tracking system initialized
+[2019.06.04-12.30.40:666][  0]BlueprintLog: New page: 에디터 로드
+[2019.06.04-12.30.40:705][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2019.06.04-12.30.40:885][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.04-12.30.40:885][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.04-12.30.40:885][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.04-12.30.40:885][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.04-12.30.40:885][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.04-12.30.40:885][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.04-12.30.40:885][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.04-12.30.40:953][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/Sample/Content/' took 0.02s
+[2019.06.04-12.30.40:953][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.06.04-12.30.40:953][  0]Cmd: MAP LOAD FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.04-12.30.40:954][  0]LightingResults: New page: 라이팅 빌드
+[2019.06.04-12.30.40:955][  0]MapCheck: New page: 맵 체크
+[2019.06.04-12.30.40:955][  0]LightingResults: New page: 라이팅 빌드
+[2019.06.04-12.30.41:010][  0]LogBlueprint: Warning: [Compiler ThirdPerson_AnimBP] Idle/Run -> Crouch  will never be taken, please connect something to  Can Enter Transition
+[2019.06.04-12.30.41:013][  0]LogBlueprint: Warning: [Compiler ThirdPerson_AnimBP] [0005.08] ThirdPerson_AnimBP 컴파일에 성공했습니다만, 경고가 1 회 있습니다. [소요시간 7 ms] (/Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP)
+[2019.06.04-12.30.41:691][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.04-12.30.41:706][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.04-12.30.41:726][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.04-12.30.41:777][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 50.826ms.
+[2019.06.04-12.30.41:777][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.824
+[2019.06.04-12.30.41:858][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-12.30.41:863][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-12.30.41:869][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-12.30.41:874][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-12.30.41:878][  0]LogCollectionManager: Loaded 0 collections in 0.000552 seconds
+[2019.06.04-12.30.41:915][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Collections/' took 0.01s
+[2019.06.04-12.30.41:915][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/Sample/Content/Developers/User/Collections/' took 0.01s
+[2019.06.04-12.30.41:915][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/Sample/Content/Collections/' took 0.01s
+[2019.06.04-12.30.41:915][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.06.04-12.30.41:923][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2572 classes and 603 folders.
+[2019.06.04-12.30.41:927][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2019.06.04-12.30.41:954][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2019.06.04-12.30.41:957][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2019.06.04-12.30.42:014][  0]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.04-12.30.42:018][  0]LogSlate: Took 0.002057 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.06.04-12.30.42:020][  0]LogSlate: Took 0.001539 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2019.06.04-12.30.42:020][  0]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.04-12.30.42:022][  0]LogSlate: Took 0.000100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.04-12.30.42:078][  0]LogRenderer: Reallocating scene render targets to support 1156x576 Format 10 NumSamples 1 (Frame:1).
+[2019.06.04-12.30.42:202][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2019.06.04-12.30.42:202][  0]LogLoad: (Engine Initialization) Total time: 6.26 seconds
+[2019.06.04-12.30.42:202][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.04-12.30.42:215][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2019.06.04-12.30.42:237][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.04-12.30.42:361][  0]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.04-12.30.42:415][  1]LogAssetRegistry: Asset discovery search completed in 3.6996 seconds
+[2019.06.04-12.30.42:417][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.06.04-12.30.42:417][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000042 seconds (updated 0 objects)
+[2019.06.04-12.30.43:927][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-12.31.02:404][370]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.04-12.31.02:409][370]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/FPS_Weapon_Bundle/Weapons/Meshes/AR4/SK_AR4_X_Skeleton.SK_AR4_X_Skeleton
+[2019.06.04-12.31.02:413][370]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2019.06.04-12.31.05:988][370]LogTexture: Display: 텍스처 빌드: T_762x39_ALB (AutoDXT, 256X256)
+[2019.06.04-12.31.05:988][370]LogTexture: Display: 텍스처 빌드: T_KA74U_ALB (AutoDXT, 2048X2048)
+[2019.06.04-12.31.05:988][370]LogTexture: Display: 텍스처 빌드: T_KA74U_NRM (BC5, 2048X2048)
+[2019.06.04-12.31.05:988][370]LogTexture: Display: 텍스처 빌드: T_Stripes__Pattern (AutoDXT, 1024X1024)
+[2019.06.04-12.31.05:988][370]LogTexture: Display: 텍스처 빌드: T_KA74U_M_MSK (AutoDXT, 2048X2048)
+[2019.06.04-12.31.05:988][370]LogTexture: Display: 텍스처 빌드: T_762x39_NRM (BC5, 256X256)
+[2019.06.04-12.31.05:988][370]LogTexture: Display: 텍스처 빌드: T_762x39_M_MSK (AutoDXT, 256X256)
+[2019.06.04-12.31.05:988][370]LogTexture: Display: 텍스처 빌드: T_AR4_ALB (AutoDXT, 2048X2048)
+[2019.06.04-12.31.05:988][370]LogTexture: Display: 텍스처 빌드: T_AR4_NRM (BC5, 2048X2048)
+[2019.06.04-12.31.05:988][370]LogTexture: Display: 텍스처 빌드: T_AR4_M_MSK (AutoDXT, 2048X2048)
+[2019.06.04-12.31.05:991][370]LogMaterial: Display: Missing cached shader map for material M_Weapon_Master_USE, compiling. 
+[2019.06.04-12.31.06:864][370]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.06.04-12.31.06:864][370]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.06.04-12.31.06:867][370]LogSkeletalMesh: Building Skeletal Mesh SK_AR4_X...
+[2019.06.04-12.31.06:899][370]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/FPS_Weapon_Bundle/Weapons/Meshes/AR4/SK_AR4_X.SK_AR4_X
+[2019.06.04-12.31.07:062][370]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.04-12.31.07:064][370]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0012 seconds. Added 1 classes and 0 folders.
+[2019.06.04-12.31.07:099][370]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.04-12.31.07:394][370]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.06.04-12.31.07:394][370]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0013 seconds. Added 1 classes and 0 folders.
+[2019.06.04-12.31.07:401][371]LogRenderer: Reallocating scene render targets to support 1156x624 Format 10 NumSamples 1 (Frame:1).
+[2019.06.04-12.31.08:384][473]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.06.04-12.31.09:052][547]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.06.04-12.31.09:812][638]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.06.04-12.31.11:222][804]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.06.04-12.31.11:241][806]LogSlate: Window '리타깃 매니저' being destroyed
+[2019.06.04-12.31.11:768][860]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.06.04-12.31.12:382][928]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.06.04-12.31.13:881][102]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.04-12.31.13:932][106]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.06.04-12.31.15:065][237]LogSlate: Window 'SK_AR4_X_Skeleton' being destroyed
+[2019.06.04-12.31.15:067][237]LogSlate: Window 'SK_AR4_X_Skeleton' being destroyed
+[2019.06.04-12.31.16:963][443]LogStaticMesh: SM_AR4 스태틱 메시 빌드중...
+[2019.06.04-12.31.17:065][443]LogStaticMesh: Built static mesh [0.10s] /Game/FPS_Weapon_Bundle/Weapons/Meshes/AR4/SM_AR4.SM_AR4
+[2019.06.04-12.31.17:105][443]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/FPS_Weapon_Bundle/Weapons/Meshes/AR4/SM_AR4.SM_AR4
+[2019.06.04-12.31.17:556][443]LogRenderer: Reallocating scene render targets to support 1156x660 Format 10 NumSamples 1 (Frame:1).
+[2019.06.04-12.31.17:556][443]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.04-12.31.21:837][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-12.31.21:928][956]LogSlate: Window 'SM_AR4' being destroyed
+[2019.06.04-12.31.21:932][956]LogSlate: Window 'SM_AR4' being destroyed
+[2019.06.04-12.31.54:792][852]LogSkeletalMesh: Building Skeletal Mesh SK_AR4...
+[2019.06.04-12.31.54:807][852]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/FPS_Weapon_Bundle/Weapons/Meshes/AR4/SK_AR4.SK_AR4
+[2019.06.04-12.32.00:229][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-12.32.00:385][510]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/FPS_Weapon_Bundle/Weapons/Meshes/AR4/SK_AR4.SK_AR4
+[2019.06.04-12.32.00:390][510]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.04-12.32.00:423][510]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.04-12.32.01:786][640]LogSlate: Window 'SK_AR4' being destroyed
+[2019.06.04-12.32.01:789][640]LogSlate: Window 'SK_AR4' being destroyed
+[2019.06.04-12.32.04:572][767]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.04-12.32.05:407][861]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_AR4)
+[2019.06.04-12.32.05:728][898]Cmd: DELETE
+[2019.06.04-12.32.05:728][898]Cmd: ACTOR DELETE
+[2019.06.04-12.32.05:731][898]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.06.04-12.32.05:748][898]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2019.06.04-12.32.10:626][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-12.32.10:721][494]LogActorFactory: Actor Factory created SM_AR4
+[2019.06.04-12.32.10:934][519]LogActorFactory: Actor Factory created SM_AR4
+[2019.06.04-12.32.26:812][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AR4)
+[2019.06.04-12.32.27:328][476]Cmd: DELETE
+[2019.06.04-12.32.27:328][476]Cmd: ACTOR DELETE
+[2019.06.04-12.32.27:330][476]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.04-12.32.27:349][476]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2019.06.04-12.32.43:749][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-12.32.47:502][403]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character
+[2019.06.04-12.32.47:839][403]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 116 classes and 0 folders.
+[2019.06.04-12.32.48:407][403]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.04-12.33.29:962][653]LogSlate: Window 'Ue4ASP_Character' being destroyed
+[2019.06.04-12.33.29:966][653]LogSlate: Window 'Ue4ASP_Character' being destroyed
+[2019.06.04-12.34.27:265][ 94]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2019.06.04-12.34.27:270][ 94]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.04-12.34.27:306][ 94]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.04-12.34.35:710][ 42]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/AnimStarterPack/BS_CrouchWalk.BS_CrouchWalk
+[2019.06.04-12.34.35:719][ 42]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.04-12.34.35:747][ 42]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.04-12.34.36:050][ 42]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.04-12.35.05:979][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-12.36.01:783][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-12.36.03:090][750]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.04-12.36.08:429][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-12.37.01:315][200]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.04-12.37.12:368][463]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/FPS_Weapon_Bundle/Weapons/Meshes/AR4/SM_AR4.SM_AR4
+[2019.06.04-12.37.29:587][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-12.37.39:936][ 46]LogStaticMesh: SM_AR4 스태틱 메시 빌드중...
+[2019.06.04-12.37.40:018][ 46]LogStaticMesh: Built static mesh [0.08s] /Game/FPS_Weapon_Bundle/Weapons/Meshes/AR4/SM_AR4.SM_AR4
+[2019.06.04-12.38.45:967][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-12.39.02:398][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-12.39.02:539][354]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/SM_AR420B216E24B6EBE7AFB13FA90456603DC.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/FPS_Weapon_Bundle/Weapons/Meshes/AR4/SM_AR4.uasset'
+[2019.06.04-12.40.18:324][651]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/SM_AR4DCD130FB41A2FF1BD3D9E5BBC26A0BA2.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/FPS_Weapon_Bundle/Weapons/Meshes/AR4/SM_AR4.uasset'
+[2019.06.04-12.40.19:396][778]LogSlate: Window 'SM_AR4' being destroyed
+[2019.06.04-12.40.19:399][778]LogSlate: Window 'SM_AR4' being destroyed
+[2019.06.04-12.40.29:302][902]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character
+[2019.06.04-12.40.44:788][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-12.41.16:052][496]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/ThirdPersonExampleMap_Auto17D9B38314E0A8DAD413EAF818328C39C.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2019.06.04-12.41.16:055][496]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.208
+[2019.06.04-12.41.16:055][496]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.208
+[2019.06.04-12.41.16:057][496]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton] ([1] browsable assets)...
+[2019.06.04-12.41.16:057][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton]
+[2019.06.04-12.41.16:073][496]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/UE4_Mannequin_Skeleton_Auto1CDDF111B4A7F763E9B62DB9A9851D70C.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Autosaves/Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton_Auto1.uasset'
+[2019.06.04-12.41.16:074][496]LogFileHelpers: Auto-saving content packages took 0.018
+[2019.06.04-12.42.32:196][122]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.04-12.43.34:315][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-12.43.55:420][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-12.44.03:027][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-12.44.13:798][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-12.44.42:141][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-12.45.07:645][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-12.45.17:018][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-12.45.22:718][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.04-12.45.47:915][982]LogEditorTransaction: Undo 컴포넌트 변수 이름변경
+[2019.06.04-12.45.53:610][604]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.04-12.45.53:622][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Ue4ASP_Character" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/AnimStarterPack/Ue4ASP_Character.uasset" SILENT=true
+[2019.06.04-12.45.53:666][604]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Ue4ASP_CharacterF95743784A87CEE460D1CFABADB4A2A8.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/AnimStarterPack/Ue4ASP_Character.uasset'
+[2019.06.04-12.45.54:961][756]Cmd: TRANSACTION UNDO
+[2019.06.04-12.45.54:961][756]LogEditorTransaction: Undo 컴포넌트 변경
+[2019.06.04-12.45.59:758][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-12.46.05:697][974]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.04-12.46.35:582][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-12.46.50:504][137]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-12.46.57:603][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-12.47.13:391][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-12.47.13:474][776]BlueprintLog: New page: Ue4ASP_Character 컴파일
+[2019.06.04-12.47.16:169][ 51]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.04-12.47.16:194][ 51]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.47.16:194][ 51]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.04-12.47.16:206][ 51]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 6. 5. 오전 6:47:16)
+[2019.06.04-12.47.16:206][ 51]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.04-12.47.16:218][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011679s)
+[2019.06.04-12.47.16:218][ 51]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.04-12.47.16:218][ 51]LogPlayLevel: PIE: World Init took: (0.000633s)
+[2019.06.04-12.47.16:219][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012447s)
+[2019.06.04-12.47.16:257][ 51]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.04-12.47.16:268][ 51]LogInit: FAudioDevice initialized.
+[2019.06.04-12.47.16:320][ 51]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.04-12.47.16:324][ 51]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.04-21.47.16
+[2019.06.04-12.47.16:325][ 51]LogWorld: Bringing up level for play took: 0.004222
+[2019.06.04-12.47.16:340][ 51]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 10 classes and 0 folders.
+[2019.06.04-12.47.16:342][ 51]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.285
+[2019.06.04-12.47.16:342][ 51]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.47.27:728][414]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.47.27:728][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-12.47.27:763][414]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.04-12.47.27:763][414]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.47.27:785][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-12.47.27:830][416]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.06.04-12.47.34:381][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-12.47.34:464][211]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.04-12.47.34:483][211]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.47.34:484][211]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.04-12.47.34:484][211]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 6. 5. 오전 6:47:34)
+[2019.06.04-12.47.34:484][211]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.04-12.47.34:495][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011388s)
+[2019.06.04-12.47.34:496][211]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.04-12.47.34:496][211]LogPlayLevel: PIE: World Init took: (0.000591s)
+[2019.06.04-12.47.34:496][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012098s)
+[2019.06.04-12.47.34:530][211]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.04-12.47.34:541][211]LogInit: FAudioDevice initialized.
+[2019.06.04-12.47.34:573][211]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.04-12.47.34:577][211]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.04-21.47.34
+[2019.06.04-12.47.34:578][211]LogWorld: Bringing up level for play took: 0.003926
+[2019.06.04-12.47.34:591][211]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.535
+[2019.06.04-12.47.34:591][211]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.47.50:999][177]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.47.50:999][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-12.47.51:036][177]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.04-12.47.51:036][177]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.47.51:057][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-12.47.51:510][178]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.04-12.47.51:551][178]LogSlate: Took 0.035714 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.06.04-12.47.51:619][178]LogSlate: Took 0.067756 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2019.06.04-12.47.51:625][179]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.06.04-12.48.12:976][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-12.48.13:019][243]LogSlate: Window 'Ue4ASP_Character*' being destroyed
+[2019.06.04-12.48.13:025][243]LogSlate: Window 'Ue4ASP_Character*' being destroyed
+[2019.06.04-12.48.13:651][310]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.04-12.48.13:673][310]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.48.13:673][310]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.04-12.48.13:673][310]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 6. 5. 오전 6:48:13)
+[2019.06.04-12.48.13:673][310]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.04-12.48.13:684][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011171s)
+[2019.06.04-12.48.13:685][310]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.04-12.48.13:685][310]LogPlayLevel: PIE: World Init took: (0.000604s)
+[2019.06.04-12.48.13:685][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011887s)
+[2019.06.04-12.48.13:718][310]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.04-12.48.13:729][310]LogInit: FAudioDevice initialized.
+[2019.06.04-12.48.13:756][310]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.04-12.48.13:760][310]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.04-21.48.13
+[2019.06.04-12.48.13:761][310]LogWorld: Bringing up level for play took: 0.003844
+[2019.06.04-12.48.13:774][310]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.282
+[2019.06.04-12.48.13:774][310]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.48.24:065][542]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.48.24:065][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-12.48.24:095][542]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.04-12.48.24:095][542]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.48.24:117][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-12.48.24:172][547]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.06.04-12.48.28:145][  2]LogEditorViewport: Clicking on Actor (LMB): Ue4ASP_Character_C (Ue4ASP_Character)
+[2019.06.04-12.48.31:449][378]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-12.48.31:538][388]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character
+[2019.06.04-12.49.01:422][342]BlueprintLog: New page: Ue4ASP_Character 컴파일
+[2019.06.04-12.49.03:293][503]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.04-12.49.03:317][503]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.49.03:317][503]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.04-12.49.03:318][503]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 6. 5. 오전 6:49:03)
+[2019.06.04-12.49.03:318][503]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.04-12.49.03:329][503]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011440s)
+[2019.06.04-12.49.03:330][503]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.04-12.49.03:330][503]LogPlayLevel: PIE: World Init took: (0.000555s)
+[2019.06.04-12.49.03:330][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012102s)
+[2019.06.04-12.49.03:394][503]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.04-12.49.03:404][503]LogInit: FAudioDevice initialized.
+[2019.06.04-12.49.03:433][503]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.04-12.49.03:437][503]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.04-21.49.03
+[2019.06.04-12.49.03:438][503]LogWorld: Bringing up level for play took: 0.003968
+[2019.06.04-12.49.03:451][503]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.604
+[2019.06.04-12.49.03:451][503]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.49.18:736][334]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.49.18:736][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-12.49.18:767][334]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.04-12.49.18:767][334]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.49.18:790][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-12.49.18:836][338]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.06.04-12.49.20:696][445]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.04-12.49.28:723][364]BlueprintLog: New page: Ue4ASP_Character 컴파일
+[2019.06.04-12.49.30:307][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-12.49.30:382][530]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.04-12.49.30:408][530]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.49.30:408][530]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.04-12.49.30:408][530]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 6. 5. 오전 6:49:30)
+[2019.06.04-12.49.30:408][530]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.04-12.49.30:420][530]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011389s)
+[2019.06.04-12.49.30:420][530]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.04-12.49.30:420][530]LogPlayLevel: PIE: World Init took: (0.000531s)
+[2019.06.04-12.49.30:420][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012031s)
+[2019.06.04-12.49.30:457][530]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.04-12.49.30:468][530]LogInit: FAudioDevice initialized.
+[2019.06.04-12.49.30:500][530]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.04-12.49.30:504][530]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.04-21.49.30
+[2019.06.04-12.49.30:505][530]LogWorld: Bringing up level for play took: 0.003975
+[2019.06.04-12.49.30:518][530]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.462
+[2019.06.04-12.49.30:518][530]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.50.36:399][430]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.50.36:399][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-12.50.36:437][430]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.04-12.50.36:437][430]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.50.36:460][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-12.50.36:500][432]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.06.04-12.50.41:331][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-12.50.43:272][242]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_1.Hit_React_1
+[2019.06.04-12.50.43:272][242]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Hit_React_1.Hit_React_1) using current/default (AnimCompress_BitwiseCompressOnly_25) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.04-12.50.43:279][242]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Hit_React_1.Hit_React_1
+[2019.06.04-12.50.43:284][242]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.04-12.50.43:317][242]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.04-12.50.43:619][242]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.04-12.50.45:432][432]LogSlate: Window 'Hit_React_1' being destroyed
+[2019.06.04-12.50.45:435][432]LogSlate: Window 'Hit_React_1' being destroyed
+[2019.06.04-12.51.04:745][695]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.Stand_to_Crouch_Rifle_Ironsights
+[2019.06.04-12.51.04:745][695]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.Stand_to_Crouch_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_56) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.04-12.51.04:753][695]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.Stand_to_Crouch_Rifle_Ironsights
+[2019.06.04-12.51.04:758][695]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.04-12.51.04:793][695]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.04-12.51.05:097][695]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.04-12.51.08:507][ 75]LogSlate: Window 'Stand_to_Crouch_Rifle_Ironsights' being destroyed
+[2019.06.04-12.51.08:511][ 75]LogSlate: Window 'Stand_to_Crouch_Rifle_Ironsights' being destroyed
+[2019.06.04-12.51.13:287][619]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Jog_Rt_Rifle.Jog_Rt_Rifle
+[2019.06.04-12.51.13:292][619]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.04-12.51.13:327][619]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.04-12.51.13:619][619]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.04-12.51.15:892][863]LogSlate: Window 'Jog_Rt_Rifle' being destroyed
+[2019.06.04-12.51.15:896][863]LogSlate: Window 'Jog_Rt_Rifle' being destroyed
+[2019.06.04-12.51.17:671][ 53]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_To_Stand.Prone_To_Stand
+[2019.06.04-12.51.17:671][ 53]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Prone_To_Stand.Prone_To_Stand) using current/default (AnimCompress_BitwiseCompressOnly_48) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.04-12.51.17:679][ 53]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Prone_To_Stand.Prone_To_Stand
+[2019.06.04-12.51.17:683][ 53]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.04-12.51.17:718][ 53]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.04-12.51.18:009][ 53]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.04-12.51.19:775][253]LogSlate: Window 'Prone_To_Stand' being destroyed
+[2019.06.04-12.51.19:778][253]LogSlate: Window 'Prone_To_Stand' being destroyed
+[2019.06.04-12.51.21:027][379]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Shotgun_Hip.Reload_Shotgun_Hip
+[2019.06.04-12.51.21:027][379]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Reload_Shotgun_Hip.Reload_Shotgun_Hip) using current/default (AnimCompress_BitwiseCompressOnly_52) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.04-12.51.21:035][379]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Reload_Shotgun_Hip.Reload_Shotgun_Hip
+[2019.06.04-12.51.21:039][379]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.04-12.51.21:076][379]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.04-12.51.21:378][379]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.04-12.51.23:288][590]LogSlate: Window 'Reload_Shotgun_Hip' being destroyed
+[2019.06.04-12.51.23:291][590]LogSlate: Window 'Reload_Shotgun_Hip' being destroyed
+[2019.06.04-12.51.26:175][911]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Jog_Fwd_Rifle.Jog_Fwd_Rifle
+[2019.06.04-12.51.26:180][911]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.04-12.51.26:216][911]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.04-12.51.26:510][911]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.04-12.51.28:811][149]LogSlate: Window 'Jog_Fwd_Rifle' being destroyed
+[2019.06.04-12.51.28:815][149]LogSlate: Window 'Jog_Fwd_Rifle' being destroyed
+[2019.06.04-12.51.37:442][154]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Shotgun_Hip.Fire_Shotgun_Hip
+[2019.06.04-12.51.37:442][154]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Fire_Shotgun_Hip.Fire_Shotgun_Hip) using current/default (AnimCompress_BitwiseCompressOnly_23) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.04-12.51.37:450][154]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Fire_Shotgun_Hip.Fire_Shotgun_Hip
+[2019.06.04-12.51.37:455][154]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.04-12.51.37:491][154]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.04-12.51.37:790][154]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.04-12.51.39:945][393]LogSlate: Window 'Fire_Shotgun_Hip' being destroyed
+[2019.06.04-12.51.39:948][393]LogSlate: Window 'Fire_Shotgun_Hip' being destroyed
+[2019.06.04-12.51.43:090][745]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Rifle_Hip.Fire_Rifle_Hip
+[2019.06.04-12.51.43:090][745]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Fire_Rifle_Hip.Fire_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_21) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.04-12.51.43:097][745]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Fire_Rifle_Hip.Fire_Rifle_Hip
+[2019.06.04-12.51.43:102][745]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.04-12.51.43:136][745]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.04-12.51.43:448][745]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.04-12.51.51:161][614]LogSlate: Window 'Fire_Rifle_Hip' being destroyed
+[2019.06.04-12.51.51:165][614]LogSlate: Window 'Fire_Rifle_Hip' being destroyed
+[2019.06.04-12.51.52:024][693]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Equip_Pistol_Standing.Equip_Pistol_Standing
+[2019.06.04-12.51.52:025][693]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Equip_Pistol_Standing.Equip_Pistol_Standing) using current/default (AnimCompress_BitwiseCompressOnly_19) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.04-12.51.52:032][693]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Equip_Pistol_Standing.Equip_Pistol_Standing
+[2019.06.04-12.51.52:037][693]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.04-12.51.52:070][693]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.04-12.51.52:378][693]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.04-12.51.54:718][944]LogSlate: Window 'Equip_Pistol_Standing' being destroyed
+[2019.06.04-12.51.54:721][944]LogSlate: Window 'Equip_Pistol_Standing' being destroyed
+[2019.06.04-12.51.55:604][ 26]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Equip_Rifle_Standing.Equip_Rifle_Standing
+[2019.06.04-12.51.55:604][ 26]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Equip_Rifle_Standing.Equip_Rifle_Standing) using current/default (AnimCompress_BitwiseCompressOnly_20) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.04-12.51.55:611][ 26]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Equip_Rifle_Standing.Equip_Rifle_Standing
+[2019.06.04-12.51.55:616][ 26]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_45:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.04-12.51.55:650][ 26]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_45:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.04-12.51.55:951][ 26]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.04-12.51.58:546][308]LogSlate: Window 'Equip_Rifle_Standing' being destroyed
+[2019.06.04-12.51.58:549][308]LogSlate: Window 'Equip_Rifle_Standing' being destroyed
+[2019.06.04-12.51.59:927][448]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Death_Ironsights_2.Death_Ironsights_2
+[2019.06.04-12.51.59:932][448]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.04-12.51.59:967][448]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.04-12.52.00:265][448]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.04-12.52.03:271][773]LogSlate: Window 'Death_Ironsights_2' being destroyed
+[2019.06.04-12.52.03:274][773]LogSlate: Window 'Death_Ironsights_2' being destroyed
+[2019.06.04-12.52.04:250][865]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Death_Ironsights_1.Death_Ironsights_1
+[2019.06.04-12.52.04:254][865]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.04-12.52.04:290][865]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.04-12.52.04:609][865]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.04-12.52.10:180][486]LogSlate: Window 'Death_Ironsights_1' being destroyed
+[2019.06.04-12.52.10:183][486]LogSlate: Window 'Death_Ironsights_1' being destroyed
+[2019.06.04-12.52.14:326][957]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_1.Death_1
+[2019.06.04-12.52.14:326][957]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Death_1.Death_1) using current/default (AnimCompress_BitwiseCompressOnly_14) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.04-12.52.14:333][957]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Death_1.Death_1
+[2019.06.04-12.52.14:338][957]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.04-12.52.14:374][957]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.04-12.52.14:673][957]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.04-12.52.19:191][455]LogSlate: Window 'Death_1' being destroyed
+[2019.06.04-12.52.19:194][455]LogSlate: Window 'Death_1' being destroyed
+[2019.06.04-12.52.27:040][364]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character
+[2019.06.04-12.52.40:336][743]LogSlate: Window 'Ue4ASP_Character*' being destroyed
+[2019.06.04-12.52.40:339][743]LogSlate: Window 'Ue4ASP_Character*' being destroyed
+[2019.06.04-12.52.41:459][867]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint
+[2019.06.04-12.52.41:468][867]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_59:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.04-12.52.41:669][867]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_59:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.04-12.52.41:968][867]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.04-12.53.07:249][643]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.04-12.53.07:269][643]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.53.07:269][643]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.04-12.53.07:269][643]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 6. 5. 오전 6:53:07)
+[2019.06.04-12.53.07:269][643]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.04-12.53.07:281][643]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012054s)
+[2019.06.04-12.53.07:282][643]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.04-12.53.07:282][643]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2019.06.04-12.53.07:282][643]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012799s)
+[2019.06.04-12.53.07:336][643]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.04-12.53.07:348][643]LogInit: FAudioDevice initialized.
+[2019.06.04-12.53.07:377][643]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.04-12.53.07:381][643]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.04-21.53.07
+[2019.06.04-12.53.07:382][643]LogWorld: Bringing up level for play took: 0.004312
+[2019.06.04-12.53.07:395][643]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.66
+[2019.06.04-12.53.07:395][643]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.53.28:248][676]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.53.28:248][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-12.53.28:282][676]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.04-12.53.28:282][676]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.53.28:304][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-12.53.28:348][679]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2019.06.04-12.53.29:914][854]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-12.53.56:514][922]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/ThirdPersonExampleMap_Auto2DDF42324433F26F358CA9E8A23BB712D.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2019.06.04-12.53.56:517][922]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.207
+[2019.06.04-12.53.56:517][922]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.207
+[2019.06.04-12.53.56:518][922]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimStarterPack/Ue4ASP_Character] ([1] browsable assets)...
+[2019.06.04-12.53.56:528][922]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character]
+[2019.06.04-12.53.56:528][922]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/Ue4ASP_Character]
+[2019.06.04-12.53.56:569][922]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Ue4ASP_Character_Auto2F80F9F0F4A3B702821422AB786CAFE7F.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Autosaves/Game/AnimStarterPack/Ue4ASP_Character_Auto2.uasset'
+[2019.06.04-12.53.56:570][922]LogFileHelpers: Auto-saving content packages took 0.052
+[2019.06.04-12.54.21:921][837]LogSlate: Window 'UE4ASP_HeroTPP_AnimBlueprint' being destroyed
+[2019.06.04-12.54.21:925][837]LogSlate: Window 'UE4ASP_HeroTPP_AnimBlueprint' being destroyed
+[2019.06.04-12.54.23:071][954]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.04-12.54.23:091][954]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.54.23:091][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.04-12.54.23:091][954]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 6. 5. 오전 6:54:23)
+[2019.06.04-12.54.23:091][954]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.04-12.54.23:103][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011562s)
+[2019.06.04-12.54.23:103][954]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.04-12.54.23:103][954]LogPlayLevel: PIE: World Init took: (0.000550s)
+[2019.06.04-12.54.23:103][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012222s)
+[2019.06.04-12.54.23:142][954]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.04-12.54.23:153][954]LogInit: FAudioDevice initialized.
+[2019.06.04-12.54.23:186][954]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.04-12.54.23:190][954]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.04-21.54.23
+[2019.06.04-12.54.23:191][954]LogWorld: Bringing up level for play took: 0.003849
+[2019.06.04-12.54.23:204][954]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.852
+[2019.06.04-12.54.23:204][954]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.54.45:371][611]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'TalkingAbout' of length 3 in '/Game/AI/RotateTextRender.RotateTextRender_C'!
+[2019.06.04-12.54.48:247][956]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'TalkingAbout' of length 3 in '/Game/AI/RotateTextRender.RotateTextRender_C'!
+[2019.06.04-12.54.51:380][332]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'TalkingAbout' of length 3 in '/Game/AI/RotateTextRender.RotateTextRender_C'!
+[2019.06.04-12.54.55:189][789]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'TalkingAbout' of length 3 in '/Game/AI/RotateTextRender.RotateTextRender_C'!
+[2019.06.04-12.54.55:564][834]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'TalkingAbout' of length 3 in '/Game/AI/RotateTextRender.RotateTextRender_C'!
+[2019.06.04-12.54.58:680][208]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'TalkingAbout' of length 3 in '/Game/AI/RotateTextRender.RotateTextRender_C'!
+[2019.06.04-12.55.07:031][208]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'TalkingAbout' of length 3 in '/Game/AI/RotateTextRender.RotateTextRender_C'!
+[2019.06.04-12.56.15:912][471]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.56.15:912][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-12.56.15:942][471]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.04-12.56.15:942][471]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.56.15:964][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-12.56.16:016][476]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2019.06.04-12.56.17:897][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-12.56.18:060][717]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character
+[2019.06.04-12.57.37:991][204]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.06.04-12.57.45:527][ 10]BlueprintLog: New page: Ue4ASP_Character 컴파일
+[2019.06.04-12.57.48:621][325]BlueprintLog: New page: Ue4ASP_Character 컴파일
+[2019.06.04-12.57.50:531][518]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.04-12.57.50:559][518]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.57.50:559][518]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.04-12.57.50:560][518]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 6. 5. 오전 6:57:50)
+[2019.06.04-12.57.50:560][518]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.04-12.57.50:571][518]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011560s)
+[2019.06.04-12.57.50:572][518]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.04-12.57.50:572][518]LogPlayLevel: PIE: World Init took: (0.000604s)
+[2019.06.04-12.57.50:572][518]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012272s)
+[2019.06.04-12.57.50:610][518]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.04-12.57.50:622][518]LogInit: FAudioDevice initialized.
+[2019.06.04-12.57.50:654][518]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.04-12.57.50:657][518]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.04-21.57.50
+[2019.06.04-12.57.50:658][518]LogWorld: Bringing up level for play took: 0.003919
+[2019.06.04-12.57.50:671][518]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.615
+[2019.06.04-12.57.50:671][518]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.58.12:770][167]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.58.12:771][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-12.58.12:806][167]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.04-12.58.12:806][167]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.58.12:829][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-12.58.12:876][172]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2019.06.04-12.58.16:055][315]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.04-12.58.45:996][628]BlueprintLog: New page: Ue4ASP_Character 컴파일
+[2019.06.04-12.58.47:462][771]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.04-12.58.47:491][771]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.58.47:491][771]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.04-12.58.47:491][771]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 6. 5. 오전 6:58:47)
+[2019.06.04-12.58.47:491][771]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.04-12.58.47:501][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010294s)
+[2019.06.04-12.58.47:502][771]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.04-12.58.47:502][771]LogPlayLevel: PIE: World Init took: (0.000665s)
+[2019.06.04-12.58.47:502][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011081s)
+[2019.06.04-12.58.47:539][771]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.04-12.58.47:550][771]LogInit: FAudioDevice initialized.
+[2019.06.04-12.58.47:583][771]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.04-12.58.47:587][771]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.04-21.58.47
+[2019.06.04-12.58.47:588][771]LogWorld: Bringing up level for play took: 0.004203
+[2019.06.04-12.58.47:601][771]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.455
+[2019.06.04-12.58.47:601][771]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.59.49:870][238]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.59.49:871][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-12.59.49:907][238]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.04-12.59.49:907][238]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-12.59.49:930][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-12.59.49:976][242]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2019.06.04-12.59.55:305][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2019.06.04-12.59.56:387][965]Cmd: EDIT COPY
+[2019.06.04-12.59.56:740][  6]Cmd: EDIT PASTE
+[2019.06.04-13.00.29:869][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-13.00.29:944][926]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.04-13.00.29:964][926]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-13.00.29:964][926]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.04-13.00.29:964][926]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 6. 5. 오전 7:00:29)
+[2019.06.04-13.00.29:965][926]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.04-13.00.29:975][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010492s)
+[2019.06.04-13.00.29:976][926]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.04-13.00.29:976][926]LogPlayLevel: PIE: World Init took: (0.001000s)
+[2019.06.04-13.00.29:976][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011669s)
+[2019.06.04-13.00.30:012][926]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.04-13.00.30:023][926]LogInit: FAudioDevice initialized.
+[2019.06.04-13.00.30:050][926]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.04-13.00.30:054][926]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.04-22.00.30
+[2019.06.04-13.00.30:055][926]LogWorld: Bringing up level for play took: 0.004054
+[2019.06.04-13.00.30:068][926]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.012
+[2019.06.04-13.00.30:068][926]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-13.01.03:079][882]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-13.01.03:079][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-13.01.03:113][882]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.04-13.01.03:113][882]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-13.01.03:136][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-13.01.03:186][885]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2019.06.04-13.01.04:203][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2019.06.04-13.01.19:649][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-13.01.19:708][850]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.04-13.01.19:728][850]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-13.01.19:728][850]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.04-13.01.19:728][850]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 6. 5. 오전 7:01:19)
+[2019.06.04-13.01.19:728][850]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.04-13.01.19:739][850]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010423s)
+[2019.06.04-13.01.19:739][850]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.04-13.01.19:739][850]LogPlayLevel: PIE: World Init took: (0.000555s)
+[2019.06.04-13.01.19:739][850]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011094s)
+[2019.06.04-13.01.19:776][850]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.04-13.01.19:787][850]LogInit: FAudioDevice initialized.
+[2019.06.04-13.01.19:818][850]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.04-13.01.19:822][850]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.04-22.01.19
+[2019.06.04-13.01.19:823][850]LogWorld: Bringing up level for play took: 0.003983
+[2019.06.04-13.01.19:836][850]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.22
+[2019.06.04-13.01.19:836][850]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-13.01.53:412][876]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-13.01.53:412][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-13.01.53:444][876]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.04-13.01.53:444][876]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-13.01.53:467][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-13.01.53:512][880]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2019.06.04-13.01.55:217][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2019.06.04-13.02.03:162][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-13.02.03:271][ 18]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.04-13.02.03:290][ 18]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-13.02.03:290][ 18]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.04-13.02.03:291][ 18]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 6. 5. 오전 7:02:03)
+[2019.06.04-13.02.03:291][ 18]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.04-13.02.03:301][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010279s)
+[2019.06.04-13.02.03:301][ 18]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.04-13.02.03:302][ 18]LogPlayLevel: PIE: World Init took: (0.000557s)
+[2019.06.04-13.02.03:302][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010945s)
+[2019.06.04-13.02.03:337][ 18]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.04-13.02.03:348][ 18]LogInit: FAudioDevice initialized.
+[2019.06.04-13.02.03:379][ 18]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.04-13.02.03:383][ 18]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.04-22.02.03
+[2019.06.04-13.02.03:384][ 18]LogWorld: Bringing up level for play took: 0.004168
+[2019.06.04-13.02.03:397][ 18]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.658
+[2019.06.04-13.02.03:397][ 18]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-13.02.16:940][640]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-13.02.16:940][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-13.02.16:973][640]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.04-13.02.16:973][640]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-13.02.16:997][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-13.02.17:042][644]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2019.06.04-13.02.17:738][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2019.06.04-13.02.18:431][806]Cmd: DELETE
+[2019.06.04-13.02.18:431][806]Cmd: ACTOR DELETE
+[2019.06.04-13.02.18:435][806]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.04-13.02.18:457][806]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.06.04-13.02.19:002][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-13.02.19:094][882]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.04-13.02.19:113][882]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-13.02.19:113][882]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.04-13.02.19:113][882]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 6. 5. 오전 7:02:19)
+[2019.06.04-13.02.19:113][882]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.04-13.02.19:124][882]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011166s)
+[2019.06.04-13.02.19:125][882]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.04-13.02.19:125][882]LogPlayLevel: PIE: World Init took: (0.000650s)
+[2019.06.04-13.02.19:125][882]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011933s)
+[2019.06.04-13.02.19:161][882]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.04-13.02.19:172][882]LogInit: FAudioDevice initialized.
+[2019.06.04-13.02.19:202][882]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.04-13.02.19:206][882]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.04-22.02.19
+[2019.06.04-13.02.19:207][882]LogWorld: Bringing up level for play took: 0.003900
+[2019.06.04-13.02.19:220][882]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.836
+[2019.06.04-13.02.19:220][882]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-13.02.44:853][953]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'TalkingAbout' of length 3 in '/Game/AI/RotateTextRender.RotateTextRender_C'!
+[2019.06.04-13.02.49:162][470]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'TalkingAbout' of length 3 in '/Game/AI/RotateTextRender.RotateTextRender_C'!
+[2019.06.04-13.03.16:423][741]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-13.03.16:423][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-13.03.16:455][741]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.04-13.03.16:455][741]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-13.03.16:479][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-13.03.16:524][745]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2019.06.04-13.03.21:183][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-13.03.22:539][457]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.Crouch_Walk_Rt_Rifle_Ironsights
+[2019.06.04-13.03.22:539][457]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.Crouch_Walk_Rt_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_13) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.04-13.03.22:546][457]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.Crouch_Walk_Rt_Rifle_Ironsights
+[2019.06.04-13.03.22:552][457]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_62:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.04-13.03.22:585][457]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_62:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.04-13.03.22:903][457]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.04-13.03.24:457][618]LogSlate: Window 'Crouch_Walk_Rt_Rifle_Ironsights' being destroyed
+[2019.06.04-13.03.24:460][618]LogSlate: Window 'Crouch_Walk_Rt_Rifle_Ironsights' being destroyed
+[2019.06.04-13.03.25:982][771]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.04-13.03.26:001][771]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-13.03.26:001][771]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.04-13.03.26:002][771]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 6. 5. 오전 7:03:26)
+[2019.06.04-13.03.26:002][771]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.04-13.03.26:012][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010328s)
+[2019.06.04-13.03.26:012][771]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.04-13.03.26:013][771]LogPlayLevel: PIE: World Init took: (0.000562s)
+[2019.06.04-13.03.26:013][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010998s)
+[2019.06.04-13.03.26:050][771]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.04-13.03.26:061][771]LogInit: FAudioDevice initialized.
+[2019.06.04-13.03.26:094][771]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.04-13.03.26:097][771]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.04-22.03.26
+[2019.06.04-13.03.26:098][771]LogWorld: Bringing up level for play took: 0.004026
+[2019.06.04-13.03.26:111][771]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.055
+[2019.06.04-13.03.26:111][771]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-13.03.54:043][118]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-13.03.54:044][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-13.03.54:080][118]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.04-13.03.54:080][118]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.04-13.03.54:102][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-13.03.54:149][121]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2019.06.04-13.04.01:957][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-13.04.03:071][179]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character
+[2019.06.04-13.04.12:817][203]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint
+[2019.06.04-13.04.12:825][203]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.04-13.04.13:014][203]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.04-13.04.13:296][203]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.04-13.04.48:457][ 35]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_2.Death_2
+[2019.06.04-13.04.48:457][ 35]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Death_2.Death_2) using current/default (AnimCompress_BitwiseCompressOnly_15) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.04-13.04.48:467][ 35]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Death_2.Death_2
+[2019.06.04-13.04.48:471][ 35]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_69:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.04-13.04.48:501][ 35]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_69:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.04-13.04.48:828][ 35]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.04-13.04.51:147][292]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Death_1.Death_1
+[2019.06.04-13.04.52:604][430]LogSlate: Window 'Death_1' being destroyed
+[2019.06.04-13.04.52:607][430]LogSlate: Window 'Death_1' being destroyed
+[2019.06.04-13.04.53:362][467]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_3.Death_3
+[2019.06.04-13.04.53:362][467]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Death_3.Death_3) using current/default (AnimCompress_BitwiseCompressOnly_16) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.04-13.04.53:369][467]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Death_3.Death_3
+[2019.06.04-13.04.53:374][467]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_73:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.04-13.04.53:408][467]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_73:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.04-13.04.53:717][467]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.04-13.04.55:256][639]LogSlate: Window 'Death_3' being destroyed
+[2019.06.04-13.04.55:260][639]LogSlate: Window 'Death_3' being destroyed
+[2019.06.04-13.04.55:984][703]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Death_3.Death_3
+[2019.06.04-13.04.55:988][703]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_76:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.04-13.04.56:023][703]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_76:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.04-13.04.56:322][703]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.04-13.04.57:575][841]LogSlate: Window 'Death_3' being destroyed
+[2019.06.04-13.04.57:579][841]LogSlate: Window 'Death_3' being destroyed
+[2019.06.04-13.04.58:645][946]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Death_1.Death_1
+[2019.06.04-13.04.58:650][946]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_79:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.04-13.04.58:685][946]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_79:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.04-13.04.58:978][946]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.04-13.05.00:529][113]LogSlate: Window 'Death_1' being destroyed
+[2019.06.04-13.05.00:532][113]LogSlate: Window 'Death_1' being destroyed
+[2019.06.04-13.05.08:464][810]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint
+[2019.06.04-13.05.08:472][810]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_83:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.04-13.05.08:671][810]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_83:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.04-13.05.08:955][810]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.04-13.05.21:224][191]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Death_1.Prone_Death_1
+[2019.06.04-13.05.21:224][191]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Prone_Death_1.Prone_Death_1) using current/default (AnimCompress_BitwiseCompressOnly_41) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.04-13.05.21:232][191]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Prone_Death_1.Prone_Death_1
+[2019.06.04-13.05.21:236][191]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_85:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.04-13.05.21:266][191]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_85:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.04-13.05.21:564][191]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.04-13.05.23:767][443]LogSlate: Window 'Prone_Death_1' being destroyed
+[2019.06.04-13.05.23:771][443]LogSlate: Window 'Prone_Death_1' being destroyed
+[2019.06.04-13.05.28:764][988]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint
+[2019.06.04-13.05.28:772][988]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_89:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.04-13.05.28:974][988]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_89:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.04-13.05.29:259][988]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.04-13.07.39:194][827]BlueprintLog: New page: UE4ASP_HeroTPP_AnimBlueprint 컴파일
+[2019.06.04-13.07.39:231][827]LogBlueprint: Warning: [Compiler UE4ASP_HeroTPP_AnimBlueprint] Jump -> Death  will never be taken, please connect something to  Can Enter Transition
+[2019.06.04-13.07.39:231][827]LogBlueprint: Warning: [Compiler UE4ASP_HeroTPP_AnimBlueprint] Idle -> Death  will never be taken, please connect something to  Can Enter Transition
+[2019.06.04-13.07.39:232][827]LogBlueprint: Warning: [Compiler UE4ASP_HeroTPP_AnimBlueprint] Jog -> Death  will never be taken, please connect something to  Can Enter Transition
+[2019.06.04-13.07.39:232][827]LogBlueprint: Warning: [Compiler UE4ASP_HeroTPP_AnimBlueprint] Crouch -> Death  will never be taken, please connect something to  Can Enter Transition
+[2019.06.04-13.07.39:232][827]LogBlueprint: Warning: [Compiler UE4ASP_HeroTPP_AnimBlueprint] Crouch Walk -> Death  will never be taken, please connect something to  Can Enter Transition
+[2019.06.04-13.07.39:232][827]LogBlueprint: Warning: [Compiler UE4ASP_HeroTPP_AnimBlueprint] Run Jump -> Death  will never be taken, please connect something to  Can Enter Transition
+[2019.06.04-13.07.39:406][827]LogBlueprint: Warning: [Compiler UE4ASP_HeroTPP_AnimBlueprint] [2223.47] UE4ASP_HeroTPP_AnimBlueprint 컴파일에 성공했습니다만, 경고가 6 회 있습니다. [소요시간 212 ms] (/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint)
+[2019.06.04-13.09.07:038][153]BlueprintLog: New page: UE4ASP_HeroTPP_AnimBlueprint 컴파일
+[2019.06.04-13.09.07:076][153]LogBlueprint: Warning: [Compiler UE4ASP_HeroTPP_AnimBlueprint] Crouch -> Death  will never be taken, please connect something to  Can Enter Transition
+[2019.06.04-13.09.07:076][153]LogBlueprint: Warning: [Compiler UE4ASP_HeroTPP_AnimBlueprint] Crouch Walk -> Death  will never be taken, please connect something to  Can Enter Transition
+[2019.06.04-13.09.07:076][153]LogBlueprint: Warning: [Compiler UE4ASP_HeroTPP_AnimBlueprint] Run Jump -> Death  will never be taken, please connect something to  Can Enter Transition
+[2019.06.04-13.09.07:208][153]LogBlueprint: Warning: [Compiler UE4ASP_HeroTPP_AnimBlueprint] [2311.27] UE4ASP_HeroTPP_AnimBlueprint 컴파일에 성공했습니다만, 경고가 3 회 있습니다. [소요시간 169 ms] (/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint)
+[2019.06.04-13.09.17:467][221]BlueprintLog: New page: UE4ASP_HeroTPP_AnimBlueprint 컴파일
+[2019.06.04-13.09.17:506][221]LogBlueprint: Warning: [Compiler UE4ASP_HeroTPP_AnimBlueprint] Crouch Walk -> Death  will never be taken, please connect something to  Can Enter Transition
+[2019.06.04-13.09.17:506][221]LogBlueprint: Warning: [Compiler UE4ASP_HeroTPP_AnimBlueprint] Run Jump -> Death  will never be taken, please connect something to  Can Enter Transition
+[2019.06.04-13.09.17:637][221]LogBlueprint: Warning: [Compiler UE4ASP_HeroTPP_AnimBlueprint] [2321.70] UE4ASP_HeroTPP_AnimBlueprint 컴파일에 성공했습니다만, 경고가 2 회 있습니다. [소요시간 169 ms] (/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint)
+[2019.06.04-13.09.35:072][ 56]BlueprintLog: New page: UE4ASP_HeroTPP_AnimBlueprint 컴파일
+[2019.06.04-13.09.35:110][ 56]LogBlueprint: Warning: [Compiler UE4ASP_HeroTPP_AnimBlueprint] Run Jump -> Death  will never be taken, please connect something to  Can Enter Transition
+[2019.06.04-13.09.35:242][ 56]LogBlueprint: Warning: [Compiler UE4ASP_HeroTPP_AnimBlueprint] [2339.30] UE4ASP_HeroTPP_AnimBlueprint 컴파일에 성공했습니다만, 경고가 1 회 있습니다. [소요시간 169 ms] (/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint)
+[2019.06.04-13.09.46:476][234]BlueprintLog: New page: UE4ASP_HeroTPP_AnimBlueprint 컴파일
+[2019.06.04-13.10.22:370][140]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character
+[2019.06.04-13.11.38:403][960]BlueprintLog: New page: Ue4ASP_Character 컴파일
+[2019.06.04-13.13.14:606][759]LogUObjectArray: Warning: Other object in slot
+[2019.06.04-13.13.15:561][759]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.954 s
+[2019.06.04-13.13.15:561][759]LogOutputDevice: Error: === Handled ensure: ===
+[2019.06.04-13.13.15:561][759]LogOutputDevice: Error: 
+[2019.06.04-13.13.15:561][759]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2019.06.04-13.13.15:561][759]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.06.04-13.13.15:561][759]LogOutputDevice: Error: Stack: 
+[2019.06.04-13.13.15:561][759]LogOutputDevice: Error: [Callstack] 0x00007ffd50d971f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.06.04-13.13.15:561][759]LogOutputDevice: Error: [Callstack] 0x00007ffd50ad0c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.06.04-13.13.15:561][759]LogOutputDevice: Error: [Callstack] 0x00007ffd50aeb356 UE4Editor-Core.dll!UnknownFunction []
+[2019.06.04-13.13.15:561][759]LogOutputDevice: Error: [Callstack] 0x00007ffd4f1b11db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.04-13.13.15:561][759]LogOutputDevice: Error: [Callstack] 0x00007ffd4f1c060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.04-13.13.15:561][759]LogOutputDevice: Error: [Callstack] 0x00007ffd3f8bda7a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.06.04-13.13.15:561][759]LogOutputDevice: Error: [Callstack] 0x00007ffd380cec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.06.04-13.13.15:561][759]LogOutputDevice: Error: [Callstack] 0x00007ffd3808f337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.06.04-13.13.15:561][759]LogOutputDevice: Error: [Callstack] 0x00007ffd503f8204 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.04-13.13.15:561][759]LogOutputDevice: Error: [Callstack] 0x00007ffd5063e933 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.04-13.13.15:561][759]LogOutputDevice: Error: [Callstack] 0x00007ffd5045281a UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.04-13.13.15:561][759]LogOutputDevice: Error: [Callstack] 0x00007ffd50428190 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.04-13.13.15:561][759]LogOutputDevice: Error: [Callstack] 0x00007ffd5041b073 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.04-13.13.15:561][759]LogOutputDevice: Error: [Callstack] 0x00007ffd807cd007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.04-13.13.15:561][759]LogOutputDevice: Error: [Callstack] 0x00007ffd807c0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.04-13.13.15:561][759]LogOutputDevice: Error: [Callstack] 0x00007ffd807cf4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.04-13.13.15:561][759]LogOutputDevice: Error: [Callstack] 0x00007ffd807bc209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.04-13.13.15:561][759]LogOutputDevice: Error: [Callstack] 0x00007ffd94f06d41 USER32.dll!UnknownFunction []
+[2019.06.04-13.13.15:561][759]LogOutputDevice: Error: [Callstack] 0x00007ffd94f06713 USER32.dll!UnknownFunction []
+[2019.06.04-13.13.15:561][759]LogOutputDevice: Error: [Callstack] 0x00007ffd807d0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.04-13.13.15:561][759]LogOutputDevice: Error: [Callstack] 0x00007ff6b95f54e5 UE4Editor.exe!UnknownFunction []
+[2019.06.04-13.13.15:561][759]LogOutputDevice: Error: [Callstack] 0x00007ff6b9605b3c UE4Editor.exe!UnknownFunction []
+[2019.06.04-13.13.15:561][759]LogOutputDevice: Error: [Callstack] 0x00007ff6b9605bba UE4Editor.exe!UnknownFunction []
+[2019.06.04-13.13.15:561][759]LogOutputDevice: Error: [Callstack] 0x00007ff6b9613dac UE4Editor.exe!UnknownFunction []
+[2019.06.04-13.13.15:561][759]LogOutputDevice: Error: [Callstack] 0x00007ff6b9615aaa UE4Editor.exe!UnknownFunction []
+[2019.06.04-13.13.15:561][759]LogOutputDevice: Error: [Callstack] 0x00007ffd92d84034 KERNEL32.DLL!UnknownFunction []
+[2019.06.04-13.13.15:561][759]LogOutputDevice: Error: [Callstack] 0x00007ffd958f3691 ntdll.dll!UnknownFunction []
+[2019.06.04-13.13.15:561][759]LogOutputDevice: Error: 
+[2019.06.04-13.13.15:572][759]LogStats:                SubmitErrorReport -  0.000 s

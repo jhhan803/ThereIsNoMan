@@ -1,0 +1,608 @@
+﻿Log file open, 06/17/19 21:20:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: UP616
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.191802
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.291s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epicusername="doeding" -epicuserid=4f26c9e30f4f4e31b9417f9a7c934132 -epiclocale=ko-KR
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.014s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.06.17-12.20.25:773][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.17-12.20.25:773][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.17-12.20.25:790][  0]LogHAL: Display: Platform has ~ 16 GB [16798294016 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.17-12.20.25:790][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.06.17-12.20.25:790][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.17-12.20.25:791][  0]LogInit: Computer: DESKTOP-QAK1CT0
+[2019.06.17-12.20.25:791][  0]LogInit: User: jhhan
+[2019.06.17-12.20.25:791][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.06.17-12.20.25:791][  0]LogInit: High frequency timer resolution =2.835941 MHz
+[2019.06.17-12.20.25:792][  0]LogMemory: Memory total: Physical=15.6GB (16GB approx)
+[2019.06.17-12.20.25:792][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.17-12.20.25:792][  0]LogMemory: Process Physical Memory: 102.57 MB used, 102.57 MB peak
+[2019.06.17-12.20.25:792][  0]LogMemory: Process Virtual Memory: 100.21 MB used, 100.21 MB peak
+[2019.06.17-12.20.25:792][  0]LogMemory: Physical Memory: 5474.96 MB used,  10545.14 MB free, 16020.10 MB total
+[2019.06.17-12.20.25:792][  0]LogMemory: Virtual Memory: 4632.66 MB used,  10545.14 MB free, 134217728.00 MB total
+[2019.06.17-12.20.25:846][  0]LogInit: Using OS detected language (ko-KR).
+[2019.06.17-12.20.25:846][  0]LogInit: Using OS detected locale (ko-KR).
+[2019.06.17-12.20.25:848][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2019.06.17-12.20.26:247][  0]LogStreaming: Display: Took  0.401s to InitEngineTextLocalization.
+[2019.06.17-12.20.26:248][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.17-12.20.26:308][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.17-12.20.26:308][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.17-12.20.26:762][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.17-12.20.26:762][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.17-12.20.26:845][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940MX' (Feature Level 11_0)
+[2019.06.17-12.20.26:845][  0]LogD3D11RHI:       2010/0/8010 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.06.17-12.20.26:858][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2019.06.17-12.20.26:858][  0]LogD3D11RHI:       128/0/8010 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.06.17-12.20.26:861][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.17-12.20.26:861][  0]LogD3D11RHI:       0/0/8010 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.17-12.20.26:861][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.17-12.20.26:891][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.17-12.20.26:891][  0]LogD3D11RHI:     GPU DeviceId: 0x134d (for the marketing name, search the web for "GPU Device Id")
+[2019.06.17-12.20.26:891][  0]LogWindows: EnumDisplayDevices:
+[2019.06.17-12.20.26:892][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2019.06.17-12.20.26:893][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.06.17-12.20.26:894][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.06.17-12.20.26:895][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.06.17-12.20.26:895][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940MX
+[2019.06.17-12.20.26:895][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.06.17-12.20.26:895][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.06.17-12.20.26:895][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2019.06.17-12.20.26:951][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.17-12.20.26:969][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.06.17-12.20.26:971][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/jhhan/OneDrive/문서/Unreal Projects/0616/Intermediate/Shaders/WorkingDirectory/14020/).
+[2019.06.17-12.20.26:972][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jhhan/AppData/Local/Temp/UnrealShaderWorkingDir/ABE06C444EA6B4AD4E34D1A89C200673/'.
+[2019.06.17-12.20.27:566][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.17-12.20.27:585][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.17-12.20.27:606][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.17-12.20.27:627][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.17-12.20.27:646][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.17-12.20.27:667][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.17-12.20.27:688][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.17-12.20.27:710][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.17-12.20.27:721][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.17-12.20.27:838][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.17-12.20.27:838][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.17-12.20.27:838][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.17-12.20.27:838][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.17-12.20.27:838][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.17-12.20.27:838][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.17-12.20.27:838][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.17-12.20.27:838][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.17-12.20.27:838][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.17-12.20.27:838][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.17-12.20.27:838][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.17-12.20.27:838][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.17-12.20.27:838][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.17-12.20.27:838][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.17-12.20.27:838][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.17-12.20.27:838][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.17-12.20.27:838][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.17-12.20.27:838][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.17-12.20.27:842][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.17-12.20.27:916][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.17-12.20.27:916][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.17-12.20.27:946][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.17-12.20.27:946][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.17-12.20.27:964][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.17-12.20.27:981][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.17-12.20.27:999][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.17-12.20.28:019][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.17-12.20.28:033][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.17-12.20.28:033][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.17-12.20.28:157][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.17-12.20.28:157][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.17-12.20.28:157][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.17-12.20.29:515][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.17-12.20.29:587][  0]LogDerivedDataCache: Loaded boot cache 0.07s 72MB C:/Users/jhhan/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.06.17-12.20.29:587][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jhhan/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.06.17-12.20.29:587][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/jhhan/OneDrive/문서/Unreal Projects/0616/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.17-12.20.29:587][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.17-12.20.29:587][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/jhhan/OneDrive/문서/Unreal Projects/0616/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.17-12.20.29:587][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.17-12.20.29:605][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.17-12.20.29:618][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jhhan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.17-12.20.29:618][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.17-12.20.29:618][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.17-12.20.29:638][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.17-12.20.29:640][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.17-12.20.29:641][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.17-12.20.29:756][  0]LogAssetRegistry: FAssetRegistry took 0.0281 seconds to start up
+[2019.06.17-12.20.30:309][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.17-12.20.30:474][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.17-12.20.30:480][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.17-12.20.30:480][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.17-12.20.30:480][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.17-12.20.30:480][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.17-12.20.30:501][  0]LogNetVersion: UP616 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1913404436)
+[2019.06.17-12.20.30:839][  0]ImportText (FloorScale3D): Missing closing parenthesis: (X=1.000000,Y=1.000000,Z=
+[2019.06.17-12.20.30:839][  0]LogObj: Error: LoadConfig (/Script/UnrealEd.Default__CascadeOptions): import failed for FloorScale3D in: (X=1.000000,Y=1.000000,Z=
+[2019.06.17-12.20.31:174][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.174464 seconds
+[2019.06.17-12.20.31:179][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.06.17-12.20.31:179][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.06.17-12.20.31:179][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.17-12.20.32:459][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.17-12.20.32:473][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.17-12.20.32:660][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.06.17-12.20.32:660][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.06.17-12.20.32:662][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.06.17-12.20.32:664][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.06.17-12.20.32:872][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.17-12.20.32:966][  0]LogOcInput: OculusInput pre-init called
+[2019.06.17-12.20.33:036][  0]LogEngine: Initializing Engine...
+[2019.06.17-12.20.33:037][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.17-12.20.33:039][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.17-12.20.33:039][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.17-12.20.33:039][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.17-12.20.33:039][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.17-12.20.33:289][  0]LogLinker: Warning: '/Game/Font/MyFont2' 파일을 찾을 수 없습니다.
+[2019.06.17-12.20.33:289][  0]LogLinker: Warning: '/Game/Font/MyFont2' 파일을 찾을 수 없습니다.
+[2019.06.17-12.20.33:289][  0]LogUObjectGlobals: Warning: 'Font /Game/Font/MyFont2.MyFont2' 오브젝트를 찾는 데 실패했습니다.
+[2019.06.17-12.20.33:299][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.17-12.20.33:335][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.17-12.20.33:352][  0]LogInit: XAudio2 using '스피커(Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.17-12.20.33:505][  0]LogInit: FAudioDevice initialized.
+[2019.06.17-12.20.33:505][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.17-12.20.33:587][  0]LogDerivedDataCache: Saved boot cache 0.08s 72MB C:/Users/jhhan/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.06.17-12.20.33:599][  0]LogInit: Texture streaming: Enabled
+[2019.06.17-12.20.33:627][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.17-12.20.33:645][  0]LogInit: Transaction tracking system initialized
+[2019.06.17-12.20.33:681][  0]BlueprintLog: New page: 에디터 로드
+[2019.06.17-12.20.33:800][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2019.06.17-12.20.34:441][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.17-12.20.34:441][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.17-12.20.34:441][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.17-12.20.34:441][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.17-12.20.34:441][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.17-12.20.34:441][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.17-12.20.34:441][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.17-12.20.34:675][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jhhan/OneDrive/문서/Unreal Projects/0616/Content/' took 0.05s
+[2019.06.17-12.20.34:675][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.06.17-12.20.34:675][  0]Cmd: MAP LOAD FILE="../../../../../../Users/jhhan/OneDrive/문서/Unreal Projects/0616/Content/World/MainMenuWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.17-12.20.34:676][  0]LightingResults: New page: 라이팅 빌드
+[2019.06.17-12.20.34:681][  0]MapCheck: New page: 맵 체크
+[2019.06.17-12.20.34:681][  0]LightingResults: New page: 라이팅 빌드
+[2019.06.17-12.20.34:871][  0]LogAIModule: Creating AISystem for world MainMenuWorld
+[2019.06.17-12.20.34:878][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.17-12.20.34:911][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.17-12.20.35:109][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 198.337ms.
+[2019.06.17-12.20.35:109][  0]LogFileHelpers: Loading map 'MainMenuWorld' took 0.434
+[2019.06.17-12.20.35:251][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.17-12.20.35:259][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.17-12.20.35:268][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.17-12.20.35:276][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.17-12.20.35:288][  0]LogCollectionManager: Loaded 0 collections in 0.003680 seconds
+[2019.06.17-12.20.35:339][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jhhan/OneDrive/문서/Unreal Projects/0616/Saved/Collections/' took 0.01s
+[2019.06.17-12.20.35:339][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jhhan/OneDrive/문서/Unreal Projects/0616/Content/Developers/jhhan/Collections/' took 0.01s
+[2019.06.17-12.20.35:339][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jhhan/OneDrive/문서/Unreal Projects/0616/Content/Collections/' took 0.01s
+[2019.06.17-12.20.35:339][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.06.17-12.20.35:352][  0]LogContentBrowser: Native class hierarchy populated in 0.0128 seconds. Added 2572 classes and 603 folders.
+[2019.06.17-12.20.35:364][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0036 seconds. Added 0 classes and 0 folders.
+[2019.06.17-12.20.35:481][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0036 seconds. Added 0 classes and 0 folders.
+[2019.06.17-12.20.35:491][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0036 seconds. Added 1 classes and 2 folders.
+[2019.06.17-12.20.35:558][  0]LogSlate: Took 0.000843 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.17-12.20.35:565][  0]LogSlate: Took 0.004479 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.06.17-12.20.35:570][  0]LogSlate: Took 0.004128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2019.06.17-12.20.35:571][  0]LogSlate: Took 0.000345 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.17-12.20.35:578][  0]LogSlate: Took 0.000538 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.17-12.20.35:671][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 9 NumSamples 1 (Frame:1).
+[2019.06.17-12.20.35:826][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0056 seconds. Added 0 classes and 0 folders.
+[2019.06.17-12.20.35:826][  0]LogLoad: (Engine Initialization) Total time: 13.36 seconds
+[2019.06.17-12.20.35:826][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.17-12.20.35:848][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2019.06.17-12.20.35:874][  0]LogContentStreaming: Texture pool size now 600 MB
+[2019.06.17-12.20.35:891][  0]LogSlate: Took 0.000354 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.17-12.20.36:079][  2]LogAssetRegistry: Asset discovery search completed in 6.3459 seconds
+[2019.06.17-12.20.36:081][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.17-12.20.36:081][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000110 seconds (updated 0 objects)
+[2019.06.17-12.20.38:875][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.17-12.20.44:486][472]LogBlueprint: Warning: [Compiler Enemy_Ani] Idle/Run -> Attack  will never be taken, please connect something to  Can Enter Transition
+[2019.06.17-12.20.44:486][472]LogBlueprint: Warning: [Compiler Enemy_Ani] Attack -> Idle/Run  will never be taken, please connect something to  Can Enter Transition
+[2019.06.17-12.20.44:613][472]LogBlueprint: Warning: [Compiler Enemy_Ani] [0022.15] Enemy_Ani 컴파일에 성공했습니다만, 경고가 2 회 있습니다. [소요시간 167 ms] (/Game/Enemy/Enemy_Ani.Enemy_Ani)
+[2019.06.17-12.20.45:063][472]LogSlate: Took 0.000665 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.17-12.20.45:073][472]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Door/ChurchDoor.ChurchDoor
+[2019.06.17-12.20.45:678][472]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0040 seconds. Added 116 classes and 0 folders.
+[2019.06.17-12.20.46:636][472]LogSlate: Took 0.000538 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.17-12.20.46:736][473]LogSlate: Took 0.000492 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.17-12.22.11:490][322]LogAIModule: Creating AISystem for world SchoolWorld
+[2019.06.17-12.22.11:597][322]LogAssetEditorManager: Opening Asset editor for World /Game/World/SchoolWorld.SchoolWorld
+[2019.06.17-12.22.13:086][322]LogSlate: Window '콘텐츠 저장' being destroyed
+[2019.06.17-12.22.13:126][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Door/ChurchDoor" FILE="../../../../../../Users/jhhan/OneDrive/문서/Unreal Projects/0616/Content/Door/ChurchDoor.uasset" SILENT=true
+[2019.06.17-12.22.13:187][322]LogSavePackage: Moving '../../../../../../Users/jhhan/OneDrive/문서/Unreal Projects/0616/Saved/ChurchDoor27A911F4430022ADCE8EFB94B8BD360C.tmp' to '../../../../../../Users/jhhan/OneDrive/문서/Unreal Projects/0616/Content/Door/ChurchDoor.uasset'
+[2019.06.17-12.22.13:198][322]Cmd: MAP LOAD FILE="../../../../../../Users/jhhan/OneDrive/문서/Unreal Projects/0616/Content/World/SchoolWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.17-12.22.13:198][322]LightingResults: New page: 라이팅 빌드
+[2019.06.17-12.22.13:199][322]LoadErrors: New page: 맵 로드중: SchoolWorld.umap
+[2019.06.17-12.22.13:199][322]MapCheck: New page: 맵 체크
+[2019.06.17-12.22.13:200][322]LightingResults: New page: 라이팅 빌드
+[2019.06.17-12.22.13:408][322]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.17-12.22.13:554][322]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.17-12.22.13:863][322]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 309.025ms.
+[2019.06.17-12.22.13:868][322]LogFileHelpers: Loading map 'SchoolWorld' took 0.671
+[2019.06.17-12.22.16:330][429]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld
+[2019.06.17-12.22.37:692][412]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/QuestTextUI.QuestTextUI
+[2019.06.17-12.22.38:266][412]LogSlate: Took 0.002932 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.06.17-12.22.47:479][773]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2019.06.17-12.22.47:541][773]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel' has LevelScriptBlueprint '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld' with GeneratedClass '/Game/World/SchoolWorld.SchoolWorld_C' with ClassGeneratedBy '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld'
+[2019.06.17-12.22.47:541][773]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2019.06.17-12.22.47:546][773]LogPlayLevel: [PlayLevel] Compiling ChurchDoor before play...
+[2019.06.17-12.22.47:774][773]LogPlayLevel: [PlayLevel] Compiling SchoolWorld before play...
+[2019.06.17-12.22.48:089][773]LogPlayLevel: PlayLevel: Blueprint regeneration took 548 ms (2 blueprints)
+[2019.06.17-12.22.48:104][773]PIE: New page: PIE 세션: SchoolWorld (2019. 6. 18. 오전 6:22:48)
+[2019.06.17-12.22.48:104][773]LogPlayLevel: Creating play world package: /Game/World/UEDPIE_0_SchoolWorld
+[2019.06.17-12.22.48:141][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036647s)
+[2019.06.17-12.22.48:142][773]LogAIModule: Creating AISystem for world SchoolWorld
+[2019.06.17-12.22.48:143][773]LogPlayLevel: PIE: World Init took: (0.001636s)
+[2019.06.17-12.22.48:143][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/World/SchoolWorld.SchoolWorld to /Game/World/UEDPIE_0_SchoolWorld.SchoolWorld (0.038681s)
+[2019.06.17-12.22.48:201][773]LogInit: XAudio2 using '스피커(Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.17-12.22.48:258][773]LogInit: FAudioDevice initialized.
+[2019.06.17-12.22.48:269][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.17-12.22.48:443][773]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.17-12.22.48:462][773]LogWorld: Bringing World /Game/World/UEDPIE_0_SchoolWorld.SchoolWorld up for play (max tick rate 60) at 2019.06.17-21.22.48
+[2019.06.17-12.22.48:467][773]LogWorld: Bringing up level for play took: 0.022355
+[2019.06.17-12.22.48:499][773]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0045 seconds. Added 10 classes and 0 folders.
+[2019.06.17-12.22.48:513][773]PIE: /Game/World/UEDPIE_0_SchoolWorld 에 대한 에디터에서 플레이 시작 시간: 0.888
+[2019.06.17-12.22.48:513][773]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel' has LevelScriptBlueprint '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld' with GeneratedClass '/Game/World/SchoolWorld.SchoolWorld_C' with ClassGeneratedBy '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld'
+[2019.06.17-12.23.04:234][498]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel' has LevelScriptBlueprint '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld' with GeneratedClass '/Game/World/SchoolWorld.SchoolWorld_C' with ClassGeneratedBy '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld'
+[2019.06.17-12.23.04:235][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.17-12.23.04:310][498]LogSlate: Window 'UP616 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.06.17-12.23.04:365][498]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.17-12.23.04:365][498]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel' has LevelScriptBlueprint '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld' with GeneratedClass '/Game/World/SchoolWorld.SchoolWorld_C' with ClassGeneratedBy '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld'
+[2019.06.17-12.23.04:655][499]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.06.17-12.23.11:920][765]Cmd: SELECT NONE
+[2019.06.17-12.23.12:346][789]Cmd: SELECT NONE
+[2019.06.17-12.26.30:507][395]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/HpUi.HpUI
+[2019.06.17-12.26.33:741][462]LogSlate: Took 0.026273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.06.17-12.27.47:738][129]LogSlate: Window '색 선택 툴' being destroyed
+[2019.06.17-12.27.56:704][447]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2019.06.17-12.27.56:776][447]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel' has LevelScriptBlueprint '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld' with GeneratedClass '/Game/World/SchoolWorld.SchoolWorld_C' with ClassGeneratedBy '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld'
+[2019.06.17-12.27.56:776][447]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2019.06.17-12.27.56:803][447]LogPlayLevel: [PlayLevel] Compiling HpUI before play...
+[2019.06.17-12.27.57:383][447]LogPlayLevel: [PlayLevel] Compiling SchoolWorld before play...
+[2019.06.17-12.27.57:710][447]LogPlayLevel: PlayLevel: Blueprint regeneration took 934 ms (2 blueprints)
+[2019.06.17-12.27.57:711][447]PIE: New page: PIE 세션: SchoolWorld (2019. 6. 18. 오전 6:27:57)
+[2019.06.17-12.27.57:711][447]LogPlayLevel: Creating play world package: /Game/World/UEDPIE_0_SchoolWorld
+[2019.06.17-12.27.57:757][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045800s)
+[2019.06.17-12.27.57:758][447]LogAIModule: Creating AISystem for world SchoolWorld
+[2019.06.17-12.27.57:759][447]LogPlayLevel: PIE: World Init took: (0.001942s)
+[2019.06.17-12.27.57:759][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/World/SchoolWorld.SchoolWorld to /Game/World/UEDPIE_0_SchoolWorld.SchoolWorld (0.048151s)
+[2019.06.17-12.27.57:833][447]LogInit: XAudio2 using '스피커(Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.17-12.27.57:912][447]LogInit: FAudioDevice initialized.
+[2019.06.17-12.27.57:927][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.17-12.27.58:052][447]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.17-12.27.58:087][447]LogWorld: Bringing World /Game/World/UEDPIE_0_SchoolWorld.SchoolWorld up for play (max tick rate 60) at 2019.06.17-21.27.58
+[2019.06.17-12.27.58:093][447]LogWorld: Bringing up level for play took: 0.039647
+[2019.06.17-12.27.58:127][447]PIE: /Game/World/UEDPIE_0_SchoolWorld 에 대한 에디터에서 플레이 시작 시간: 0.503
+[2019.06.17-12.27.58:128][447]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel' has LevelScriptBlueprint '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld' with GeneratedClass '/Game/World/SchoolWorld.SchoolWorld_C' with ClassGeneratedBy '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld'
+[2019.06.17-12.28.01:934][577]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel' has LevelScriptBlueprint '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld' with GeneratedClass '/Game/World/SchoolWorld.SchoolWorld_C' with ClassGeneratedBy '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld'
+[2019.06.17-12.28.01:934][577]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.17-12.28.02:023][577]LogSlate: Window 'UP616 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.06.17-12.28.02:084][577]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.17-12.28.02:085][577]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel' has LevelScriptBlueprint '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld' with GeneratedClass '/Game/World/SchoolWorld.SchoolWorld_C' with ClassGeneratedBy '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld'
+[2019.06.17-12.28.02:233][578]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.06.17-12.29.13:397][912]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2019.06.17-12.29.13:475][912]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel' has LevelScriptBlueprint '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld' with GeneratedClass '/Game/World/SchoolWorld.SchoolWorld_C' with ClassGeneratedBy '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld'
+[2019.06.17-12.29.13:475][912]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2019.06.17-12.29.13:493][912]LogPlayLevel: [PlayLevel] Compiling HpUI before play...
+[2019.06.17-12.29.13:755][912]LogPlayLevel: PlayLevel: Blueprint regeneration took 279 ms (1 blueprints)
+[2019.06.17-12.29.13:756][912]PIE: New page: PIE 세션: SchoolWorld (2019. 6. 18. 오전 6:29:13)
+[2019.06.17-12.29.13:756][912]LogPlayLevel: Creating play world package: /Game/World/UEDPIE_0_SchoolWorld
+[2019.06.17-12.29.13:803][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047245s)
+[2019.06.17-12.29.13:804][912]LogAIModule: Creating AISystem for world SchoolWorld
+[2019.06.17-12.29.13:805][912]LogPlayLevel: PIE: World Init took: (0.001713s)
+[2019.06.17-12.29.13:805][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/World/SchoolWorld.SchoolWorld to /Game/World/UEDPIE_0_SchoolWorld.SchoolWorld (0.049295s)
+[2019.06.17-12.29.13:869][912]LogInit: XAudio2 using '스피커(Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.17-12.29.13:938][912]LogInit: FAudioDevice initialized.
+[2019.06.17-12.29.13:952][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.17-12.29.14:043][912]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.17-12.29.14:074][912]LogWorld: Bringing World /Game/World/UEDPIE_0_SchoolWorld.SchoolWorld up for play (max tick rate 60) at 2019.06.17-21.29.14
+[2019.06.17-12.29.14:081][912]LogWorld: Bringing up level for play took: 0.036798
+[2019.06.17-12.29.14:110][912]PIE: /Game/World/UEDPIE_0_SchoolWorld 에 대한 에디터에서 플레이 시작 시간: 0.486
+[2019.06.17-12.29.14:111][912]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel' has LevelScriptBlueprint '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld' with GeneratedClass '/Game/World/SchoolWorld.SchoolWorld_C' with ClassGeneratedBy '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld'
+[2019.06.17-12.29.20:354][135]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel' has LevelScriptBlueprint '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld' with GeneratedClass '/Game/World/SchoolWorld.SchoolWorld_C' with ClassGeneratedBy '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld'
+[2019.06.17-12.29.20:357][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.17-12.29.20:444][135]LogSlate: Window 'UP616 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.06.17-12.29.20:507][135]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.17-12.29.20:507][135]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel' has LevelScriptBlueprint '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld' with GeneratedClass '/Game/World/SchoolWorld.SchoolWorld_C' with ClassGeneratedBy '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld'
+[2019.06.17-12.29.20:733][136]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.06.17-12.29.48:881][105]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2019.06.17-12.29.48:955][105]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel' has LevelScriptBlueprint '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld' with GeneratedClass '/Game/World/SchoolWorld.SchoolWorld_C' with ClassGeneratedBy '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld'
+[2019.06.17-12.29.48:955][105]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2019.06.17-12.29.48:973][105]LogPlayLevel: [PlayLevel] Compiling HpUI before play...
+[2019.06.17-12.29.49:241][105]LogPlayLevel: PlayLevel: Blueprint regeneration took 285 ms (1 blueprints)
+[2019.06.17-12.29.49:241][105]PIE: New page: PIE 세션: SchoolWorld (2019. 6. 18. 오전 6:29:49)
+[2019.06.17-12.29.49:241][105]LogPlayLevel: Creating play world package: /Game/World/UEDPIE_0_SchoolWorld
+[2019.06.17-12.29.49:288][105]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046456s)
+[2019.06.17-12.29.49:289][105]LogAIModule: Creating AISystem for world SchoolWorld
+[2019.06.17-12.29.49:289][105]LogPlayLevel: PIE: World Init took: (0.001491s)
+[2019.06.17-12.29.49:289][105]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/World/SchoolWorld.SchoolWorld to /Game/World/UEDPIE_0_SchoolWorld.SchoolWorld (0.048287s)
+[2019.06.17-12.29.49:358][105]LogInit: XAudio2 using '스피커(Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.17-12.29.49:425][105]LogInit: FAudioDevice initialized.
+[2019.06.17-12.29.49:439][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.17-12.29.49:537][105]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.17-12.29.49:559][105]LogWorld: Bringing World /Game/World/UEDPIE_0_SchoolWorld.SchoolWorld up for play (max tick rate 60) at 2019.06.17-21.29.49
+[2019.06.17-12.29.49:564][105]LogWorld: Bringing up level for play took: 0.027020
+[2019.06.17-12.29.49:590][105]PIE: /Game/World/UEDPIE_0_SchoolWorld 에 대한 에디터에서 플레이 시작 시간: -0.034
+[2019.06.17-12.29.49:591][105]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel' has LevelScriptBlueprint '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld' with GeneratedClass '/Game/World/SchoolWorld.SchoolWorld_C' with ClassGeneratedBy '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld'
+[2019.06.17-12.29.56:677][389]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel' has LevelScriptBlueprint '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld' with GeneratedClass '/Game/World/SchoolWorld.SchoolWorld_C' with ClassGeneratedBy '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld'
+[2019.06.17-12.29.56:678][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.17-12.29.56:748][389]LogSlate: Window 'UP616 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.06.17-12.29.56:803][389]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.17-12.29.56:803][389]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel' has LevelScriptBlueprint '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld' with GeneratedClass '/Game/World/SchoolWorld.SchoolWorld_C' with ClassGeneratedBy '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld'
+[2019.06.17-12.29.56:971][390]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.06.17-12.31.15:896][743]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2019.06.17-12.31.16:001][743]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel' has LevelScriptBlueprint '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld' with GeneratedClass '/Game/World/SchoolWorld.SchoolWorld_C' with ClassGeneratedBy '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld'
+[2019.06.17-12.31.16:001][743]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2019.06.17-12.31.16:022][743]LogPlayLevel: [PlayLevel] Compiling HpUI before play...
+[2019.06.17-12.31.16:288][743]LogPlayLevel: PlayLevel: Blueprint regeneration took 286 ms (1 blueprints)
+[2019.06.17-12.31.16:288][743]PIE: New page: PIE 세션: SchoolWorld (2019. 6. 18. 오전 6:31:16)
+[2019.06.17-12.31.16:288][743]LogPlayLevel: Creating play world package: /Game/World/UEDPIE_0_SchoolWorld
+[2019.06.17-12.31.16:336][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047024s)
+[2019.06.17-12.31.16:337][743]LogAIModule: Creating AISystem for world SchoolWorld
+[2019.06.17-12.31.16:338][743]LogPlayLevel: PIE: World Init took: (0.002532s)
+[2019.06.17-12.31.16:339][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/World/SchoolWorld.SchoolWorld to /Game/World/UEDPIE_0_SchoolWorld.SchoolWorld (0.050293s)
+[2019.06.17-12.31.16:409][743]LogInit: XAudio2 using '스피커(Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.17-12.31.16:475][743]LogInit: FAudioDevice initialized.
+[2019.06.17-12.31.16:488][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.17-12.31.16:591][743]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.17-12.31.16:613][743]LogWorld: Bringing World /Game/World/UEDPIE_0_SchoolWorld.SchoolWorld up for play (max tick rate 60) at 2019.06.17-21.31.16
+[2019.06.17-12.31.16:621][743]LogWorld: Bringing up level for play took: 0.029789
+[2019.06.17-12.31.16:652][743]PIE: /Game/World/UEDPIE_0_SchoolWorld 에 대한 에디터에서 플레이 시작 시간: 1.028
+[2019.06.17-12.31.16:653][743]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel' has LevelScriptBlueprint '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld' with GeneratedClass '/Game/World/SchoolWorld.SchoolWorld_C' with ClassGeneratedBy '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld'
+[2019.06.17-12.31.22:238][932]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel' has LevelScriptBlueprint '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld' with GeneratedClass '/Game/World/SchoolWorld.SchoolWorld_C' with ClassGeneratedBy '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld'
+[2019.06.17-12.31.22:243][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.17-12.31.22:343][932]LogSlate: Window 'UP616 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.06.17-12.31.22:408][932]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.17-12.31.22:409][932]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel' has LevelScriptBlueprint '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld' with GeneratedClass '/Game/World/SchoolWorld.SchoolWorld_C' with ClassGeneratedBy '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld'
+[2019.06.17-12.31.22:580][933]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.06.17-12.31.52:568][885]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2019.06.17-12.31.52:675][885]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel' has LevelScriptBlueprint '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld' with GeneratedClass '/Game/World/SchoolWorld.SchoolWorld_C' with ClassGeneratedBy '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld'
+[2019.06.17-12.31.52:676][885]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2019.06.17-12.31.52:694][885]LogPlayLevel: [PlayLevel] Compiling HpUI before play...
+[2019.06.17-12.31.52:974][885]LogPlayLevel: PlayLevel: Blueprint regeneration took 298 ms (1 blueprints)
+[2019.06.17-12.31.52:974][885]PIE: New page: PIE 세션: SchoolWorld (2019. 6. 18. 오전 6:31:52)
+[2019.06.17-12.31.52:974][885]LogPlayLevel: Creating play world package: /Game/World/UEDPIE_0_SchoolWorld
+[2019.06.17-12.31.53:019][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045147s)
+[2019.06.17-12.31.53:021][885]LogAIModule: Creating AISystem for world SchoolWorld
+[2019.06.17-12.31.53:022][885]LogPlayLevel: PIE: World Init took: (0.001717s)
+[2019.06.17-12.31.53:022][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/World/SchoolWorld.SchoolWorld to /Game/World/UEDPIE_0_SchoolWorld.SchoolWorld (0.047600s)
+[2019.06.17-12.31.53:090][885]LogInit: XAudio2 using '스피커(Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.17-12.31.53:156][885]LogInit: FAudioDevice initialized.
+[2019.06.17-12.31.53:170][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.17-12.31.53:309][885]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.17-12.31.53:330][885]LogWorld: Bringing World /Game/World/UEDPIE_0_SchoolWorld.SchoolWorld up for play (max tick rate 60) at 2019.06.17-21.31.53
+[2019.06.17-12.31.53:335][885]LogWorld: Bringing up level for play took: 0.026109
+[2019.06.17-12.31.53:365][885]PIE: /Game/World/UEDPIE_0_SchoolWorld 에 대한 에디터에서 플레이 시작 시간: -0.26
+[2019.06.17-12.31.53:365][885]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel' has LevelScriptBlueprint '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld' with GeneratedClass '/Game/World/SchoolWorld.SchoolWorld_C' with ClassGeneratedBy '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld'
+[2019.06.17-12.32.40:500][833]LogNet: Browse: /Game/World/MainMenuWorld
+[2019.06.17-12.32.40:504][833]LogLoad: LoadMap: /Game/World/MainMenuWorld
+[2019.06.17-12.32.42:195][833]LogAIModule: Creating AISystem for world MainMenuWorld
+[2019.06.17-12.32.42:196][833]LogLoad: Game class is 'UIMode_C'
+[2019.06.17-12.32.42:197][833]LogWorld: Bringing World /Game/World/UEDPIE_0_MainMenuWorld.MainMenuWorld up for play (max tick rate 60) at 2019.06.17-21.32.42
+[2019.06.17-12.32.42:197][833]LogWorld: Bringing up level for play took: 0.000708
+[2019.06.17-12.32.42:197][833]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.17-12.32.42:198][833]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.06.17-12.32.42:198][833]LogLoad: Took 1.694434 seconds to LoadMap(/Game/World/MainMenuWorld)
+[2019.06.17-12.32.50:249][304]LogNet: Browse: /Game/World/SchoolWorld
+[2019.06.17-12.32.50:249][304]LogLoad: LoadMap: /Game/World/SchoolWorld
+[2019.06.17-12.32.50:301][304]LogPlayLevel: Creating play world package: /Game/World/UEDPIE_0_SchoolWorld
+[2019.06.17-12.32.50:344][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042320s)
+[2019.06.17-12.32.50:345][304]LogAIModule: Creating AISystem for world SchoolWorld
+[2019.06.17-12.32.50:345][304]LogPlayLevel: PIE: World Init took: (0.001494s)
+[2019.06.17-12.32.50:345][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/World/SchoolWorld.SchoolWorld to /Game/World/UEDPIE_0_SchoolWorld.SchoolWorld (0.044257s)
+[2019.06.17-12.32.50:345][304]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.17-12.32.50:379][304]LogWorld: Bringing World /Game/World/UEDPIE_0_SchoolWorld.SchoolWorld up for play (max tick rate 60) at 2019.06.17-21.32.50
+[2019.06.17-12.32.50:385][304]LogWorld: Bringing up level for play took: 0.038060
+[2019.06.17-12.32.50:385][304]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.17-12.32.50:395][304]LogLoad: Took 0.145092 seconds to LoadMap(/Game/World/UEDPIE_0_SchoolWorld)
+[2019.06.17-12.33.05:014][851]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel' has LevelScriptBlueprint '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld' with GeneratedClass '/Game/World/SchoolWorld.SchoolWorld_C' with ClassGeneratedBy '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld'
+[2019.06.17-12.33.05:023][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.17-12.33.05:096][851]LogSlate: Window 'UP616 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.06.17-12.33.05:152][851]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.17-12.33.05:152][851]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel' has LevelScriptBlueprint '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld' with GeneratedClass '/Game/World/SchoolWorld.SchoolWorld_C' with ClassGeneratedBy '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld'
+[2019.06.17-12.33.05:424][852]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.06.17-12.33.09:325][ 52]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Player/Chracter/Player_Character.Player_Character
+[2019.06.17-12.34.23:382][998]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2019.06.17-12.34.23:484][998]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel' has LevelScriptBlueprint '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld' with GeneratedClass '/Game/World/SchoolWorld.SchoolWorld_C' with ClassGeneratedBy '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld'
+[2019.06.17-12.34.23:485][998]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2019.06.17-12.34.23:549][998]LogPlayLevel: [PlayLevel] Compiling QuestTextUI before play...
+[2019.06.17-12.34.23:914][998]LogPlayLevel: PlayLevel: Blueprint regeneration took 429 ms (1 blueprints)
+[2019.06.17-12.34.23:914][998]PIE: New page: PIE 세션: SchoolWorld (2019. 6. 18. 오전 6:34:23)
+[2019.06.17-12.34.23:914][998]LogPlayLevel: Creating play world package: /Game/World/UEDPIE_0_SchoolWorld
+[2019.06.17-12.34.23:977][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062866s)
+[2019.06.17-12.34.23:979][998]LogAIModule: Creating AISystem for world SchoolWorld
+[2019.06.17-12.34.23:980][998]LogPlayLevel: PIE: World Init took: (0.001942s)
+[2019.06.17-12.34.23:980][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/World/SchoolWorld.SchoolWorld to /Game/World/UEDPIE_0_SchoolWorld.SchoolWorld (0.065397s)
+[2019.06.17-12.34.24:062][998]LogInit: XAudio2 using '스피커(Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.17-12.34.24:150][998]LogInit: FAudioDevice initialized.
+[2019.06.17-12.34.24:166][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.17-12.34.24:331][998]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.17-12.34.24:365][998]LogWorld: Bringing World /Game/World/UEDPIE_0_SchoolWorld.SchoolWorld up for play (max tick rate 60) at 2019.06.17-21.34.24
+[2019.06.17-12.34.24:371][998]LogWorld: Bringing up level for play took: 0.038829
+[2019.06.17-12.34.24:401][998]PIE: /Game/World/UEDPIE_0_SchoolWorld 에 대한 에디터에서 플레이 시작 시간: 0.777
+[2019.06.17-12.34.24:402][998]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel' has LevelScriptBlueprint '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld' with GeneratedClass '/Game/World/SchoolWorld.SchoolWorld_C' with ClassGeneratedBy '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld'
+[2019.06.17-12.34.41:909][673]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel' has LevelScriptBlueprint '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld' with GeneratedClass '/Game/World/SchoolWorld.SchoolWorld_C' with ClassGeneratedBy '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld'
+[2019.06.17-12.34.41:910][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.17-12.34.41:982][673]LogSlate: Window 'UP616 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.06.17-12.34.42:093][673]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.17-12.34.42:093][673]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel' has LevelScriptBlueprint '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld' with GeneratedClass '/Game/World/SchoolWorld.SchoolWorld_C' with ClassGeneratedBy '/Game/World/SchoolWorld.SchoolWorld:PersistentLevel.SchoolWorld'
+[2019.06.17-12.34.42:322][674]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.06.17-12.34.51:080][909]LogUObjectBase: Warning: Object is not registered
+[2019.06.17-12.34.52:180][909]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.099 s
+[2019.06.17-12.34.52:180][909]LogOutputDevice: Error: === Handled ensure: ===
+[2019.06.17-12.34.52:180][909]LogOutputDevice: Error: 
+[2019.06.17-12.34.52:180][909]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2019.06.17-12.34.52:180][909]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.06.17-12.34.52:180][909]LogOutputDevice: Error: Stack: 
+[2019.06.17-12.34.52:180][909]LogOutputDevice: Error: [Callstack] 0x00007ff97c1471f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.06.17-12.34.52:180][909]LogOutputDevice: Error: [Callstack] 0x00007ff97be80c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.06.17-12.34.52:180][909]LogOutputDevice: Error: [Callstack] 0x00007ff97be9b356 UE4Editor-Core.dll!UnknownFunction []
+[2019.06.17-12.34.52:180][909]LogOutputDevice: Error: [Callstack] 0x00007ff9536d11db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.17-12.34.52:180][909]LogOutputDevice: Error: [Callstack] 0x00007ff9536e060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.17-12.34.52:180][909]LogOutputDevice: Error: [Callstack] 0x00007ff96686da7a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.06.17-12.34.52:180][909]LogOutputDevice: Error: [Callstack] 0x00007ff9514cec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.06.17-12.34.52:180][909]LogOutputDevice: Error: [Callstack] 0x00007ff95148f337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.06.17-12.34.52:180][909]LogOutputDevice: Error: [Callstack] 0x00007ff97ccf8204 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.17-12.34.52:180][909]LogOutputDevice: Error: [Callstack] 0x00007ff97cf3e933 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.17-12.34.52:180][909]LogOutputDevice: Error: [Callstack] 0x00007ff97cd5281a UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.17-12.34.52:180][909]LogOutputDevice: Error: [Callstack] 0x00007ff97cd28190 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.17-12.34.52:180][909]LogOutputDevice: Error: [Callstack] 0x00007ff97cd1b073 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.17-12.34.52:180][909]LogOutputDevice: Error: [Callstack] 0x00007ff98ffbd007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.17-12.34.52:180][909]LogOutputDevice: Error: [Callstack] 0x00007ff98ffb0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.17-12.34.52:180][909]LogOutputDevice: Error: [Callstack] 0x00007ff98ffbf4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.17-12.34.52:180][909]LogOutputDevice: Error: [Callstack] 0x00007ff98ffac209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.17-12.34.52:180][909]LogOutputDevice: Error: [Callstack] 0x00007ff9cd4d6d41 USER32.dll!UnknownFunction []
+[2019.06.17-12.34.52:180][909]LogOutputDevice: Error: [Callstack] 0x00007ff9cd4d6713 USER32.dll!UnknownFunction []
+[2019.06.17-12.34.52:180][909]LogOutputDevice: Error: [Callstack] 0x00007ff98ffc0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.17-12.34.52:180][909]LogOutputDevice: Error: [Callstack] 0x00007ff6a35954e5 UE4Editor.exe!UnknownFunction []
+[2019.06.17-12.34.52:180][909]LogOutputDevice: Error: [Callstack] 0x00007ff6a35a5b3c UE4Editor.exe!UnknownFunction []
+[2019.06.17-12.34.52:180][909]LogOutputDevice: Error: [Callstack] 0x00007ff6a35a5bba UE4Editor.exe!UnknownFunction []
+[2019.06.17-12.34.52:180][909]LogOutputDevice: Error: [Callstack] 0x00007ff6a35b3dac UE4Editor.exe!UnknownFunction []
+[2019.06.17-12.34.52:180][909]LogOutputDevice: Error: [Callstack] 0x00007ff6a35b5aaa UE4Editor.exe!UnknownFunction []
+[2019.06.17-12.34.52:180][909]LogOutputDevice: Error: [Callstack] 0x00007ff9cdbb4034 KERNEL32.DLL!UnknownFunction []
+[2019.06.17-12.34.52:180][909]LogOutputDevice: Error: [Callstack] 0x00007ff9cdfc3691 ntdll.dll!UnknownFunction []
+[2019.06.17-12.34.52:180][909]LogOutputDevice: Error: 
+[2019.06.17-12.34.52:184][909]LogStats:                SubmitErrorReport -  0.000 s

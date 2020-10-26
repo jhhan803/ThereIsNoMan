@@ -1,0 +1,1021 @@
+﻿Log file open, 06/09/19 14:26:55
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Sample
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.226513
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.071s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz, GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.06.09-05.26.55:967][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.09-05.26.55:967][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.09-05.26.55:976][  0]LogHAL: Display: Platform has ~ 16 GB [17112272896 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.09-05.26.55:976][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.06.09-05.26.55:976][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.09-05.26.55:976][  0]LogInit: Computer: DESKTOP-3T2CBCE
+[2019.06.09-05.26.55:976][  0]LogInit: User: User
+[2019.06.09-05.26.55:976][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.06.09-05.26.55:976][  0]LogInit: High frequency timer resolution =3.609378 MHz
+[2019.06.09-05.26.55:977][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.06.09-05.26.55:977][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.09-05.26.55:977][  0]LogMemory: Process Physical Memory: 103.06 MB used, 103.06 MB peak
+[2019.06.09-05.26.55:977][  0]LogMemory: Process Virtual Memory: 100.14 MB used, 100.14 MB peak
+[2019.06.09-05.26.55:977][  0]LogMemory: Physical Memory: 4951.13 MB used,  11368.40 MB free, 16319.54 MB total
+[2019.06.09-05.26.55:977][  0]LogMemory: Virtual Memory: 4646.09 MB used,  11368.40 MB free, 134217728.00 MB total
+[2019.06.09-05.26.55:988][  0]LogInit: Using OS detected language (ko-KR).
+[2019.06.09-05.26.55:988][  0]LogInit: Using OS detected locale (ko-KR).
+[2019.06.09-05.26.55:989][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2019.06.09-05.26.56:251][  0]LogStreaming: Display: Took  0.263s to InitEngineTextLocalization.
+[2019.06.09-05.26.56:251][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.09-05.26.56:268][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.09-05.26.56:268][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.09-05.26.56:390][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.09-05.26.56:390][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.09-05.26.56:453][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2019.06.09-05.26.56:453][  0]LogD3D11RHI:       5980/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.06.09-05.26.56:454][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.09-05.26.56:454][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.09-05.26.56:454][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.09-05.26.56:459][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.09-05.26.56:459][  0]LogD3D11RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.09-05.26.56:459][  0]LogWindows: EnumDisplayDevices:
+[2019.06.09-05.26.56:459][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2019.06.09-05.26.56:459][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2019.06.09-05.26.56:459][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2019.06.09-05.26.56:459][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2019.06.09-05.26.56:459][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.06.09-05.26.56:459][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2019.06.09-05.26.56:460][  0]LogD3D11RHI:   Driver Version: 425.31 (internal:25.21.14.2531, unified:425.31)
+[2019.06.09-05.26.56:460][  0]LogD3D11RHI:      Driver Date: 4-9-2019
+[2019.06.09-05.26.56:460][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2019.06.09-05.26.56:492][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.09-05.26.56:511][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.06.09-05.26.56:559][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (C:/Users/User/Documents/Unreal Projects/Sample/Intermediate/Shaders/WorkingDirectory/14744/).
+[2019.06.09-05.26.56:559][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/6B94AE6F40804B0FC71DDFA9936E83F8/'.
+[2019.06.09-05.26.56:733][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.09-05.26.56:742][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.09-05.26.56:752][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.09-05.26.56:761][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.09-05.26.56:771][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.09-05.26.56:781][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.09-05.26.56:790][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.09-05.26.56:799][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.09-05.26.56:803][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.09-05.26.56:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-05.26.56:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-05.26.56:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-05.26.56:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-05.26.56:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-05.26.56:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-05.26.56:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-05.26.56:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-05.26.56:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-05.26.56:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-05.26.56:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-05.26.56:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-05.26.56:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-05.26.56:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-05.26.56:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-05.26.56:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-05.26.56:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-05.26.56:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-05.26.56:862][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.09-05.26.56:915][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.09-05.26.56:915][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.09-05.26.56:931][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.09-05.26.56:931][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.09-05.26.56:940][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.09-05.26.56:949][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.09-05.26.56:958][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.09-05.26.56:968][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.09-05.26.56:974][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.09-05.26.56:974][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.09-05.26.57:005][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.09-05.26.57:005][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.09-05.26.57:005][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.09-05.26.57:535][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.09-05.26.57:577][  0]LogDerivedDataCache: Loaded boot cache 0.04s 72MB C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.06.09-05.26.57:578][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.06.09-05.26.57:578][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/User/Documents/Unreal Projects/Sample/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.09-05.26.57:578][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.09-05.26.57:578][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/User/Documents/Unreal Projects/Sample/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.09-05.26.57:578][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.09-05.26.57:589][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.09-05.26.57:601][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.09-05.26.57:601][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.09-05.26.57:601][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.09-05.26.57:614][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.09-05.26.57:616][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.09-05.26.57:616][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.09-05.26.57:674][  0]LogAssetRegistry: FAssetRegistry took 0.0247 seconds to start up
+[2019.06.09-05.26.57:898][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.09-05.26.57:988][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.09-05.26.57:990][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.09-05.26.57:990][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.09-05.26.57:990][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.09-05.26.57:990][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.09-05.26.57:999][  0]LogNetVersion: Sample 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4045640335)
+[2019.06.09-05.26.58:349][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.072418 seconds
+[2019.06.09-05.26.58:353][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.06.09-05.26.58:353][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.06.09-05.26.58:353][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.09-05.26.58:930][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.09-05.26.58:943][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.09-05.26.59:055][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.06.09-05.26.59:055][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.06.09-05.26.59:056][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.06.09-05.26.59:057][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.06.09-05.26.59:189][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.09-05.26.59:239][  0]LogOcInput: OculusInput pre-init called
+[2019.06.09-05.26.59:285][  0]LogEngine: Initializing Engine...
+[2019.06.09-05.26.59:286][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.09-05.26.59:287][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.09-05.26.59:287][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.09-05.26.59:287][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.09-05.26.59:287][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.09-05.26.59:431][  0]LogLinker: Warning: '/Game/Font/MyFont2' 파일을 찾을 수 없습니다.
+[2019.06.09-05.26.59:431][  0]LogLinker: Warning: '/Game/Font/MyFont2' 파일을 찾을 수 없습니다.
+[2019.06.09-05.26.59:431][  0]LogUObjectGlobals: Warning: 'Font /Game/Font/MyFont2.MyFont2' 오브젝트를 찾는 데 실패했습니다.
+[2019.06.09-05.26.59:435][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.09-05.26.59:444][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.09-05.26.59:457][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.09-05.26.59:470][  0]LogInit: FAudioDevice initialized.
+[2019.06.09-05.26.59:471][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.09-05.26.59:536][  0]LogDerivedDataCache: Saved boot cache 0.07s 72MB C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.06.09-05.26.59:546][  0]LogInit: Texture streaming: Enabled
+[2019.06.09-05.26.59:554][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.09-05.26.59:561][  0]LogInit: Transaction tracking system initialized
+[2019.06.09-05.26.59:572][  0]BlueprintLog: New page: 에디터 로드
+[2019.06.09-05.26.59:608][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2019.06.09-05.26.59:786][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.09-05.26.59:786][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.09-05.26.59:786][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.09-05.26.59:786][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.09-05.26.59:786][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.09-05.26.59:786][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.09-05.26.59:786][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.09-05.26.59:855][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/Sample/Content/' took 0.02s
+[2019.06.09-05.26.59:855][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.06.09-05.26.59:935][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2019.06.09-05.26.59:939][  0]LogSlate: Took 0.001512 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.06.09-05.26.59:940][  0]LogSlate: Took 0.000105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.09-05.27.02:225][  0]LogSlate: Window '패키지 복원' being destroyed
+[2019.06.09-05.27.02:227][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2019.06.09-05.27.02:230][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2019.06.09-05.27.02:238][  0]Cmd: MAP LOAD FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.09-05.27.02:238][  0]LightingResults: New page: 라이팅 빌드
+[2019.06.09-05.27.02:240][  0]MapCheck: New page: 맵 체크
+[2019.06.09-05.27.02:240][  0]LightingResults: New page: 라이팅 빌드
+[2019.06.09-05.27.03:164][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.09-05.27.03:180][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.09-05.27.03:202][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.09-05.27.03:264][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 61.403ms.
+[2019.06.09-05.27.03:264][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.025
+[2019.06.09-05.27.03:288][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.09-05.27.03:294][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.09-05.27.03:299][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.09-05.27.03:304][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.09-05.27.03:307][  0]LogCollectionManager: Loaded 0 collections in 0.000700 seconds
+[2019.06.09-05.27.03:344][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Collections/' took 0.01s
+[2019.06.09-05.27.03:344][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/Sample/Content/Developers/User/Collections/' took 0.01s
+[2019.06.09-05.27.03:344][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/Sample/Content/Collections/' took 0.01s
+[2019.06.09-05.27.03:344][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.06.09-05.27.03:351][  0]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 2572 classes and 603 folders.
+[2019.06.09-05.27.03:356][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2019.06.09-05.27.03:383][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2019.06.09-05.27.03:387][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2019.06.09-05.27.03:473][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2019.06.09-05.27.03:473][  0]LogLoad: (Engine Initialization) Total time: 8.62 seconds
+[2019.06.09-05.27.03:473][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.09-05.27.03:505][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.09-05.27.03:508][  0]LogSlate: Took 0.001526 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2019.06.09-05.27.03:508][  0]LogSlate: Took 0.000102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.09-05.27.03:511][  0]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.09-05.27.03:585][  0]LogRenderer: Reallocating scene render targets to support 872x492 Format 10 NumSamples 1 (Frame:1).
+[2019.06.09-05.27.03:585][  0]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.09-05.27.03:613][  1]LogAssetRegistry: Asset discovery search completed in 5.9613 seconds
+[2019.06.09-05.27.03:614][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.09-05.27.03:615][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
+[2019.06.09-05.27.04:508][ 95]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.09-05.27.07:882][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.09-05.27.07:965][504]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.09-05.27.07:989][504]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.09-05.27.07:989][504]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.09-05.27.08:001][504]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 6. 9. 오후 11:27:08)
+[2019.06.09-05.27.08:001][504]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.09-05.27.08:018][504]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018155s)
+[2019.06.09-05.27.08:019][504]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.09-05.27.08:019][504]LogPlayLevel: PIE: World Init took: (0.000557s)
+[2019.06.09-05.27.08:019][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018834s)
+[2019.06.09-05.27.08:047][504]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.09-05.27.08:058][504]LogInit: FAudioDevice initialized.
+[2019.06.09-05.27.08:105][504]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.09-05.27.08:109][504]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.09-14.27.08
+[2019.06.09-05.27.08:111][504]LogWorld: Bringing up level for play took: 0.004337
+[2019.06.09-05.27.08:125][504]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0013 seconds. Added 10 classes and 0 folders.
+[2019.06.09-05.27.08:127][504]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.864
+[2019.06.09-05.27.08:127][504]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.09-05.27.28:608][958]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.09-05.27.28:609][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.09-05.27.28:638][958]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.09-05.27.28:638][958]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.09-05.27.28:658][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.09-05.27.28:709][964]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.06.09-05.27.35:884][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.09-05.27.43:410][366]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\User\Desktop\Modeling\Modeling.FBX)
+[2019.06.09-05.27.43:420][366]LogFbx: Loading FBX Scene from C:\Users\User\Desktop\Modeling\Modeling.FBX
+[2019.06.09-05.27.43:436][366]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.09-05.27.44:923][366]LogSlate: Window 'FBX 임포트 옵션' being destroyed
+[2019.06.09-05.27.44:951][366]LogFbx: =================================================
+[2019.06.09-05.27.44:951][366]LogFbx: Dumping Node START [Box001] 
+[2019.06.09-05.27.44:951][366]LogFbx: 	Total Deformer Count 922254296.
+[2019.06.09-05.27.44:951][366]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.09-05.27.44:951][366]LogFbx: =================================================
+[2019.06.09-05.27.44:952][366]LogFbx: 	Attribute () Type (4).
+[2019.06.09-05.27.44:952][366]LogFbx: 		[Node Attribute Child 1] Box001 (Type Mesh).
+[2019.06.09-05.27.44:952][366]LogFbx: Dumping Node END [Box001]
+[2019.06.09-05.27.44:952][366]LogFbx: =================================================
+[2019.06.09-05.27.44:952][366]LogFbx: Dumping Node START [Box001] 
+[2019.06.09-05.27.44:952][366]LogFbx: 	Total Deformer Count 922254576.
+[2019.06.09-05.27.44:952][366]LogFbx: 		[Node 1]  (Type Skin).
+[2019.06.09-05.27.44:952][366]LogFbx: =================================================
+[2019.06.09-05.27.44:952][366]LogFbx: 	Attribute () Type (4).
+[2019.06.09-05.27.44:952][366]LogFbx: 		[Node Attribute Child 1] Box001 (Type Mesh).
+[2019.06.09-05.27.44:952][366]LogFbx: Dumping Node END [Box001]
+[2019.06.09-05.27.44:953][366]LogFbx: Warning: Not valid bind pose for Pose (BIND_POSES) - Node Box001 : The relative matrices do not match
+[2019.06.09-05.27.44:953][366]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2019.06.09-05.27.44:954][366]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Box001
+[2019.06.09-05.27.44:954][366]LogFbx: Warning: Recreating bind pose succeeded.
+[2019.06.09-05.27.45:049][366]LogMaterial: Warning: Material /Game/01_-_Default.01_-_Default needed to have new flag set bUsedWithSkeletalMesh !
+[2019.06.09-05.27.45:051][366]LogMaterial: Display: Missing cached shader map for material 01_-_Default, compiling. 
+[2019.06.09-05.27.45:099][366]LogMaterial: Display: Missing cached shader map for material 01_-_Default, compiling. 
+[2019.06.09-05.27.45:123][366]LogMaterial: Warning: Material /Game/02_-_Default.02_-_Default needed to have new flag set bUsedWithSkeletalMesh !
+[2019.06.09-05.27.45:124][366]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.06.09-05.27.45:124][366]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.06.09-05.27.45:124][366]LogMaterial: Display: Missing cached shader map for material 02_-_Default, compiling. 
+[2019.06.09-05.27.45:151][366]LogMaterial: Display: Missing cached shader map for material 02_-_Default, compiling. 
+[2019.06.09-05.27.45:177][366]LogMaterial: Warning: Material /Game/03_-_Default.03_-_Default needed to have new flag set bUsedWithSkeletalMesh !
+[2019.06.09-05.27.45:179][366]LogMaterial: Display: Missing cached shader map for material 03_-_Default, compiling. 
+[2019.06.09-05.27.45:205][366]LogMaterial: Display: Missing cached shader map for material 03_-_Default, compiling. 
+[2019.06.09-05.27.45:228][366]LogFbx: Triangulating skeletal mesh Box001
+[2019.06.09-05.27.45:275][366]LogFbx: Warning: Bones digested - 56  Depth of hierarchy - 13
+[2019.06.09-05.27.45:296][366]LogSkeletalMesh: Section 0: 384 vertices, 23 active bones
+[2019.06.09-05.27.45:296][366]LogSkeletalMesh: Section 1: 222 vertices, 16 active bones
+[2019.06.09-05.27.45:296][366]LogSkeletalMesh: Section 2: 232 vertices, 12 active bones
+[2019.06.09-05.27.45:296][366]LogSkeletalMesh: Section 0: Material=0, 552 triangles
+[2019.06.09-05.27.45:296][366]LogSkeletalMesh: Section 1: Material=1, 400 triangles
+[2019.06.09-05.27.45:296][366]LogSkeletalMesh: Section 2: Material=2, 432 triangles
+[2019.06.09-05.27.45:296][366]LogSkeletalMesh: Building Skeletal Mesh Modeling...
+[2019.06.09-05.27.45:297][366]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Modeling.Modeling
+[2019.06.09-05.27.45:298][366]LogLinker: '/Game/Modeling_Skeleton' 파일을 찾을 수 없습니다.
+[2019.06.09-05.27.45:298][366]LogLinker: '/Game/Modeling_Skeleton' 파일을 찾을 수 없습니다.
+[2019.06.09-05.27.45:300][366]LogLinker: '/Game/Modeling_PhysicsAsset' 파일을 찾을 수 없습니다.
+[2019.06.09-05.27.45:300][366]LogLinker: '/Game/Modeling_PhysicsAsset' 파일을 찾을 수 없습니다.
+[2019.06.09-05.27.45:304][366]LogSkeletalMesh: Building Skeletal Mesh Modeling...
+[2019.06.09-05.27.45:305][366]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Modeling.Modeling
+[2019.06.09-05.27.45:309][366]FBXImport: Warning: 이 FBX 씬에 스무딩 그룹 정보가 없습니다. FBX 익스포트 플러그인에서 파일을 익스포트하기 전, 'Export Smoothing Groups' (스무딩 그룹 익스포트)를 켰는지 확인해 주시기 바랍니다. 스무딩 그룹을 지원하지 않는 툴의 경우에도, 임포트시 버텍스 노멀을 제대로 유추할 수 있도록 FBX 익스포터가 익스포트시 적합한 스무딩 데이터를 생성해 줍니다. 
+[2019.06.09-05.27.45:309][366]FBXImport: Warning: 바인드 포즈에서 빠진 본은 다음과 같습니다:
+Bip001 HeadNub  
+Bip001 R Finger0Nub  
+Bip001 R Finger1Nub  
+Bip001 R Finger2Nub  
+Bip001 R Finger3Nub  
+Bip001 R Finger4Nub  
+Bip001 L Finger0Nub  
+Bip001 L Finger1Nub  
+Bip001 L Finger2Nub  
+Bip001 L Finger3Nub  
+Bip001 L Finger4Nub  
+Bip001 L Toe0Nub  
+Bip001 R Toe0Nub  
+
+버텍스 웨이팅되지 않은 본에 대해 일어날 수 있습니다. 임포트 이후 오리엔테이션이 제대로 되어 있지 않은 경우,
+"Use T0 as ref pose" 옵션을 사용하거나, 바인드 포즈에 추가한 다음 스켈레탈 메시를 다시 임포트해 보세요. 
+[2019.06.09-05.27.45:316][366]LogSkeletalMesh: Building Skeletal Mesh Modeling...
+[2019.06.09-05.27.45:317][366]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Modeling.Modeling
+[2019.06.09-05.27.46:926][535]LogShaderCompilers: Display: Shaders left to compile 160
+[2019.06.09-05.27.47:825][642]LogShaderCompilers: Display: Shaders left to compile 150
+[2019.06.09-05.27.48:450][717]LogShaderCompilers: Display: Shaders left to compile 140
+[2019.06.09-05.27.49:677][864]LogShaderCompilers: Display: Shaders left to compile 130
+[2019.06.09-05.27.49:760][874]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.06.09-05.27.50:839][  3]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.06.09-05.27.51:456][ 77]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.06.09-05.27.52:743][231]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.06.09-05.27.52:793][237]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.06.09-05.27.54:103][394]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.06.09-05.27.54:594][453]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.06.09-05.27.55:678][583]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.06.09-05.27.55:873][606]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.06.09-05.27.57:187][764]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.09-05.27.57:554][808]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.09-05.27.58:854][964]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.09-05.28.09:676][261]LogSlate: Window '메시지 로그' being destroyed
+[2019.06.09-05.28.09:679][261]LogSlate: Window '메시지 로그' being destroyed
+[2019.06.09-05.28.11:136][435]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Modeling.Modeling
+[2019.06.09-05.28.11:140][435]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0013 seconds. Added 1 classes and 2 folders.
+[2019.06.09-05.28.11:285][435]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.09-05.28.11:287][435]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0013 seconds. Added 1 classes and 0 folders.
+[2019.06.09-05.28.11:330][435]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.09-05.28.11:555][435]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.09-05.28.11:593][435]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0013 seconds. Added 1 classes and 0 folders.
+[2019.06.09-05.28.11:596][436]LogRenderer: Reallocating scene render targets to support 872x588 Format 10 NumSamples 1 (Frame:1).
+[2019.06.09-05.28.14:663][768]LogSlate: Window 'Modeling*' being destroyed
+[2019.06.09-05.28.14:667][768]LogSlate: Window 'Modeling*' being destroyed
+[2019.06.09-05.28.33:739][998]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.06.09-05.28.51:240][998]LogSlate: Window '애니메이션 블루프린트 생성' being destroyed
+[2019.06.09-05.28.57:410][720]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Player.Player
+[2019.06.09-05.28.57:420][720]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.09-05.28.57:734][720]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 116 classes and 0 folders.
+[2019.06.09-05.28.58:245][720]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.09-05.28.58:455][720]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.09-05.29.10:873][165]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint
+[2019.06.09-05.29.10:882][165]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.09-05.29.11:089][165]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.09-05.29.11:407][165]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.09-05.29.44:276][894]BlueprintLog: New page: Player 컴파일
+[2019.06.09-05.29.44:279][894]LogBlueprint: Warning: [Compiler Player] PlayerStateMachine  입구 노드가 스테이트에 연결되지 않았습니다.
+[2019.06.09-05.29.44:279][894]LogBlueprint: Warning: [Compiler Player] PlayerStateMachine  에 입구 스테이트 연결이 없습니다.
+[2019.06.09-05.29.44:397][894]LogBlueprint: Warning: [Compiler Player] [0169.55] Player 컴파일에 성공했습니다만, 경고가 2 회 있습니다. [소요시간 121 ms] (/Game/Player.Player)
+[2019.06.09-05.30.01:150][863]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/AnimStarterPack/UE4_Mannequin/Mesh/BaseSkeleton.BaseSkeleton
+[2019.06.09-05.30.01:154][863]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.09-05.30.01:190][863]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.09-05.30.43:355][145]LogSlate: Window '매핑 저장' being destroyed
+[2019.06.09-05.30.43:446][145]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/MainBoneMapping9FEC5FDC494D4FD6A65CAFBB109DD697.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/MainBoneMapping.uasset'
+[2019.06.09-05.30.45:924][416]LogSlate: Window '리타깃 매니저' being destroyed
+[2019.06.09-05.30.45:929][416]LogSlate: Window '리타깃 매니저' being destroyed
+[2019.06.09-05.30.56:048][593]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/Modeling_Skeleton.Modeling_Skeleton
+[2019.06.09-05.30.56:051][593]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.09-05.30.56:084][593]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.09-05.31.00:583][949]LogSlate: Window '콘텐츠 저장' being destroyed
+[2019.06.09-05.31.00:609][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/01_-_Default" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/01_-_Default.uasset" SILENT=true
+[2019.06.09-05.31.00:620][949]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/01_-_DefaultFDDD6DE14A04A53BDE2224AB8CA0BC6D.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/01_-_Default.uasset'
+[2019.06.09-05.31.00:632][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/02_-_Default" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/02_-_Default.uasset" SILENT=true
+[2019.06.09-05.31.00:644][949]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/02_-_Default0FD3E9024BBA908DEC30E5ABFAA4615B.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/02_-_Default.uasset'
+[2019.06.09-05.31.00:658][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_-_Default" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/03_-_Default.uasset" SILENT=true
+[2019.06.09-05.31.00:672][949]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/03_-_DefaultF23D74524E0F1B167271468869C34812.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/03_-_Default.uasset'
+[2019.06.09-05.31.00:703][949]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/BaseSkeleton0023405E42D7B28495CBBA931F085D77.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/AnimStarterPack/UE4_Mannequin/Mesh/BaseSkeleton.uasset'
+[2019.06.09-05.31.00:716][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modeling" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/Modeling.uasset" SILENT=true
+[2019.06.09-05.31.00:730][949]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/ModelingC515FC834C3E9E686AF39CAB8051B039.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/Modeling.uasset'
+[2019.06.09-05.31.00:742][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modeling_PhysicsAsset" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/Modeling_PhysicsAsset.uasset" SILENT=true
+[2019.06.09-05.31.00:756][949]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Modeling_PhysicsAssetF0E3FE9D4AC7A3AF764D45B883B09FA6.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/Modeling_PhysicsAsset.uasset'
+[2019.06.09-05.31.00:761][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modeling_Skeleton" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/Modeling_Skeleton.uasset" SILENT=true
+[2019.06.09-05.31.00:766][949]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Modeling_Skeleton9E859F414AFC599B4C2FC99BBB2D9A48.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/Modeling_Skeleton.uasset'
+[2019.06.09-05.31.00:778][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/Player.uasset" SILENT=true
+[2019.06.09-05.31.00:793][949]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/PlayerE4A6F3374179B67E39798DA2E0825217.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/Player.uasset'
+[2019.06.09-05.31.51:939][879]LogSlate: Window '리타깃 매니저' being destroyed
+[2019.06.09-05.31.51:943][879]LogSlate: Window '리타깃 매니저' being destroyed
+[2019.06.09-05.33.12:643][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modeling_Skeleton" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/Modeling_Skeleton.uasset" SILENT=true
+[2019.06.09-05.33.12:669][526]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Modeling_SkeletonEC31ADCC4BC2072340307BA8BD43C05B.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/Modeling_Skeleton.uasset'
+[2019.06.09-05.33.15:072][806]LogSlate: Window 'Modeling_Skeleton' being destroyed
+[2019.06.09-05.33.15:075][806]LogSlate: Window 'Modeling_Skeleton' being destroyed
+[2019.06.09-05.33.31:843][736]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.06.09-05.33.39:877][690]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.06.09-05.33.46:269][152]LogTexture: Display: 텍스처 빌드: T_KA_Val_ALB (AutoDXT, 2048X2048)
+[2019.06.09-05.33.46:269][152]LogTexture: Display: 텍스처 빌드: T_KA_Val_NRM (BC5, 2048X2048)
+[2019.06.09-05.33.46:269][152]LogTexture: Display: 텍스처 빌드: T_KA_Val_M_MSK (AutoDXT, 2048X2048)
+[2019.06.09-05.33.46:269][152]LogMaterial: Display: Missing cached shader map for material M_Weapon_Master_USE, compiling. 
+[2019.06.09-05.33.46:345][152]LogSkeletalMesh: Building Skeletal Mesh SK_KA_Val_X...
+[2019.06.09-05.33.46:357][152]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.06.09-05.33.46:357][152]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.06.09-05.33.46:357][152]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/FPS_Weapon_Bundle/Weapons/Meshes/KA_Val/SK_KA_Val_X.SK_KA_Val_X
+[2019.06.09-05.33.47:940][152]LogTexture: Display: 텍스처 빌드: T_M9_NRM (BC5, 2048X2048)
+[2019.06.09-05.33.47:940][152]LogTexture: Display: 텍스처 빌드: T_M9_ALB (DXT1, 2048X2048)
+[2019.06.09-05.33.47:940][152]LogTexture: Display: 텍스처 빌드: T_M9_M_MSK (DXT1, 2048X2048)
+[2019.06.09-05.33.47:940][152]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.06.09-05.33.47:940][152]LogSkeletalMesh: Building Skeletal Mesh SK_M9_Knife...
+[2019.06.09-05.33.47:943][152]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/FPS_Weapon_Bundle/Weapons/Meshes/M9_Knife/SK_M9_Knife.SK_M9_Knife
+[2019.06.09-05.33.49:094][275]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.06.09-05.33.49:153][281]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.06.09-05.33.50:372][425]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.06.09-05.33.51:243][527]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.06.09-05.33.52:333][657]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.06.09-05.33.52:399][665]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.06.09-05.33.53:875][842]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.09-05.33.54:472][913]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.06.09-05.34.08:786][627]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.06.09-05.34.15:199][389]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Bwd_Rifle_Ironsights.Crouch_Walk_Bwd_Rifle_Ironsights
+[2019.06.09-05.34.15:200][389]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Crouch_Walk_Bwd_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-05.34.15:206][389]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Lt_Rifle_Ironsights.Crouch_Walk_Lt_Rifle_Ironsights
+[2019.06.09-05.34.15:206][389]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Crouch_Walk_Lt_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_11) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-05.34.15:212][389]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Fwd_Rifle_Ironsights.Crouch_Walk_Fwd_Rifle_Ironsights
+[2019.06.09-05.34.15:212][389]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Crouch_Walk_Fwd_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-05.34.15:218][389]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Rt_Rifle_Ironsights.Crouch_Walk_Rt_Rifle_Ironsights
+[2019.06.09-05.34.15:219][389]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Crouch_Walk_Rt_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_13) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-05.34.15:220][389]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Bwd_Rifle_Ironsights.Crouch_Walk_Bwd_Rifle_Ironsights
+[2019.06.09-05.34.15:220][389]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_0) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-05.34.15:222][389]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Lt_Rifle_Ironsights.Crouch_Walk_Lt_Rifle_Ironsights
+[2019.06.09-05.34.15:222][389]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_1) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-05.34.15:224][389]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Fwd_Rifle_Ironsights.Crouch_Walk_Fwd_Rifle_Ironsights
+[2019.06.09-05.34.15:224][389]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_2) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-05.34.15:226][389]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Rt_Rifle_Ironsights.Crouch_Walk_Rt_Rifle_Ironsights
+[2019.06.09-05.34.15:226][389]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_3) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-05.34.15:232][389]LogSlate: Window '스켈레톤 선택' being destroyed
+[2019.06.09-05.34.18:806][805]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/BS_IS_CrouchWalk.BS_IS_CrouchWalk
+[2019.06.09-05.34.18:814][805]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.09-05.34.18:832][805]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.09-05.34.19:137][805]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.09-05.34.30:190][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.09-05.34.30:265][ 68]LogSlate: Window 'BS_IS_CrouchWalk*' being destroyed
+[2019.06.09-05.34.30:269][ 68]LogSlate: Window 'BS_IS_CrouchWalk*' being destroyed
+[2019.06.09-05.34.34:272][531]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Crouch_Walk_Bwd_Rifle_Ironsights.Crouch_Walk_Bwd_Rifle_Ironsights
+[2019.06.09-05.34.34:277][531]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.09-05.34.34:316][531]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.09-05.34.34:632][531]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.09-05.34.38:527][985]LogSlate: Window 'Crouch_Walk_Bwd_Rifle_Ironsights*' being destroyed
+[2019.06.09-05.34.38:531][985]LogSlate: Window 'Crouch_Walk_Bwd_Rifle_Ironsights*' being destroyed
+[2019.06.09-05.34.46:146][711]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.09-05.34.48:650][858]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/Modeling_Skeleton.Modeling_Skeleton
+[2019.06.09-05.34.48:655][858]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.09-05.34.48:693][858]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.09-05.35.17:876][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.09-05.35.30:124][355]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/AnimStarterPack/UE4_Mannequin/Mesh/BaseSkeleton.BaseSkeleton
+[2019.06.09-05.35.30:129][355]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.09-05.35.30:161][355]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.09-05.35.42:563][312]LogSlate: Window '리타깃 매니저' being destroyed
+[2019.06.09-05.37.51:546][494]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(68) out of range of SpaceBases for /Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0 (SkeletalMesh /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin)
+[2019.06.09-05.38.27:120][660]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.09-05.38.47:083][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.09-05.38.54:615][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.09-05.38.59:256][352]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(56) out of range of SpaceBases for /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0 (SkeletalMesh /Game/Modeling.Modeling)
+[2019.06.09-05.39.06:759][228]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.09-05.39.41:336][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.09-05.40.45:515][ 33]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.019
+[2019.06.09-05.40.45:516][ 33]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnimStarterPack/UE4_Mannequin/Mesh/BaseSkeleton] ([1] browsable assets)...
+[2019.06.09-05.40.45:516][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/UE4_Mannequin/Mesh/BaseSkeleton]
+[2019.06.09-05.40.45:541][ 33]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/BaseSkeleton_Auto1EC7D04E844320B7EDC1C92A7E7508A59.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Autosaves/Game/AnimStarterPack/UE4_Mannequin/Mesh/BaseSkeleton_Auto1.uasset'
+[2019.06.09-05.40.45:543][ 33]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Modeling_Skeleton] ([1] browsable assets)...
+[2019.06.09-05.40.45:543][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modeling_Skeleton]
+[2019.06.09-05.40.45:543][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modeling_Skeleton" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Saved/Autosaves/Game/Modeling_Skeleton_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.06.09-05.40.45:564][ 33]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Modeling_Skeleton_Auto1B91F958F42A0DC1DFFAA96A823FD732B.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Autosaves/Game/Modeling_Skeleton_Auto1.uasset'
+[2019.06.09-05.40.45:564][ 33]LogFileHelpers: Auto-saving content packages took 0.049
+[2019.06.09-05.42.38:204][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.09-05.42.56:598][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.09-05.44.56:476][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.09-05.45.58:595][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.09-05.46.06:505][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.09-05.46.18:876][703]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.06.09-05.46.23:978][303]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Bwd_Rifle_Ironsights.Crouch_Walk_Bwd_Rifle_Ironsights
+[2019.06.09-05.46.23:978][303]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Crouch_Walk_Bwd_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-05.46.23:983][303]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Lt_Rifle_Ironsights.Crouch_Walk_Lt_Rifle_Ironsights
+[2019.06.09-05.46.23:983][303]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Crouch_Walk_Lt_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_11) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-05.46.23:989][303]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Fwd_Rifle_Ironsights.Crouch_Walk_Fwd_Rifle_Ironsights
+[2019.06.09-05.46.23:990][303]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Crouch_Walk_Fwd_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-05.46.23:996][303]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Rt_Rifle_Ironsights.Crouch_Walk_Rt_Rifle_Ironsights
+[2019.06.09-05.46.23:996][303]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Crouch_Walk_Rt_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_13) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-05.46.23:998][303]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Bwd_Rifle_Ironsights.Crouch_Walk_Bwd_Rifle_Ironsights
+[2019.06.09-05.46.23:998][303]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_4) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-05.46.24:000][303]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Lt_Rifle_Ironsights.Crouch_Walk_Lt_Rifle_Ironsights
+[2019.06.09-05.46.24:000][303]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_5) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-05.46.24:001][303]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Fwd_Rifle_Ironsights.Crouch_Walk_Fwd_Rifle_Ironsights
+[2019.06.09-05.46.24:002][303]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_6) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-05.46.24:003][303]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Rt_Rifle_Ironsights.Crouch_Walk_Rt_Rifle_Ironsights
+[2019.06.09-05.46.24:004][303]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_7) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-05.46.24:010][303]LogSlate: Window '스켈레톤 선택' being destroyed
+[2019.06.09-05.46.25:496][463]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/BS_IS_CrouchWalk.BS_IS_CrouchWalk
+[2019.06.09-05.46.25:500][463]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.09-05.46.25:533][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.09-05.46.25:908][463]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.09-05.46.28:062][698]LogSlate: Window 'BS_IS_CrouchWalk*' being destroyed
+[2019.06.09-05.46.28:066][698]LogSlate: Window 'BS_IS_CrouchWalk*' being destroyed
+[2019.06.09-05.46.29:101][755]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Crouch_Walk_Bwd_Rifle_Ironsights.Crouch_Walk_Bwd_Rifle_Ironsights
+[2019.06.09-05.46.29:107][755]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.09-05.46.29:146][755]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.09-05.46.29:458][755]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.09-05.46.31:611][971]LogSlate: Window 'Crouch_Walk_Bwd_Rifle_Ironsights*' being destroyed
+[2019.06.09-05.46.31:615][971]LogSlate: Window 'Crouch_Walk_Bwd_Rifle_Ironsights*' being destroyed
+[2019.06.09-05.46.32:649][ 75]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/BS_IS_CrouchWalk.BS_IS_CrouchWalk
+[2019.06.09-05.46.32:653][ 75]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.09-05.46.32:692][ 75]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.09-05.46.33:016][ 75]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.09-05.47.08:929][369]LogSlate: Window 'BS_IS_CrouchWalk*' being destroyed
+[2019.06.09-05.47.15:036][870]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.09-05.47.27:700][291]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.06.09-05.47.30:150][570]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jog_Bwd_Rifle.Jog_Bwd_Rifle
+[2019.06.09-05.47.30:150][570]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Jog_Bwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_34) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-05.47.30:155][570]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jog_Lt_Rifle.Jog_Lt_Rifle
+[2019.06.09-05.47.30:155][570]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Jog_Lt_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-05.47.30:160][570]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jog_Fwd_Rifle.Jog_Fwd_Rifle
+[2019.06.09-05.47.30:160][570]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Jog_Fwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_35) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-05.47.30:166][570]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jog_Rt_Rifle.Jog_Rt_Rifle
+[2019.06.09-05.47.30:166][570]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Jog_Rt_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_37) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-05.47.30:167][570]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jog_Bwd_Rifle.Jog_Bwd_Rifle
+[2019.06.09-05.47.30:168][570]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_8) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-05.47.30:169][570]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jog_Lt_Rifle.Jog_Lt_Rifle
+[2019.06.09-05.47.30:169][570]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_9) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-05.47.30:170][570]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jog_Fwd_Rifle.Jog_Fwd_Rifle
+[2019.06.09-05.47.30:171][570]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_10) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-05.47.30:172][570]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jog_Rt_Rifle.Jog_Rt_Rifle
+[2019.06.09-05.47.30:172][570]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_11) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-05.47.30:179][570]LogSlate: Window '스켈레톤 선택' being destroyed
+[2019.06.09-05.47.31:511][714]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/BS_Jog.BS_Jog
+[2019.06.09-05.47.31:516][714]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.09-05.47.31:556][714]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.09-05.47.31:885][714]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.09-05.48.03:421][355]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.09-05.48.03:521][367]LogSlate: Window 'BS_Jog*' being destroyed
+[2019.06.09-05.48.03:525][367]LogSlate: Window 'BS_Jog*' being destroyed
+[2019.06.09-05.48.07:266][627]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.09-05.48.09:116][772]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/Modeling_Skeleton.Modeling_Skeleton
+[2019.06.09-05.48.09:121][772]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.09-05.48.09:159][772]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.09-05.48.19:742][868]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/AnimStarterPack/UE4_Mannequin/Mesh/BaseSkeleton.BaseSkeleton
+[2019.06.09-05.48.19:747][868]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.09-05.48.19:779][868]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.09-05.49.18:671][723]LogSlate: Window '리타깃 매니저' being destroyed
+[2019.06.09-05.49.34:185][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.09-05.51.29:094][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2019.06.09-05.51.29:882][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.09-05.51.31:531][ 72]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.06.09-05.51.40:951][191]LogSlate: Window '스켈레톤 선택' being destroyed
+[2019.06.09-05.52.13:970][198]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.022
+[2019.06.09-05.52.13:972][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnimStarterPack/UE4_Mannequin/Mesh/BaseSkeleton] ([1] browsable assets)...
+[2019.06.09-05.52.13:972][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/UE4_Mannequin/Mesh/BaseSkeleton]
+[2019.06.09-05.52.13:998][198]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/BaseSkeleton_Auto2D83E588F4AD99D923ADBB6A74DB8AD39.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Autosaves/Game/AnimStarterPack/UE4_Mannequin/Mesh/BaseSkeleton_Auto2.uasset'
+[2019.06.09-05.52.13:999][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Modeling_Skeleton] ([1] browsable assets)...
+[2019.06.09-05.52.13:999][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modeling_Skeleton]
+[2019.06.09-05.52.13:999][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modeling_Skeleton" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Saved/Autosaves/Game/Modeling_Skeleton_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.06.09-05.52.14:020][198]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Modeling_Skeleton_Auto2FD1A03954308D6C231C60A826EC5021B.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Autosaves/Game/Modeling_Skeleton_Auto2.uasset'
+[2019.06.09-05.52.14:021][198]LogFileHelpers: Auto-saving content packages took 0.049
+[2019.06.09-05.53.59:302][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modeling_Skeleton" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/Modeling_Skeleton.uasset" SILENT=true
+[2019.06.09-05.53.59:326][258]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Modeling_SkeletonFF5D18804C422FD22AF15685C4EE504B.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/Modeling_Skeleton.uasset'
+[2019.06.09-05.54.08:149][289]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/AnimStarterPack/BS_CrouchWalk.BS_CrouchWalk
+[2019.06.09-05.54.08:153][289]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_45:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.09-05.54.08:186][289]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_45:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.09-05.54.08:535][289]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.09-05.54.20:483][539]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.06.09-05.54.23:436][880]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip
+[2019.06.09-05.54.23:436][880]LogAnimationCompression: Compression Requested for Empty Animation Crouch_Walk_Bwd_Rifle_Hip
+[2019.06.09-05.54.23:440][880]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip
+[2019.06.09-05.54.23:440][880]LogAnimationCompression: Compression Requested for Empty Animation Crouch_Walk_Lt_Rifle_Hip
+[2019.06.09-05.54.23:444][880]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip
+[2019.06.09-05.54.23:444][880]LogAnimationCompression: Compression Requested for Empty Animation Crouch_Walk_Fwd_Rifle_Hip
+[2019.06.09-05.54.23:448][880]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip
+[2019.06.09-05.54.23:448][880]LogAnimationCompression: Compression Requested for Empty Animation Crouch_Walk_Rt_Rifle_Hip
+[2019.06.09-05.54.23:449][880]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip
+[2019.06.09-05.54.23:449][880]LogAnimationCompression: Compression Requested for Empty Animation AnimSequence_12
+[2019.06.09-05.54.23:453][880]LogSlate: Window '스켈레톤 선택' being destroyed
+[2019.06.09-05.54.26:026][165]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/BS_CrouchWalk.BS_CrouchWalk
+[2019.06.09-05.54.26:030][165]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.09-05.54.26:065][165]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.09-05.54.26:414][165]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.09-05.59.38:767][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modeling_Skeleton" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/Modeling_Skeleton.uasset" SILENT=true
+[2019.06.09-05.59.38:793][115]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Modeling_Skeleton3C6D67AE4688C6DA9AB9A6812E3C47E5.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/Modeling_Skeleton.uasset'
+[2019.06.09-05.59.46:333][826]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.09-05.59.46:476][826]LogSlate: Window 'BaseSkeleton*' being destroyed
+[2019.06.09-05.59.50:398][184]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/AnimStarterPack/BS_CrouchWalk.BS_CrouchWalk
+[2019.06.09-05.59.50:403][184]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.09-05.59.50:443][184]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.09-05.59.50:780][184]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.09-05.59.56:412][747]LogSlate: Window 'BS_CrouchWalk' being destroyed
+[2019.06.09-05.59.56:415][747]LogSlate: Window 'BS_CrouchWalk' being destroyed
+[2019.06.09-05.59.58:670][989]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.06.09-06.00.00:946][249]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip
+[2019.06.09-06.00.00:947][249]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Crouch_Walk_Bwd_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-06.00.00:951][249]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip
+[2019.06.09-06.00.00:951][249]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Crouch_Walk_Lt_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_10) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-06.00.00:956][249]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip
+[2019.06.09-06.00.00:956][249]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Crouch_Walk_Fwd_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_8) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-06.00.00:962][249]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip
+[2019.06.09-06.00.00:962][249]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Crouch_Walk_Rt_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_12) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-06.00.00:963][249]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip
+[2019.06.09-06.00.00:963][249]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_13) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-06.00.00:964][249]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip
+[2019.06.09-06.00.00:964][249]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_14) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-06.00.00:965][249]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip
+[2019.06.09-06.00.00:965][249]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_15) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-06.00.00:966][249]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip
+[2019.06.09-06.00.00:966][249]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_16) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-06.00.00:972][249]LogSlate: Window '스켈레톤 선택' being destroyed
+[2019.06.09-06.00.02:497][413]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/BS_CrouchWalk.BS_CrouchWalk
+[2019.06.09-06.00.02:502][413]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.09-06.00.02:542][413]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.09-06.00.02:848][413]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.09-06.01.06:463][176]LogSlate: Window 'BS_CrouchWalk*' being destroyed
+[2019.06.09-06.01.06:468][176]LogSlate: Window 'BS_CrouchWalk*' being destroyed
+[2019.06.09-06.01.09:822][561]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip
+[2019.06.09-06.01.09:827][561]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_57:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.09-06.01.09:867][561]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_57:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.09-06.01.10:189][561]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.09-06.01.12:927][849]LogSlate: Window 'Crouch_Walk_Bwd_Rifle_Hip*' being destroyed
+[2019.06.09-06.01.12:930][849]LogSlate: Window 'Crouch_Walk_Bwd_Rifle_Hip*' being destroyed
+[2019.06.09-06.01.13:780][930]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip
+[2019.06.09-06.01.13:785][930]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.09-06.01.13:825][930]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.09-06.01.14:149][930]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.09-06.01.16:417][164]LogSlate: Window 'Crouch_Walk_Fwd_Rifle_Hip*' being destroyed
+[2019.06.09-06.01.16:420][164]LogSlate: Window 'Crouch_Walk_Fwd_Rifle_Hip*' being destroyed
+[2019.06.09-06.01.34:421][562]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Player.Player
+[2019.06.09-06.01.34:429][562]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_64:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.09-06.01.34:629][562]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_64:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.09-06.01.34:924][562]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.09-06.02.14:284][262]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.028
+[2019.06.09-06.02.14:285][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnimStarterPack/UE4_Mannequin/Mesh/BaseSkeleton] ([1] browsable assets)...
+[2019.06.09-06.02.14:285][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/UE4_Mannequin/Mesh/BaseSkeleton]
+[2019.06.09-06.02.14:312][262]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/BaseSkeleton_Auto317B7C3374F1ED2D2C4939E85BFCD35E1.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Autosaves/Game/AnimStarterPack/UE4_Mannequin/Mesh/BaseSkeleton_Auto3.uasset'
+[2019.06.09-06.02.14:313][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Modeling_Skeleton] ([1] browsable assets)...
+[2019.06.09-06.02.14:313][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modeling_Skeleton]
+[2019.06.09-06.02.14:313][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modeling_Skeleton" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Saved/Autosaves/Game/Modeling_Skeleton_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.06.09-06.02.14:332][262]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Modeling_Skeleton_Auto3BEBA0B014C33990836E4DDBA361A365B.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Autosaves/Game/Modeling_Skeleton_Auto3.uasset'
+[2019.06.09-06.02.14:333][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BS_CrouchWalk] ([1] browsable assets)...
+[2019.06.09-06.02.14:342][262]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/BS_CrouchWalk.BS_CrouchWalk]
+[2019.06.09-06.02.14:342][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/BS_CrouchWalk]
+[2019.06.09-06.02.14:342][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BS_CrouchWalk" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Saved/Autosaves/Game/BS_CrouchWalk_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.06.09-06.02.14:354][262]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/BS_CrouchWalk_Auto3ACC4E4144E7E02B429EB3C8CB76BD7BA.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Autosaves/Game/BS_CrouchWalk_Auto3.uasset'
+[2019.06.09-06.02.14:355][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Crouch_Walk_Bwd_Rifle_Hip] ([1] browsable assets)...
+[2019.06.09-06.02.14:364][262]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip]
+[2019.06.09-06.02.14:364][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Crouch_Walk_Bwd_Rifle_Hip]
+[2019.06.09-06.02.14:376][262]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Crouch_Walk_Bwd_Rifle_Hip_Auto3A0FFF92F400549621BD60686AD38ED37.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Autosaves/Game/Crouch_Walk_Bwd_Rifle_Hip_Auto3.uasset'
+[2019.06.09-06.02.14:379][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Crouch_Walk_Lt_Rifle_Hip] ([1] browsable assets)...
+[2019.06.09-06.02.14:387][262]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip]
+[2019.06.09-06.02.14:387][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Crouch_Walk_Lt_Rifle_Hip]
+[2019.06.09-06.02.14:387][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crouch_Walk_Lt_Rifle_Hip" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Saved/Autosaves/Game/Crouch_Walk_Lt_Rifle_Hip_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.06.09-06.02.14:402][262]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Crouch_Walk_Lt_Rifle_Hip_Auto3D59527B84C932CFC00603AB8652ACC24.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Autosaves/Game/Crouch_Walk_Lt_Rifle_Hip_Auto3.uasset'
+[2019.06.09-06.02.14:403][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Crouch_Walk_Fwd_Rifle_Hip] ([1] browsable assets)...
+[2019.06.09-06.02.14:411][262]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip]
+[2019.06.09-06.02.14:411][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Crouch_Walk_Fwd_Rifle_Hip]
+[2019.06.09-06.02.14:423][262]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Crouch_Walk_Fwd_Rifle_Hip_Auto38E18B0D84826C1DC5FBC289906085404.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Autosaves/Game/Crouch_Walk_Fwd_Rifle_Hip_Auto3.uasset'
+[2019.06.09-06.02.14:424][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Crouch_Walk_Rt_Rifle_Hip] ([1] browsable assets)...
+[2019.06.09-06.02.14:433][262]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip]
+[2019.06.09-06.02.14:433][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Crouch_Walk_Rt_Rifle_Hip]
+[2019.06.09-06.02.14:433][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crouch_Walk_Rt_Rifle_Hip" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Saved/Autosaves/Game/Crouch_Walk_Rt_Rifle_Hip_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.06.09-06.02.14:444][262]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Crouch_Walk_Rt_Rifle_Hip_Auto30E8BEEB54D7E386A0413C1BF40410C06.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Autosaves/Game/Crouch_Walk_Rt_Rifle_Hip_Auto3.uasset'
+[2019.06.09-06.02.14:445][262]LogFileHelpers: Auto-saving content packages took 0.160
+[2019.06.09-06.05.18:654][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.09-06.05.26:924][932]LogMaterial: Display: Missing cached shader map for material 01_-_Default, compiling. 
+[2019.06.09-06.05.26:950][932]LogMaterial: Display: Missing cached shader map for material 02_-_Default, compiling. 
+[2019.06.09-06.05.26:976][932]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.06.09-06.05.26:976][932]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.06.09-06.05.26:976][932]LogMaterial: Display: Missing cached shader map for material 03_-_Default, compiling. 
+[2019.06.09-06.05.27:016][932]LogBlueprint: Warning: [Compiler Player] PlayerStateMachine  입구 노드가 스테이트에 연결되지 않았습니다.
+[2019.06.09-06.05.27:016][932]LogBlueprint: Warning: [Compiler Player] PlayerStateMachine  에 입구 스테이트 연결이 없습니다.
+[2019.06.09-06.05.27:017][932]LogBlueprint: Warning: [Compiler Player] [2312.17] Player 컴파일에 성공했습니다만, 경고가 2 회 있습니다. [소요시간 1 ms] (/Game/Player/Player.Player)
+[2019.06.09-06.05.27:019][932]LogBlueprint: Warning: [Compiler Player] PlayerStateMachine  입구 노드가 스테이트에 연결되지 않았습니다.
+[2019.06.09-06.05.27:019][932]LogBlueprint: Warning: [Compiler Player] PlayerStateMachine  에 입구 스테이트 연결이 없습니다.
+[2019.06.09-06.05.27:019][932]LogBlueprint: Warning: [Compiler Player] [2312.17] Player 컴파일에 성공했습니다만, 경고가 2 회 있습니다. [소요시간 1 ms] (/Game/Player/Player.Player)
+[2019.06.09-06.05.28:359][ 80]LogShaderCompilers: Display: Shaders left to compile 160
+[2019.06.09-06.05.29:285][180]LogShaderCompilers: Display: Shaders left to compile 150
+[2019.06.09-06.05.29:835][245]LogShaderCompilers: Display: Shaders left to compile 140
+[2019.06.09-06.05.31:263][396]LogShaderCompilers: Display: Shaders left to compile 130
+[2019.06.09-06.05.31:326][403]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.06.09-06.05.32:553][537]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.06.09-06.05.33:200][605]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.06.09-06.05.34:651][768]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.06.09-06.05.34:689][772]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.06.09-06.05.36:121][927]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.06.09-06.05.36:631][988]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.06.09-06.05.37:731][ 58]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.06.09-06.05.37:848][ 58]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.06.09-06.05.38:987][ 58]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.09-06.05.39:367][ 58]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.09-06.05.39:574][ 58]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.09-06.05.39:578][ 58]LogSlate: Window 'Player' being destroyed
+[2019.06.09-06.05.40:559][ 58]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.09-06.05.49:808][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/01_-_Default" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/01_-_Default.uasset" SILENT=true
+[2019.06.09-06.05.49:820][102]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/01_-_DefaultBAEBD069441D498690DC84A13E905C06.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/01_-_Default.uasset'
+[2019.06.09-06.05.49:831][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/02_-_Default" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/02_-_Default.uasset" SILENT=true
+[2019.06.09-06.05.49:843][102]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/02_-_Default2129653740A71BDD228A5A9810DE2FDB.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/02_-_Default.uasset'
+[2019.06.09-06.05.49:855][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/03_-_Default" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/03_-_Default.uasset" SILENT=true
+[2019.06.09-06.05.49:869][102]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/03_-_Default63B8382441C4E1884655CAA1BF53353B.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/03_-_Default.uasset'
+[2019.06.09-06.05.49:881][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Modeling" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/Modeling.uasset" SILENT=true
+[2019.06.09-06.05.49:896][102]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Modeling568B0F2A436FE1E201C7B7812E8AA29D.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/Modeling.uasset'
+[2019.06.09-06.05.49:908][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Modeling_PhysicsAsset" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/Modeling_PhysicsAsset.uasset" SILENT=true
+[2019.06.09-06.05.49:922][102]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Modeling_PhysicsAssetCE5EE41947774D563DA82CB27CD6843A.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/Modeling_PhysicsAsset.uasset'
+[2019.06.09-06.05.49:926][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Modeling_Skeleton" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/Modeling_Skeleton.uasset" SILENT=true
+[2019.06.09-06.05.49:933][102]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Modeling_Skeleton7E5653384C6DD18759944CA99F5DA63A.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/Modeling_Skeleton.uasset'
+[2019.06.09-06.05.50:452][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/Player.uasset" SILENT=true
+[2019.06.09-06.05.50:486][102]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Player13B38F974FEB7C8CAFB5A6857D049634.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/Player.uasset'
+[2019.06.09-06.05.55:219][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Chracter/01_-_Default" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/Chracter/01_-_Default.uasset" SILENT=true
+[2019.06.09-06.05.55:231][655]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/01_-_Default3DDC82D542CCC4F0A79CB98228D82B07.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/Chracter/01_-_Default.uasset'
+[2019.06.09-06.05.55:243][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Chracter/02_-_Default" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/Chracter/02_-_Default.uasset" SILENT=true
+[2019.06.09-06.05.55:255][655]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/02_-_Default8E42030245FE6C113E53E2AD4F5590F0.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/Chracter/02_-_Default.uasset'
+[2019.06.09-06.05.55:267][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Chracter/03_-_Default" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/Chracter/03_-_Default.uasset" SILENT=true
+[2019.06.09-06.05.55:281][655]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/03_-_Default582E08984EE67667AA941E97EE318A1B.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/Chracter/03_-_Default.uasset'
+[2019.06.09-06.05.55:293][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Chracter/Modeling" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/Chracter/Modeling.uasset" SILENT=true
+[2019.06.09-06.05.55:307][655]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/ModelingCA5971E441D1AB1F5475F98E30E4EDD4.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/Chracter/Modeling.uasset'
+[2019.06.09-06.05.55:319][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Chracter/Modeling_PhysicsAsset" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/Chracter/Modeling_PhysicsAsset.uasset" SILENT=true
+[2019.06.09-06.05.55:333][655]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Modeling_PhysicsAssetA0920C534BF3EB2D9EF19A83821C6178.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/Chracter/Modeling_PhysicsAsset.uasset'
+[2019.06.09-06.05.55:338][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Chracter/Modeling_Skeleton" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/Chracter/Modeling_Skeleton.uasset" SILENT=true
+[2019.06.09-06.05.55:345][655]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Modeling_Skeleton7A53B16E4230617603CF9985741EE938.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/Chracter/Modeling_Skeleton.uasset'
+[2019.06.09-06.05.55:821][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/Player.uasset" SILENT=true
+[2019.06.09-06.05.55:849][655]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/PlayerBEA6D43F4740FA90D9CA74B0689BFD90.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/Player.uasset'
+[2019.06.09-06.06.03:065][506]LogMetaData: Removing '/Game/Player/Player.Player:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Player.PackageMetaData'
+[2019.06.09-06.06.03:065][506]LogMetaData: Removing '/Game/Player/Player.SKEL_Player_C' ref from Metadata '/Game/Player.PackageMetaData'
+[2019.06.09-06.06.03:065][506]LogMetaData: Removing '/Game/Player/Player.Player_C' ref from Metadata '/Game/Player.PackageMetaData'
+[2019.06.09-06.06.03:066][506]LogMetaData: Removing '/Game/Player/Player.Player:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Player.PackageMetaData'
+[2019.06.09-06.06.03:066][506]LogMetaData: Removing '/Game/Player/Player.Player:AnimGraph.AnimGraphNode_StateMachine_0.PlayerStateMachine.AnimStateEntryNode_0' ref from Metadata '/Game/Player.PackageMetaData'
+[2019.06.09-06.06.03:066][506]LogMetaData: Removing '/Game/Player/Player.SKEL_Player_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Player.PackageMetaData'
+[2019.06.09-06.06.03:086][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BS_CrouchWalk" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/BS_CrouchWalk.uasset" SILENT=true
+[2019.06.09-06.06.03:099][506]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/BS_CrouchWalkE979AB5845E45715C82425B870B1C892.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/BS_CrouchWalk.uasset'
+[2019.06.09-06.06.03:110][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Crouch_Walk_Bwd_Rifle_Hip" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/Crouch_Walk_Bwd_Rifle_Hip.uasset" SILENT=true
+[2019.06.09-06.06.03:122][506]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Crouch_Walk_Bwd_Rifle_Hip4A5A9F1A40B8BC9804573EB4F48A4A83.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/Crouch_Walk_Bwd_Rifle_Hip.uasset'
+[2019.06.09-06.06.03:133][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Crouch_Walk_Fwd_Rifle_Hip" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/Crouch_Walk_Fwd_Rifle_Hip.uasset" SILENT=true
+[2019.06.09-06.06.03:145][506]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Crouch_Walk_Fwd_Rifle_Hip6F74D6104213F46229491D8D74586F50.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/Crouch_Walk_Fwd_Rifle_Hip.uasset'
+[2019.06.09-06.06.03:159][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Crouch_Walk_Lt_Rifle_Hip" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/Crouch_Walk_Lt_Rifle_Hip.uasset" SILENT=true
+[2019.06.09-06.06.03:172][506]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Crouch_Walk_Lt_Rifle_Hip783C720C45F04145E147378E0BD428EE.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/Crouch_Walk_Lt_Rifle_Hip.uasset'
+[2019.06.09-06.06.03:184][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Crouch_Walk_Rt_Rifle_Hip" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/Crouch_Walk_Rt_Rifle_Hip.uasset" SILENT=true
+[2019.06.09-06.06.03:196][506]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Crouch_Walk_Rt_Rifle_Hip7F685F2E45B9391A83C01B961A6C027C.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/Crouch_Walk_Rt_Rifle_Hip.uasset'
+[2019.06.09-06.06.03:207][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Player" FILE="C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/Player.uasset" SILENT=true
+[2019.06.09-06.06.03:223][506]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Sample/Saved/Player7813A6EA4AF14FDA5AD9F5B1D99D14A2.tmp' to 'C:/Users/User/Documents/Unreal Projects/Sample/Content/Player/Player.uasset'
+[2019.06.09-06.06.05:452][711]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Player/Player.Player
+[2019.06.09-06.06.05:460][711]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.09-06.06.05:663][711]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.09-06.06.05:959][711]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.09-06.06.24:905][946]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint
+[2019.06.09-06.06.24:913][946]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_70:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.09-06.06.25:116][946]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_70:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.09-06.06.25:434][946]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.09-06.10.58:820][ 64]LogSlate: Took 0.035014 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.06.09-06.13.03:510][499]BlueprintLog: New page: Player 컴파일
+[2019.06.09-06.13.03:514][499]LogBlueprint: Warning: [Compiler Player] PlayerStateMachine  입구 노드가 스테이트에 연결되지 않았습니다.
+[2019.06.09-06.13.03:514][499]LogBlueprint: Warning: [Compiler Player] PlayerStateMachine  에 입구 스테이트 연결이 없습니다.
+[2019.06.09-06.13.03:631][499]LogBlueprint: Warning: [Compiler Player] [2768.78] Player 컴파일에 성공했습니다만, 경고가 2 회 있습니다. [소요시간 120 ms] (/Game/Player/Player.Player)
+[2019.06.09-06.14.01:239][249]BlueprintLog: New page: Player 컴파일
+[2019.06.09-06.14.01:256][249]LogBlueprint: Warning: [Compiler Player] PlayerStateMachine  입구 노드가 스테이트에 연결되지 않았습니다.
+[2019.06.09-06.14.01:256][249]LogBlueprint: Warning: [Compiler Player] PlayerStateMachine  에 입구 스테이트 연결이 없습니다.
+[2019.06.09-06.14.01:374][249]LogBlueprint: Warning: [Compiler Player] [2826.52] Player 컴파일에 성공했습니다만, 경고가 2 회 있습니다. [소요시간 134 ms] (/Game/Player/Player.Player)
+[2019.06.09-06.14.31:913][102]BlueprintLog: New page: Player 컴파일
+[2019.06.09-06.14.31:979][102]LogBlueprint: Warning: [Compiler Player] PlayerStateMachine  입구 노드가 스테이트에 연결되지 않았습니다.
+[2019.06.09-06.14.31:979][102]LogBlueprint: Error: [Compiler Player] 블렌드스페이스 플레이어 'BS_Jog'  references blendspace that uses different skeleton  BaseSkeleton
+[2019.06.09-06.14.31:980][102]LogBlueprint: Error: [Compiler Player] Jump_From_Stand 재생  references sequence that uses different skeleton  BaseSkeleton
+[2019.06.09-06.14.31:980][102]LogBlueprint: Error: [Compiler Player] Jump_From_Jog 재생  references sequence that uses different skeleton  BaseSkeleton
+[2019.06.09-06.14.31:980][102]LogBlueprint: Error: [Compiler Player] Idle_Rifle_Hip 재생  references sequence that uses different skeleton  BaseSkeleton
+[2019.06.09-06.14.31:980][102]LogBlueprint: Error: [Compiler Player] Crouch_Idle_Rifle_Hip 재생  references sequence that uses different skeleton  BaseSkeleton
+[2019.06.09-06.14.31:981][102]LogBlueprint: Error: [Compiler Player] 블렌드스페이스 플레이어 'BS_CrouchWalk'  references blendspace that uses different skeleton  BaseSkeleton
+[2019.06.09-06.14.31:981][102]LogBlueprint: Error: [Compiler Player] Death_1 재생  references sequence that uses different skeleton  BaseSkeleton
+[2019.06.09-06.14.31:981][102]LogBlueprint: Error: [Compiler Player] MOB1_Crouch_Idle_V2_IPC 재생  references sequence that uses different skeleton  BaseSkeleton
+[2019.06.09-06.14.31:981][102]LogBlueprint: Error: [Compiler Player] MOB1_CrouchWalk_F_IPC 재생  references sequence that uses different skeleton  BaseSkeleton
+[2019.06.09-06.14.31:982][102]LogBlueprint: Error: [Compiler Player] ThirdPersonJump_Start 재생  references sequence that uses different skeleton  BaseSkeleton
+[2019.06.09-06.14.31:982][102]LogBlueprint: Error: [Compiler Player] ThirdPersonJump_Loop 재생  references sequence that uses different skeleton  BaseSkeleton
+[2019.06.09-06.14.31:982][102]LogBlueprint: Error: [Compiler Player] ThirdPersonJump_End 재생  references sequence that uses different skeleton  BaseSkeleton
+[2019.06.09-06.14.31:982][102]LogBlueprint: Error: [Compiler Player] 블렌드스페이스 플레이어 'ThirdPerson_IdleRun_2D'  references blendspace that uses different skeleton  BaseSkeleton
+[2019.06.09-06.14.31:983][102]LogBlueprint: Error: [Compiler Player] MOB1_Stand_Relaxed_Death_B 재생  references sequence that uses different skeleton  BaseSkeleton
+[2019.06.09-06.14.31:986][102]LogBlueprint: Error: [Compiler Player] ICE: Player node  Jump_From_Stand 재생  was not processed prior to handling a transition getter  Jump_From_Stand 애셋  that used it
+[2019.06.09-06.14.31:986][102]LogBlueprint: Error: [Compiler Player] ICE: Player node  Jump_From_Jog 재생  was not processed prior to handling a transition getter  Jump_From_Jog 애셋  that used it
+[2019.06.09-06.14.31:991][102]LogBlueprint: Error: [Compiler Player] 노드 링크 검색 도중 AnimGraphNode_BlendSpacePlayer_42 에 대한 할당 노드를 찾지 못했습니다 - 노드에 미해결 오류가 있는 것 같습니다.
+[2019.06.09-06.14.31:991][102]LogBlueprint: Error: [Compiler Player] 노드 링크 검색 도중 AnimGraphNode_SequencePlayer_100 에 대한 할당 노드를 찾지 못했습니다 - 노드에 미해결 오류가 있는 것 같습니다.
+[2019.06.09-06.14.31:991][102]LogBlueprint: Error: [Compiler Player] 노드 링크 검색 도중 AnimGraphNode_SequencePlayer_222 에 대한 할당 노드를 찾지 못했습니다 - 노드에 미해결 오류가 있는 것 같습니다.
+[2019.06.09-06.14.31:991][102]LogBlueprint: Error: [Compiler Player] 노드 링크 검색 도중 AnimGraphNode_SequencePlayer_39 에 대한 할당 노드를 찾지 못했습니다 - 노드에 미해결 오류가 있는 것 같습니다.
+[2019.06.09-06.14.31:991][102]LogBlueprint: Error: [Compiler Player] 노드 링크 검색 도중 AnimGraphNode_SequencePlayer_170 에 대한 할당 노드를 찾지 못했습니다 - 노드에 미해결 오류가 있는 것 같습니다.
+[2019.06.09-06.14.31:991][102]LogBlueprint: Error: [Compiler Player] 노드 링크 검색 도중 AnimGraphNode_BlendSpacePlayer_48 에 대한 할당 노드를 찾지 못했습니다 - 노드에 미해결 오류가 있는 것 같습니다.
+[2019.06.09-06.14.31:991][102]LogBlueprint: Error: [Compiler Player] 노드 링크 검색 도중 AnimGraphNode_SequencePlayer_0 에 대한 할당 노드를 찾지 못했습니다 - 노드에 미해결 오류가 있는 것 같습니다.
+[2019.06.09-06.14.31:991][102]LogBlueprint: Error: [Compiler Player] 노드 링크 검색 도중 AnimGraphNode_SequencePlayer_0 에 대한 할당 노드를 찾지 못했습니다 - 노드에 미해결 오류가 있는 것 같습니다.
+[2019.06.09-06.14.31:991][102]LogBlueprint: Error: [Compiler Player] 노드 링크 검색 도중 AnimGraphNode_SequencePlayer_1 에 대한 할당 노드를 찾지 못했습니다 - 노드에 미해결 오류가 있는 것 같습니다.
+[2019.06.09-06.14.31:991][102]LogBlueprint: Error: [Compiler Player] 노드 링크 검색 도중 AnimGraphNode_SequencePlayer_0 에 대한 할당 노드를 찾지 못했습니다 - 노드에 미해결 오류가 있는 것 같습니다.
+[2019.06.09-06.14.31:991][102]LogBlueprint: Error: [Compiler Player] 노드 링크 검색 도중 AnimGraphNode_SequencePlayer_5 에 대한 할당 노드를 찾지 못했습니다 - 노드에 미해결 오류가 있는 것 같습니다.
+[2019.06.09-06.14.31:991][102]LogBlueprint: Error: [Compiler Player] 노드 링크 검색 도중 AnimGraphNode_SequencePlayer_6 에 대한 할당 노드를 찾지 못했습니다 - 노드에 미해결 오류가 있는 것 같습니다.
+[2019.06.09-06.14.31:991][102]LogBlueprint: Error: [Compiler Player] 노드 링크 검색 도중 AnimGraphNode_BlendSpacePlayer_0 에 대한 할당 노드를 찾지 못했습니다 - 노드에 미해결 오류가 있는 것 같습니다.
+[2019.06.09-06.14.31:991][102]LogBlueprint: Error: [Compiler Player] 노드 링크 검색 도중 AnimGraphNode_SequencePlayer_1 에 대한 할당 노드를 찾지 못했습니다 - 노드에 미해결 오류가 있는 것 같습니다.
+[2019.06.09-06.14.31:994][102]LogBlueprint: Error: [Compiler Player] Jump_From_Stand 애셋  에서 예상치 못한 K2Node_TransitionRuleGetter 노드 유형을 접했습니다.
+[2019.06.09-06.14.31:994][102]LogBlueprint: Error: [Compiler Player] Jump_From_Jog 애셋  에서 예상치 못한 K2Node_TransitionRuleGetter 노드 유형을 접했습니다.
+[2019.06.09-06.14.31:995][102]LogBlueprint: Error: [Compiler Player] Jump_From_Jog 애셋  에서 예상치 못한 K2Node_TransitionRuleGetter 노드 유형을 접했습니다.
+[2019.06.09-06.14.31:995][102]LogBlueprint: Error: [Compiler Player] Jump_From_Stand 애셋  에서 예상치 못한 K2Node_TransitionRuleGetter 노드 유형을 접했습니다.
+[2019.06.09-06.14.32:261][102]LogBlueprint: Warning: [Compiler Player] [2857.41] Player 컴파일에 실패했습니다. 치명적 오류 34 회, 경고 1 회, [소요시간 346 ms] (/Game/Player/Player.Player)
+[2019.06.09-06.14.59:122][168]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/AnimStarterPack/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+[2019.06.09-06.14.59:126][168]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_72:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.09-06.14.59:160][168]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_72:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.09-06.14.59:478][168]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.09-06.15.05:365][418]LogSlate: Window 'ThirdPerson_IdleRun_2D' being destroyed
+[2019.06.09-06.15.05:368][418]LogSlate: Window 'ThirdPerson_IdleRun_2D' being destroyed
+[2019.06.09-06.15.08:927][748]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.06.09-06.15.13:031][220]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MOB1_Stand_Relaxed_Fgt_v4_IPC.MOB1_Stand_Relaxed_Fgt_v4_IPC
+[2019.06.09-06.15.13:031][220]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.MOB1_Stand_Relaxed_Fgt_v4_IPC) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-06.15.13:037][220]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonWalk.ThirdPersonWalk
+[2019.06.09-06.15.13:037][220]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonWalk) using current/default (AnimCompress_RemoveLinearKeys_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-06.15.13:050][220]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonRun.ThirdPersonRun
+[2019.06.09-06.15.13:050][220]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonRun) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-06.15.13:055][220]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MOB1_Stand_Relaxed_Fgt_v4_IPC.MOB1_Stand_Relaxed_Fgt_v4_IPC
+[2019.06.09-06.15.13:056][220]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_17) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-06.15.13:058][220]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonWalk.ThirdPersonWalk
+[2019.06.09-06.15.13:058][220]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_18) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-06.15.13:067][220]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonRun.ThirdPersonRun
+[2019.06.09-06.15.13:067][220]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_19) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-06.15.13:077][220]LogSlate: Window '스켈레톤 선택' being destroyed
+[2019.06.09-06.15.15:621][508]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/MOB1_Stand_Relaxed_Fgt_v4_IPC.MOB1_Stand_Relaxed_Fgt_v4_IPC
+[2019.06.09-06.15.15:627][508]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_76:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.09-06.15.15:667][508]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_76:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.09-06.15.15:981][508]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.09-06.15.19:911][895]LogSlate: Window 'MOB1_Stand_Relaxed_Fgt_v4_IPC*' being destroyed
+[2019.06.09-06.15.19:916][895]LogSlate: Window 'MOB1_Stand_Relaxed_Fgt_v4_IPC*' being destroyed
+[2019.06.09-06.15.20:777][976]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+[2019.06.09-06.15.20:782][976]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_79:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.09-06.15.20:822][976]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_79:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.09-06.15.21:114][976]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.09-06.15.23:925][259]LogSlate: Window 'ThirdPerson_IdleRun_2D*' being destroyed
+[2019.06.09-06.15.23:929][259]LogSlate: Window 'ThirdPerson_IdleRun_2D*' being destroyed
+[2019.06.09-06.15.25:770][462]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ThirdPersonRun.ThirdPersonRun
+[2019.06.09-06.15.25:775][462]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_81:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.09-06.15.25:814][462]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_81:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.09-06.15.26:128][462]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.09-06.15.41:632][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.09-06.15.41:799][955]LogSlate: Window 'ThirdPersonRun*' being destroyed
+[2019.06.09-06.15.41:803][955]LogSlate: Window 'ThirdPersonRun*' being destroyed
+[2019.06.09-06.15.58:558][909]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/Player/BS_CrouchWalk.BS_CrouchWalk
+[2019.06.09-06.15.58:563][909]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_84:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.09-06.15.58:602][909]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_84:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.09-06.15.58:934][909]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.09-06.16.10:761][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.09-06.16.10:842][202]LogSlate: Window 'BS_CrouchWalk' being destroyed
+[2019.06.09-06.16.10:845][202]LogSlate: Window 'BS_CrouchWalk' being destroyed
+[2019.06.09-06.16.13:733][520]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Aim_Space_Hip.Aim_Space_Hip
+[2019.06.09-06.16.13:733][520]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Aim_Space_Hip.Aim_Space_Hip) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.09-06.16.13:740][520]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Aim_Space_Hip.Aim_Space_Hip
+[2019.06.09-06.16.13:746][520]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_86:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.09-06.16.13:785][520]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_86:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.09-06.16.14:134][520]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.09-06.16.19:742][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.09-06.16.19:829][ 83]LogSlate: Window 'Aim_Space_Hip' being destroyed
+[2019.06.09-06.16.19:833][ 83]LogSlate: Window 'Aim_Space_Hip' being destroyed
+[2019.06.09-06.16.22:878][420]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/Player/BS_CrouchWalk.BS_CrouchWalk
+[2019.06.09-06.16.22:884][420]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_89:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.09-06.16.22:923][420]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_89:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.09-06.16.23:255][420]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.09-06.16.38:547][ 85]LogSlate: Window 'BS_CrouchWalk' being destroyed
+[2019.06.09-06.16.38:551][ 85]LogSlate: Window 'BS_CrouchWalk' being destroyed
+[2019.06.09-06.16.48:757][266]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AnimStarterPack/Player_Character.Player_Character
+[2019.06.09-06.17.02:060][407]LogAnimation: Warning: AnimBP UE4ASP_HeroTPP_AnimBlueprint_C is incompatible with skeleton Modeling_Skeleton, removing AnimBP from actor.
+[2019.06.09-06.17.02:060][407]LogAnimation: Warning: AnimBP UE4ASP_HeroTPP_AnimBlueprint_C is incompatible with skeleton Modeling_Skeleton, removing AnimBP from actor.
+[2019.06.09-06.17.02:061][407]LogAnimation: Warning: AnimBP UE4ASP_HeroTPP_AnimBlueprint_C is incompatible with skeleton Modeling_Skeleton, removing AnimBP from actor.
+[2019.06.09-06.17.02:061][407]LogAnimation: Warning: AnimBP UE4ASP_HeroTPP_AnimBlueprint_C is incompatible with skeleton Modeling_Skeleton, removing AnimBP from actor.
+[2019.06.09-06.17.10:029][277]LogEditorTransaction: Undo 컴포넌트 변경
+[2019.06.09-06.17.10:360][277]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.324 s
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: === Handled ensure: ===
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: 
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2103]
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: 
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: Stack: 
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: [Callstack] 0x00007ffe369f71f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: [Callstack] 0x00007ffe36730c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: [Callstack] 0x00007ffe3674b356 UE4Editor-Core.dll!UnknownFunction []
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: [Callstack] 0x00007ffe1a43f1e8 UE4Editor-Engine.dll!UnknownFunction []
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: [Callstack] 0x00007ffe23de4c25 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: [Callstack] 0x00007ffe23e101fb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: [Callstack] 0x00007ffe23df6535 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: [Callstack] 0x00007ffe23e62dc5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: [Callstack] 0x00007ffe23ea9b6d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: [Callstack] 0x00007ffe23e3c81f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: [Callstack] 0x00007ffe287005b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: [Callstack] 0x00007ffe45f224df UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: [Callstack] 0x00007ffe45f6437e UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: [Callstack] 0x00007ffe24475178 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: [Callstack] 0x00007ffe45ee70ac UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: [Callstack] 0x00007ffe45f6606c UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: [Callstack] 0x00007ffe45f59846 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: [Callstack] 0x00007ffe6eb4ce45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: [Callstack] 0x00007ffe6eb40270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: [Callstack] 0x00007ffe6eb4f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: [Callstack] 0x00007ffe6eb3c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: [Callstack] 0x00007ffe7a5f6d41 USER32.dll!UnknownFunction []
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: [Callstack] 0x00007ffe7a5f6713 USER32.dll!UnknownFunction []
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: [Callstack] 0x00007ffe6eb50646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: [Callstack] 0x00007ff6ae1a54e5 UE4Editor.exe!UnknownFunction []
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: [Callstack] 0x00007ff6ae1b5b3c UE4Editor.exe!UnknownFunction []
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: [Callstack] 0x00007ff6ae1b5bba UE4Editor.exe!UnknownFunction []
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: [Callstack] 0x00007ff6ae1c3dac UE4Editor.exe!UnknownFunction []
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: [Callstack] 0x00007ff6ae1c5aaa UE4Editor.exe!UnknownFunction []
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: [Callstack] 0x00007ffe7c444034 KERNEL32.DLL!UnknownFunction []
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: [Callstack] 0x00007ffe7c633691 ntdll.dll!UnknownFunction []
+[2019.06.09-06.17.10:360][277]LogOutputDevice: Error: 
+[2019.06.09-06.17.10:361][277]LogStats:                SubmitErrorReport -  0.000 s
